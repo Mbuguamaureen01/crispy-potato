@@ -8,7 +8,7 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
 ## Features
 
 - Multi-source scraping
-- Remote-only filter (remote, worldwide, work from anywhere, etc.)
+- Remote/global filter with Kenya allowance (remote, worldwide, work from anywhere, or Kenya)
 - Tech + quant focus (SWE, data, MLE, quant, trading systems)
 - Automated updates via GitHub Actions
 - CSV and JSON exports
@@ -24,6 +24,9 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
 | LinkedIn | Public Search | Optional |
 | GradConnection (AU) | Web Scraping | Active |
 | AusJobs (GitHub) | Curated list | Active |
+| RemoteOK | Public API | Active |
+| Remotive | Public API | Active |
+| WeWorkRemotely | RSS | Active |
 
 ## Quick Setup
 
@@ -40,6 +43,7 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
 
 - Role keywords: edit JOB_KEYWORDS in scraper.py
 - Remote filter terms: edit REMOTE_KEYWORDS in scraper.py
+- Kenya terms: edit KENYA_KEYWORDS in scraper.py
 - Schedule: edit .github/workflows/fetch-jobs.yml
 
 ## Output Files
@@ -69,7 +73,7 @@ python scraper.py --merge
 ## Notes
 
 - If Adzuna keys are not set, the scraper skips Adzuna and still runs.
-- Remote-only filtering is keyword-based, so ensure your REMOTE_KEYWORDS list is tuned.
+- Remote filtering is keyword-based, so ensure REMOTE_KEYWORDS and KENYA_KEYWORDS are tuned.
 
 ## License
 

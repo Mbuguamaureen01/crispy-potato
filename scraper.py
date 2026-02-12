@@ -13,6 +13,7 @@ import sys
 from datetime import datetime
 from urllib.parse import urljoin, urlparse, parse_qs
 import requests
+import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -41,7 +42,7 @@ JOB_KEYWORDS = [
     'mle', 'machine learning engineer', 'applied scientist',
 ]
 
-# Remote-only keywords - must match at least one
+# Remote/global keywords - must match at least one
 REMOTE_KEYWORDS = [
     'remote',
     'fully remote',
@@ -52,6 +53,15 @@ REMOTE_KEYWORDS = [
     'global',
     'worldwide',
     'distributed',
+]
+
+# Kenya keywords for relaxed filter
+KENYA_KEYWORDS = [
+    'kenya',
+    'nairobi',
+    'mombasa',
+    'kisumu',
+    'nakuru',
 ]
 
 def generate_job_id(title, company, url):
@@ -71,10 +81,10 @@ def is_valid_job_title(title):
     title_lower = title.lower()
     return any(kw in title_lower for kw in JOB_KEYWORDS)
 
-def is_remote_role(location, title="", url=""):
-    """Check if role is explicitly remote/anywhere."""
+def is_acceptable_location(location, title="", url=""):
+    """Allow remote/global roles or Kenya-based roles."""
     check_text = f"{location} {title} {url}".lower()
-    return any(kw in check_text for kw in REMOTE_KEYWORDS)
+    return any(kw in check_text for kw in REMOTE_KEYWORDS) or any(kw in check_text for kw in KENYA_KEYWORDS)
 
 def is_direct_job_url(url):
     """Check if URL is a direct job posting, not a generic careers page."""
@@ -249,7 +259,7 @@ def scrape_seek():
                         continue
                     
                     # Verify remote role
-                    if not is_remote_role(location, title, link):
+                    if not is_acceptable_location(location, title, link):
                         continue
                     
                     jobs.append({
@@ -344,7 +354,7 @@ def scrape_adzuna_api():
                         continue
 
                     # Verify remote role
-                    if not is_remote_role(location, title, link):
+                    if not is_acceptable_location(location, title, link):
                         continue
 
                     salary = ""
@@ -367,6 +377,147 @@ def scrape_adzuna_api():
             except Exception:
                 continue
     
+    print(f"  Found {len(jobs)} jobs")
+    return jobs
+
+def scrape_remoteok():
+    """Scrape RemoteOK API for remote roles."""
+    print("ðŸ” Scraping RemoteOK API...")
+    jobs = []
+
+    try:
+        api_url = "https://remoteok.io/api"
+        response = requests.get(api_url, headers=HEADERS, timeout=20)
+        if response.status_code != 200:
+            return jobs
+
+        data = response.json()
+        for item in data:
+            if not isinstance(item, dict):
+                continue
+            if item.get("legal"):
+                continue
+
+            title = clean_text(item.get("position", ""))
+            company = clean_text(item.get("company", ""))
+            link = item.get("url", "") or item.get("apply_url", "")
+            location = clean_text(item.get("location", "")) or "Remote"
+
+            if not title or not company or not link:
+                continue
+            if not is_valid_job_title(title):
+                continue
+            if not is_acceptable_location(location, title, link):
+                continue
+
+            jobs.append({
+                'id': generate_job_id(title, company, link),
+                'title': title,
+                'company': company,
+                'location': location,
+                'salary': '',
+                'url': link,
+                'source': 'RemoteOK',
+                'posted_date': item.get("date", "")[:10] if item.get("date") else datetime.now().strftime('%Y-%m-%d'),
+                'scraped_at': datetime.now().isoformat(),
+            })
+    except Exception:
+        pass
+
+    print(f"  Found {len(jobs)} jobs")
+    return jobs
+
+def scrape_remotive():
+    """Scrape Remotive public API for remote roles."""
+    print("ðŸ” Scraping Remotive API...")
+    jobs = []
+
+    try:
+        api_url = "https://remotive.com/api/remote-jobs"
+        response = requests.get(api_url, headers=HEADERS, timeout=20)
+        if response.status_code != 200:
+            return jobs
+
+        data = response.json()
+        for item in data.get("jobs", []):
+            title = clean_text(item.get("title", ""))
+            company = clean_text(item.get("company_name", ""))
+            link = item.get("url", "")
+            location = clean_text(item.get("candidate_required_location", "")) or "Remote"
+
+            if not title or not company or not link:
+                continue
+            if not is_valid_job_title(title):
+                continue
+            if not is_acceptable_location(location, title, link):
+                continue
+
+            jobs.append({
+                'id': generate_job_id(title, company, link),
+                'title': title,
+                'company': company,
+                'location': location,
+                'salary': '',
+                'url': link,
+                'source': 'Remotive',
+                'posted_date': item.get("publication_date", "")[:10] if item.get("publication_date") else datetime.now().strftime('%Y-%m-%d'),
+                'scraped_at': datetime.now().isoformat(),
+            })
+    except Exception:
+        pass
+
+    print(f"  Found {len(jobs)} jobs")
+    return jobs
+
+def scrape_weworkremotely():
+    """Scrape We Work Remotely RSS feed for programming roles."""
+    print("ðŸ” Scraping We Work Remotely RSS...")
+    jobs = []
+
+    try:
+        rss_url = "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+        response = requests.get(rss_url, headers=HEADERS, timeout=20)
+        if response.status_code != 200:
+            return jobs
+
+        root = ET.fromstring(response.text)
+        items = root.findall(".//item")
+        for item in items:
+            title = clean_text(item.findtext("title", default=""))
+            link = clean_text(item.findtext("link", default=""))
+            pub_date = clean_text(item.findtext("pubDate", default=""))
+
+            # Title format often "Company: Role"
+            company = ""
+            role = title
+            if ":" in title:
+                parts = title.split(":", 1)
+                company = clean_text(parts[0])
+                role = clean_text(parts[1])
+            else:
+                role = title
+
+            if not role or not link:
+                continue
+            if not is_valid_job_title(role):
+                continue
+            if not is_acceptable_location("Remote", role, link):
+                continue
+
+            jobs.append({
+                'id': generate_job_id(role, company, link),
+                'title': role,
+                'company': company if company else "WeWorkRemotely",
+                'location': "Remote",
+                'salary': '',
+                'url': link,
+                'source': 'WeWorkRemotely',
+                'posted_date': pub_date[:10] if pub_date else datetime.now().strftime('%Y-%m-%d'),
+                'scraped_at': datetime.now().isoformat(),
+            })
+    except Exception:
+        pass
+
     print(f"  Found {len(jobs)} jobs")
     return jobs
 
@@ -419,7 +570,7 @@ def scrape_linkedin_public():
                         continue
                     
                     # Verify remote role
-                    if not is_remote_role(location, title, link):
+                    if not is_acceptable_location(location, title, link):
                         continue
                     
                     # Verify job title
@@ -481,7 +632,7 @@ def scrape_gradconnection():
                     continue
                 
                 # Verify remote role
-                if not is_remote_role(location, title, link):
+                if not is_acceptable_location(location, title, link):
                     continue
                 
                 jobs.append({
@@ -508,7 +659,7 @@ def main():
     print("🇦🇺 Global Tech + Quant Job Scraper")
     print(f"🕐 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
-    print("Filters: Remote-only | Tech/Quant roles | Direct job URLs")
+    print("Filters: Remote/Global or Kenya | Tech/Quant roles | Direct job URLs")
     print("=" * 60)
     
     merge_mode = '--merge' in sys.argv
@@ -521,6 +672,9 @@ def main():
     all_jobs.extend(scrape_adzuna_api())
     all_jobs.extend(scrape_linkedin_public())
     all_jobs.extend(scrape_gradconnection())
+    all_jobs.extend(scrape_remoteok())
+    all_jobs.extend(scrape_remotive())
+    all_jobs.extend(scrape_weworkremotely())
     
     print(f"\n📊 Total jobs scraped: {len(all_jobs)}")
     
