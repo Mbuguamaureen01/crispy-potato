@@ -2,8 +2,8 @@
 
 An automated job aggregator that scrapes remote-friendly tech and quant roles and displays them on a GitHub Pages website.
 
-![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=length&url=https://Mbuguamaureen01.github.io/Anywhere-jobs-fetcher/jobs.json)
-![Workflow](https://img.shields.io/github/actions/workflow/status/Mbuguamaureen01/Anywhere-jobs-fetcher/fetch-jobs.yml?label=Scraper)
+![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=total_jobs&url=https://Mbuguamaureen01.github.io/crispy-potato/jobs.json)
+![Workflow](https://img.shields.io/github/actions/workflow/status/Mbuguamaureen01/crispy-potato/fetch-jobs.yml?label=Scraper)
 
 ## Features
 
@@ -37,7 +37,7 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
    - ADZUNA_APP_ID
    - ADZUNA_APP_KEY
 5. Run the workflow: Actions -> Fetch Global Jobs -> Run workflow.
-6. Visit: https://YOUR_USERNAME.github.io/Anywhere-jobs-fetcher/
+6. Visit: https://Mbuguamaureen01.github.io/crispy-potato/
 
 ## Configuration
 
@@ -56,8 +56,8 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/Anywhere-jobs-fetcher.git
-cd Anywhere-jobs-fetcher
+git clone https://github.com/Mbuguamaureen01/crispy-potato.git
+cd crispy-potato
 
 # Create virtual environment
 python -m venv venv
