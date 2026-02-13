@@ -2,7 +2,7 @@
 
 An automated job aggregator that scrapes remote-friendly tech and quant roles and displays them on a GitHub Pages website.
 
-![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=total_jobs&url=https://Mbuguamaureen01.github.io/crispy-potato/jobs.json)
+![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=%24.total_jobs&url=https%3A%2F%2FMbuguamaureen01.github.io%2Fcrispy-potato%2Fjobs.json)
 ![Workflow](https://img.shields.io/github/actions/workflow/status/Mbuguamaureen01/crispy-potato/fetch-jobs.yml?label=Scraper)
 
 ## Features

@@ -23,6 +23,18 @@ HEADERS = {
     "Accept-Language": "en-AU,en;q=0.9",
 }
 
+OUTPUT_COLUMNS = [
+    'id',
+    'title',
+    'company',
+    'location',
+    'salary',
+    'url',
+    'source',
+    'posted_date',
+    'scraped_at',
+]
+
 # Job title keywords - must match at least one
 JOB_KEYWORDS = [
     'software engineer', 'software developer', 'swe', 'sde',
@@ -693,24 +705,32 @@ def main():
     # Load existing and merge
     if merge_mode and os.path.exists('jobs.csv'):
         try:
-            existing = pd.read_csv('jobs.csv')
+            existing = pd.read_csv('jobs.csv', dtype=str, keep_default_na=False)
             df = pd.concat([df, existing], ignore_index=True)
             df = df.drop_duplicates(subset=['id'], keep='first')
             print(f"📂 Merged with existing data")
         except Exception:
             pass
+
+    # Enforce output schema to avoid stray columns/NaN from merged legacy files.
+    df = df.reindex(columns=OUTPUT_COLUMNS)
+    for col in OUTPUT_COLUMNS:
+        df[col] = df[col].fillna("").astype(str)
+    df = df[df['id'] != ""]
+    df = df.drop_duplicates(subset=['id'], keep='first')
+    df = df.sort_values('scraped_at', ascending=False)
     
     # Save CSV
-    df.to_csv('jobs.csv', index=False, quoting=csv.QUOTE_ALL)
+    df.to_csv('jobs.csv', index=False, quoting=csv.QUOTE_ALL, encoding='utf-8')
     print(f"✅ Saved {len(df)} jobs to jobs.csv")
     
     # Save JSON
-    with open('jobs.json', 'w') as f:
+    with open('jobs.json', 'w', encoding='utf-8') as f:
         json.dump({
             'last_updated': datetime.now().isoformat(),
             'total_jobs': len(df),
             'jobs': df.to_dict(orient='records')
-        }, f, indent=2)
+        }, f, indent=2, ensure_ascii=False, allow_nan=False)
     print(f"✅ Saved {len(df)} jobs to jobs.json")
     
     print("\n🏁 Done!")
