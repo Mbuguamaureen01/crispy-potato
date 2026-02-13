@@ -2,8 +2,8 @@
 
 An automated job aggregator that scrapes remote-friendly tech and quant roles and displays them on a GitHub Pages website.
 
-![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=length&url=https://YOUR_USERNAME.github.io/Anywhere-jobs-fetcher/jobs.json)
-![Workflow](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/Anywhere-jobs-fetcher/fetch-jobs.yml?label=Scraper)
+![Jobs](https://img.shields.io/badge/dynamic/json?color=success&label=Total%20Jobs&query=length&url=https://Mbuguamaureen01.github.io/Anywhere-jobs-fetcher/jobs.json)
+![Workflow](https://img.shields.io/github/actions/workflow/status/Mbuguamaureen01/Anywhere-jobs-fetcher/fetch-jobs.yml?label=Scraper)
 
 ## Features
 
