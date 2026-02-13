@@ -43,6 +43,9 @@ jobs:
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          MAX_JOB_AGE_HOURS: "24"
+          OPEN_CHECK_ENABLED: "true"
+          OPEN_CHECK_TIMEOUT: "6"
         run: |
           python scraper.py --merge
       

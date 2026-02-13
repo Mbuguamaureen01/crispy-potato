@@ -44,6 +44,8 @@ An automated job aggregator that scrapes remote-friendly tech and quant roles an
 - Role keywords: edit JOB_KEYWORDS in scraper.py
 - Remote filter terms: edit REMOTE_KEYWORDS in scraper.py
 - Kenya terms: edit KENYA_KEYWORDS in scraper.py
+- Recency window: set `MAX_JOB_AGE_HOURS` in `.github/workflows/fetch-jobs.yml` (for example `6` or `24`)
+- Open-job check: set `OPEN_CHECK_ENABLED` and `OPEN_CHECK_TIMEOUT` in `.github/workflows/fetch-jobs.yml`
 - Schedule: edit .github/workflows/fetch-jobs.yml
 
 ## Output Files

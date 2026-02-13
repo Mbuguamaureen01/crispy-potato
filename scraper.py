@@ -10,7 +10,8 @@ import json
 import hashlib
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import urljoin, urlparse, parse_qs
 import requests
 import xml.etree.ElementTree as ET
@@ -22,6 +23,18 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-AU,en;q=0.9",
 }
+
+try:
+    MAX_JOB_AGE_HOURS = int(os.environ.get("MAX_JOB_AGE_HOURS", "24"))
+except ValueError:
+    MAX_JOB_AGE_HOURS = 24
+
+OPEN_CHECK_ENABLED = os.environ.get("OPEN_CHECK_ENABLED", "true").strip().lower() in ("1", "true", "yes", "on")
+
+try:
+    OPEN_CHECK_TIMEOUT = int(os.environ.get("OPEN_CHECK_TIMEOUT", "6"))
+except ValueError:
+    OPEN_CHECK_TIMEOUT = 6
 
 OUTPUT_COLUMNS = [
     'id',
@@ -85,6 +98,88 @@ def clean_text(text):
     if not text:
         return ""
     return re.sub(r'\s+', ' ', str(text)).strip()
+
+def parse_datetime_utc(value):
+    """Parse supported datetime/date strings into UTC datetime."""
+    if not value:
+        return None
+
+    raw = clean_text(value)
+    if not raw:
+        return None
+
+    # ISO datetimes, optionally with Z suffix
+    try:
+        dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    # RFC-822 style strings (RSS)
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt is not None:
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    # Date-only fallback
+    for fmt in ("%Y-%m-%d", "%Y/%m/%d"):
+        try:
+            return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
+        except Exception:
+            continue
+
+    return None
+
+def is_recent_post(posted_dt, max_age_hours):
+    """Check if a posting falls within the recency window."""
+    if posted_dt is None:
+        return False
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=max_age_hours)
+    return posted_dt >= cutoff
+
+def is_likely_open_job_url(url):
+    """Lightweight check for obviously dead/closed job links."""
+    if not url or not str(url).startswith("http"):
+        return False
+
+    closed_markers = [
+        "/closed",
+        "/expired",
+        "job-not-found",
+        "no-longer-available",
+        "position-filled",
+        "position-closed",
+    ]
+
+    lower_url = str(url).lower()
+    if any(marker in lower_url for marker in closed_markers):
+        return False
+
+    try:
+        resp = requests.head(url, headers=HEADERS, allow_redirects=True, timeout=OPEN_CHECK_TIMEOUT)
+        final_url = (resp.url or url).lower()
+        if any(marker in final_url for marker in closed_markers):
+            return False
+        if resp.status_code in (404, 410, 451):
+            return False
+        if resp.status_code in (405,):
+            resp = requests.get(url, headers=HEADERS, allow_redirects=True, timeout=OPEN_CHECK_TIMEOUT, stream=True)
+            final_url = (resp.url or url).lower()
+            if any(marker in final_url for marker in closed_markers):
+                return False
+            if resp.status_code in (404, 410, 451):
+                return False
+    except Exception:
+        # Do not drop links on transient network issues.
+        return True
+
+    return True
 
 def is_valid_job_title(title):
     """Check if title matches our target job keywords."""
@@ -192,8 +287,8 @@ def scrape_github_ausjobs():
                 'salary': '',
                 'url': job_url,
                 'source': 'GitHub-AusJobs',
-                'posted_date': datetime.now().strftime('%Y-%m-%d'),
-                'scraped_at': datetime.now().isoformat(),
+                'posted_date': datetime.now(timezone.utc).isoformat(),
+                'scraped_at': datetime.now(timezone.utc).isoformat(),
             })
     except Exception as e:
         print(f"  Error: {e}")
@@ -282,8 +377,8 @@ def scrape_seek():
                         'salary': salary,
                         'url': link,
                         'source': 'SEEK',
-                        'posted_date': datetime.now().strftime('%Y-%m-%d'),
-                        'scraped_at': datetime.now().isoformat(),
+                        'posted_date': datetime.now(timezone.utc).isoformat(),
+                        'scraped_at': datetime.now(timezone.utc).isoformat(),
                     })
                 except Exception:
                     continue
@@ -383,8 +478,8 @@ def scrape_adzuna_api():
                         'salary': salary,
                         'url': link,
                         'source': f'Adzuna-{endpoint_country.upper()}',
-                        'posted_date': result.get('created', '')[:10] if result.get('created') else datetime.now().strftime('%Y-%m-%d'),
-                        'scraped_at': datetime.now().isoformat(),
+                        'posted_date': result.get('created', '') if result.get('created') else datetime.now(timezone.utc).isoformat(),
+                        'scraped_at': datetime.now(timezone.utc).isoformat(),
                     })
             except Exception:
                 continue
@@ -430,8 +525,8 @@ def scrape_remoteok():
                 'salary': '',
                 'url': link,
                 'source': 'RemoteOK',
-                'posted_date': item.get("date", "")[:10] if item.get("date") else datetime.now().strftime('%Y-%m-%d'),
-                'scraped_at': datetime.now().isoformat(),
+                'posted_date': item.get("date", "") if item.get("date") else datetime.now(timezone.utc).isoformat(),
+                'scraped_at': datetime.now(timezone.utc).isoformat(),
             })
     except Exception:
         pass
@@ -472,8 +567,8 @@ def scrape_remotive():
                 'salary': '',
                 'url': link,
                 'source': 'Remotive',
-                'posted_date': item.get("publication_date", "")[:10] if item.get("publication_date") else datetime.now().strftime('%Y-%m-%d'),
-                'scraped_at': datetime.now().isoformat(),
+                'posted_date': item.get("publication_date", "") if item.get("publication_date") else datetime.now(timezone.utc).isoformat(),
+                'scraped_at': datetime.now(timezone.utc).isoformat(),
             })
     except Exception:
         pass
@@ -524,8 +619,8 @@ def scrape_weworkremotely():
                 'salary': '',
                 'url': link,
                 'source': 'WeWorkRemotely',
-                'posted_date': pub_date[:10] if pub_date else datetime.now().strftime('%Y-%m-%d'),
-                'scraped_at': datetime.now().isoformat(),
+                'posted_date': pub_date if pub_date else datetime.now(timezone.utc).isoformat(),
+                'scraped_at': datetime.now(timezone.utc).isoformat(),
             })
     except Exception:
         pass
@@ -597,8 +692,8 @@ def scrape_linkedin_public():
                         'salary': '',
                         'url': link.split('?')[0],  # Clean URL
                         'source': 'LinkedIn',
-                        'posted_date': datetime.now().strftime('%Y-%m-%d'),
-                        'scraped_at': datetime.now().isoformat(),
+                        'posted_date': datetime.now(timezone.utc).isoformat(),
+                        'scraped_at': datetime.now(timezone.utc).isoformat(),
                     })
                 except Exception:
                     continue
@@ -655,8 +750,8 @@ def scrape_gradconnection():
                     'salary': '',
                     'url': link,
                     'source': 'GradConnection',
-                    'posted_date': datetime.now().strftime('%Y-%m-%d'),
-                    'scraped_at': datetime.now().isoformat(),
+                    'posted_date': datetime.now(timezone.utc).isoformat(),
+                    'scraped_at': datetime.now(timezone.utc).isoformat(),
                 })
             except Exception:
                 continue
@@ -671,7 +766,10 @@ def main():
     print("🇦🇺 Global Tech + Quant Job Scraper")
     print(f"🕐 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
-    print("Filters: Remote/Global or Kenya | Tech/Quant roles | Direct job URLs")
+    print(
+        "Filters: Remote/Global or Kenya | Tech/Quant roles | Direct job URLs | "
+        f"Max age: {MAX_JOB_AGE_HOURS}h | Open check: {OPEN_CHECK_ENABLED}"
+    )
     print("=" * 60)
     
     merge_mode = '--merge' in sys.argv
@@ -690,17 +788,17 @@ def main():
     
     print(f"\n📊 Total jobs scraped: {len(all_jobs)}")
     
-    if not all_jobs:
+    if not all_jobs and not (merge_mode and os.path.exists('jobs.csv')):
         print("⚠️ No jobs found!")
         return
     
     # Create DataFrame and deduplicate
-    df = pd.DataFrame(all_jobs)
-    df = df.drop_duplicates(subset=['id'], keep='first')
-    df = df.sort_values('scraped_at', ascending=False)
-    
-    # Final validation - remove any that slipped through
-    initial_count = len(df)
+    df = pd.DataFrame(all_jobs if all_jobs else [], columns=OUTPUT_COLUMNS)
+    if not df.empty:
+        df = df.drop_duplicates(subset=['id'], keep='first')
+        df = df.sort_values('scraped_at', ascending=False)
+
+    pre_filter_count = len(df)
     
     # Load existing and merge
     if merge_mode and os.path.exists('jobs.csv'):
@@ -718,7 +816,44 @@ def main():
         df[col] = df[col].fillna("").astype(str)
     df = df[df['id'] != ""]
     df = df.drop_duplicates(subset=['id'], keep='first')
-    df = df.sort_values('scraped_at', ascending=False)
+
+    # Normalize datetimes and filter by recency + open-application likelihood.
+    url_open_cache = {}
+    dropped_old = 0
+    dropped_closed = 0
+    normalized_rows = []
+
+    for row in df.to_dict(orient='records'):
+        posted_dt = parse_datetime_utc(row.get('posted_date')) or parse_datetime_utc(row.get('scraped_at'))
+        if not is_recent_post(posted_dt, MAX_JOB_AGE_HOURS):
+            dropped_old += 1
+            continue
+
+        if OPEN_CHECK_ENABLED:
+            url = row.get('url', '')
+            if url not in url_open_cache:
+                url_open_cache[url] = is_likely_open_job_url(url)
+            if not url_open_cache[url]:
+                dropped_closed += 1
+                continue
+
+        scraped_dt = parse_datetime_utc(row.get('scraped_at')) or datetime.now(timezone.utc)
+        row['posted_date'] = posted_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+        row['scraped_at'] = scraped_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+        normalized_rows.append(row)
+
+    df = pd.DataFrame(normalized_rows, columns=OUTPUT_COLUMNS)
+    if not df.empty:
+        df = df.drop_duplicates(subset=['id'], keep='first')
+        df = df.sort_values('posted_date', ascending=False)
+
+    print(
+        "Filtering summary: "
+        f"start={pre_filter_count}, "
+        f"dropped_old={dropped_old}, "
+        f"dropped_closed={dropped_closed}, "
+        f"kept={len(df)}"
+    )
     
     # Save CSV
     df.to_csv('jobs.csv', index=False, quoting=csv.QUOTE_ALL, encoding='utf-8')
@@ -727,7 +862,7 @@ def main():
     # Save JSON
     with open('jobs.json', 'w', encoding='utf-8') as f:
         json.dump({
-            'last_updated': datetime.now().isoformat(),
+            'last_updated': datetime.now(timezone.utc).isoformat(),
             'total_jobs': len(df),
             'jobs': df.to_dict(orient='records')
         }, f, indent=2, ensure_ascii=False, allow_nan=False)
