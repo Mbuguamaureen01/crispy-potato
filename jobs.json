@@ -1,7 +1,733 @@
 {
-  "last_updated": "2026-04-08T01:07:19.975108+00:00",
-  "total_jobs": 463,
+  "last_updated": "2026-04-08T03:58:27.540928+00:00",
+  "total_jobs": 440,
   "jobs": [
+    {
+      "id": "25112fcfe230",
+      "title": "Machine Learning Engineer - Inference Platform (AU remote)",
+      "company": "Canva",
+      "location": "The Rocks, Sydney",
+      "salary": "",
+      "url": "https://www.adzuna.com.au/details/5692731160?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-AU",
+      "posted_date": "2026-04-08T12:47:44Z",
+      "scraped_at": "2026-04-08T03:56:08Z"
+    },
+    {
+      "id": "5f1d98abf1df",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "6c4687504c4b",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "66b86163caaa",
+      "title": "Software engineer",
+      "company": "Solvo Global",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-solvo-global-4395488718",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "4c3e0187ed26",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "ff91c5e9e4e2",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "8e0656353c7c",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4398924546",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "75491600e652",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "9aef4cfdf442",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "22016bbbae5b",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4398930244",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:34Z",
+      "scraped_at": "2026-04-08T03:56:34Z"
+    },
+    {
+      "id": "2594505c7e1a",
+      "title": "Quant Strat - Global Investment Firm - High Touch Team",
+      "company": "Mondrian Alpha",
+      "location": "New York City Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:33Z",
+      "scraped_at": "2026-04-08T03:56:33Z"
+    },
+    {
+      "id": "6d1788783680",
+      "title": "Software Engineer - Python | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-remote-at-crossing-hurdles-4384264455",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:30Z",
+      "scraped_at": "2026-04-08T03:56:30Z"
+    },
+    {
+      "id": "db51b1301604",
+      "title": "Python Developer | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-crossing-hurdles-4384998292",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:30Z",
+      "scraped_at": "2026-04-08T03:56:30Z"
+    },
+    {
+      "id": "fb6a1c2822eb",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:28Z",
+      "scraped_at": "2026-04-08T03:56:28Z"
+    },
+    {
+      "id": "996d91a67423",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:28Z",
+      "scraped_at": "2026-04-08T03:56:28Z"
+    },
+    {
+      "id": "8be803d4c04a",
+      "title": "Data Engineer",
+      "company": "N2S.Global",
+      "location": "Sydney, New South Wales, Australia",
+      "salary": "",
+      "url": "https://au.linkedin.com/jobs/view/data-engineer-at-n2s-global-4387233781",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T03:56:28Z",
+      "scraped_at": "2026-04-08T03:56:28Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-04-08T03:56:03Z",
+      "scraped_at": "2026-04-08T03:56:03Z"
+    },
+    {
+      "id": "6d186cb26be7",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T01:05:14Z",
+      "scraped_at": "2026-04-08T01:05:14Z"
+    },
+    {
+      "id": "4b81914f4ee3",
+      "title": "Software engineer",
+      "company": "Solvo Global",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-solvo-global-4395488718",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-08T01:05:14Z",
+      "scraped_at": "2026-04-08T01:05:14Z"
+    },
     {
       "id": "a17629473194",
       "title": "Senior Back-End Software Engineer, Infra",
@@ -80,28 +806,6 @@
       "scraped_at": "2026-04-08T01:05:14Z"
     },
     {
-      "id": "6d186cb26be7",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-08T01:05:14Z",
-      "scraped_at": "2026-04-08T01:05:14Z"
-    },
-    {
-      "id": "4b81914f4ee3",
-      "title": "Software engineer",
-      "company": "Solvo Global",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-solvo-global-4395488718",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-08T01:05:14Z",
-      "scraped_at": "2026-04-08T01:05:14Z"
-    },
-    {
       "id": "dcd8bb5be328",
       "title": "Quant Strat - Global Investment Firm - High Touch Team",
       "company": "Mondrian Alpha",
@@ -168,532 +872,26 @@
       "scraped_at": "2026-04-08T01:05:07Z"
     },
     {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "id": "7a5cf289f263",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T23:47:19Z",
+      "scraped_at": "2026-04-07T23:47:19Z"
     },
     {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
+      "id": "d093651c923b",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
-      "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-04-08T01:04:25Z",
-      "scraped_at": "2026-04-08T01:04:25Z"
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T23:47:19Z",
+      "scraped_at": "2026-04-07T23:47:19Z"
     },
     {
       "id": "0787c5b0ba29",
@@ -724,17 +922,6 @@
       "location": "New York City Metropolitan Area",
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T23:47:19Z",
-      "scraped_at": "2026-04-07T23:47:19Z"
-    },
-    {
-      "id": "7a5cf289f263",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T23:47:19Z",
       "scraped_at": "2026-04-07T23:47:19Z"
@@ -795,17 +982,6 @@
       "scraped_at": "2026-04-07T23:47:19Z"
     },
     {
-      "id": "d093651c923b",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T23:47:19Z",
-      "scraped_at": "2026-04-07T23:47:19Z"
-    },
-    {
       "id": "8ec46e81f301",
       "title": "Software Engineer - Python | Remote",
       "company": "Crossing Hurdles",
@@ -826,6 +1002,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-04-07T23:47:15Z",
       "scraped_at": "2026-04-07T23:47:15Z"
+    },
+    {
+      "id": "e199dc95b257",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T23:47:14Z",
+      "scraped_at": "2026-04-07T23:47:14Z"
     },
     {
       "id": "fa4bc309e9df",
@@ -850,17 +1037,6 @@
       "scraped_at": "2026-04-07T23:47:14Z"
     },
     {
-      "id": "e199dc95b257",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T23:47:14Z",
-      "scraped_at": "2026-04-07T23:47:14Z"
-    },
-    {
       "id": "1877e9430579",
       "title": "Data Engineer",
       "company": "N2S.Global",
@@ -870,6 +1046,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-04-07T23:47:13Z",
       "scraped_at": "2026-04-07T23:47:13Z"
+    },
+    {
+      "id": "8e5f72e0c194",
+      "title": "Senior Software Engineer - Site Reliability (Remote)",
+      "company": "Home Depot",
+      "location": "US",
+      "salary": "$80,000 - $180,000",
+      "url": "https://www.adzuna.com/land/ad/5692751778?se=huQE5P4y8RGlM7YbmcnlYw&utm_medium=api&utm_source=3f1b011b&v=6E2B2345CF0F6D3980CD90CC3E89A86A7271D1D9",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T23:35:11Z",
+      "scraped_at": "2026-04-08T03:56:15Z"
     },
     {
       "id": "5bf4591468c0",
@@ -1004,28 +1191,6 @@
       "scraped_at": "2026-04-07T23:02:24Z"
     },
     {
-      "id": "6de61cb5e488",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T23:02:22Z",
-      "scraped_at": "2026-04-07T23:02:22Z"
-    },
-    {
-      "id": "f07a565a76d7",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T23:02:22Z",
-      "scraped_at": "2026-04-07T23:02:22Z"
-    },
-    {
       "id": "76b3b28af38e",
       "title": "DATA ENGINEER, P3",
       "company": "United Nations Office at Nairobi",
@@ -1048,12 +1213,100 @@
       "scraped_at": "2026-04-07T23:02:22Z"
     },
     {
+      "id": "f07a565a76d7",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T23:02:22Z",
+      "scraped_at": "2026-04-07T23:02:22Z"
+    },
+    {
+      "id": "6de61cb5e488",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T23:02:22Z",
+      "scraped_at": "2026-04-07T23:02:22Z"
+    },
+    {
+      "id": "6e4af7ac2935",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4398930244",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
+      "id": "60e9c33a8aa7",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
+      "id": "90dc7d99c9dd",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
+      "id": "8736086c3685",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
+      "id": "ddb3f1a10caa",
+      "title": "Software engineer",
+      "company": "Solvo Global",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-solvo-global-4395488718",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
       "id": "5d38bded8816",
       "title": "Senior Machine Learning Scientist - LLM & Voice",
       "company": "Wave Mobile Money",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:10Z",
+      "scraped_at": "2026-04-07T22:22:10Z"
+    },
+    {
+      "id": "e88dafc256b5",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T22:22:10Z",
       "scraped_at": "2026-04-07T22:22:10Z"
@@ -1076,72 +1329,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "e88dafc256b5",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "6e4af7ac2935",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4398930244",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "ddb3f1a10caa",
-      "title": "Software engineer",
-      "company": "Solvo Global",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-solvo-global-4395488718",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "8736086c3685",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "90dc7d99c9dd",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:10Z",
-      "scraped_at": "2026-04-07T22:22:10Z"
-    },
-    {
-      "id": "60e9c33a8aa7",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T22:22:10Z",
       "scraped_at": "2026-04-07T22:22:10Z"
@@ -1180,17 +1367,6 @@
       "scraped_at": "2026-04-07T22:22:06Z"
     },
     {
-      "id": "6ad6600d93ff",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T22:22:04Z",
-      "scraped_at": "2026-04-07T22:22:04Z"
-    },
-    {
       "id": "ff719d7799f5",
       "title": "Business Intelligence & Systems Analyst",
       "company": "Neumann Kaffee Gruppe (NKG)",
@@ -1213,6 +1389,17 @@
       "scraped_at": "2026-04-07T22:22:04Z"
     },
     {
+      "id": "6ad6600d93ff",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T22:22:04Z",
+      "scraped_at": "2026-04-07T22:22:04Z"
+    },
+    {
       "id": "d9f62280038b",
       "title": "Data Engineer",
       "company": "N2S.Global",
@@ -1222,6 +1409,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-04-07T22:22:03Z",
       "scraped_at": "2026-04-07T22:22:03Z"
+    },
+    {
+      "id": "9fcce940d029",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T21:41:48Z",
+      "scraped_at": "2026-04-07T21:41:48Z"
     },
     {
       "id": "d00de538ea87",
@@ -1312,17 +1510,6 @@
       "scraped_at": "2026-04-07T21:41:48Z"
     },
     {
-      "id": "9fcce940d029",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T21:41:48Z",
-      "scraped_at": "2026-04-07T21:41:48Z"
-    },
-    {
       "id": "2c3cea3ebc9b",
       "title": "Quant Strat - Global Investment Firm - High Touch Team",
       "company": "Mondrian Alpha",
@@ -1334,23 +1521,23 @@
       "scraped_at": "2026-04-07T21:41:47Z"
     },
     {
-      "id": "1252d9f04e2b",
-      "title": "Software Engineer - Python | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-remote-at-crossing-hurdles-4384264455",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T21:41:44Z",
-      "scraped_at": "2026-04-07T21:41:44Z"
-    },
-    {
       "id": "445c9428a92e",
       "title": "Python Developer | Remote",
       "company": "Crossing Hurdles",
       "location": "United Kingdom",
       "salary": "",
       "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-crossing-hurdles-4384998292",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T21:41:44Z",
+      "scraped_at": "2026-04-07T21:41:44Z"
+    },
+    {
+      "id": "1252d9f04e2b",
+      "title": "Software Engineer - Python | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-remote-at-crossing-hurdles-4384264455",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T21:41:44Z",
       "scraped_at": "2026-04-07T21:41:44Z"
@@ -1400,56 +1587,45 @@
       "scraped_at": "2026-04-07T21:41:41Z"
     },
     {
-      "id": "6f3d1da1e887",
-      "title": "Quant Strat - Global Investment Firm - High Touch Team",
-      "company": "Mondrian Alpha",
-      "location": "New York City Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:59:30Z",
-      "scraped_at": "2026-04-07T20:59:30Z"
-    },
-    {
-      "id": "2ca728505bbc",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:59:30Z",
-      "scraped_at": "2026-04-07T20:59:30Z"
-    },
-    {
-      "id": "e67c741deca7",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:59:30Z",
-      "scraped_at": "2026-04-07T20:59:30Z"
-    },
-    {
-      "id": "b0de2172d03a",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:59:30Z",
-      "scraped_at": "2026-04-07T20:59:30Z"
-    },
-    {
       "id": "3cfb41a9adb0",
       "title": "Senior Machine Learning Scientist - LLM & Voice",
       "company": "Wave Mobile Money",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:59:30Z",
+      "scraped_at": "2026-04-07T20:59:30Z"
+    },
+    {
+      "id": "67c8d99e076b",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:59:30Z",
+      "scraped_at": "2026-04-07T20:59:30Z"
+    },
+    {
+      "id": "0a05fd30a9d8",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:59:30Z",
+      "scraped_at": "2026-04-07T20:59:30Z"
+    },
+    {
+      "id": "4ecace952a28",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:59:30Z",
       "scraped_at": "2026-04-07T20:59:30Z"
@@ -1477,34 +1653,45 @@
       "scraped_at": "2026-04-07T20:59:30Z"
     },
     {
-      "id": "4ecace952a28",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "b0de2172d03a",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:59:30Z",
       "scraped_at": "2026-04-07T20:59:30Z"
     },
     {
-      "id": "0a05fd30a9d8",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "id": "e67c741deca7",
+      "title": "Software Engineer - L3 Support",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:59:30Z",
       "scraped_at": "2026-04-07T20:59:30Z"
     },
     {
-      "id": "67c8d99e076b",
-      "title": "Senior Back-End Software Engineer, Infra",
-      "company": "Jobgether",
-      "location": "Kenya",
+      "id": "2ca728505bbc",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:59:30Z",
+      "scraped_at": "2026-04-07T20:59:30Z"
+    },
+    {
+      "id": "6f3d1da1e887",
+      "title": "Quant Strat - Global Investment Firm - High Touch Team",
+      "company": "Mondrian Alpha",
+      "location": "New York City Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:59:30Z",
       "scraped_at": "2026-04-07T20:59:30Z"
@@ -1576,45 +1763,45 @@
       "scraped_at": "2026-04-07T20:59:23Z"
     },
     {
-      "id": "c86eb414b593",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:04:02Z",
-      "scraped_at": "2026-04-07T20:04:02Z"
-    },
-    {
-      "id": "46bac7678c66",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
+      "id": "70b6598b8207",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
     },
     {
-      "id": "0c66dd8510d8",
-      "title": "Quant Strat - Global Investment Firm - High Touch Team",
-      "company": "Mondrian Alpha",
-      "location": "New York City Metropolitan Area",
+      "id": "4057c3a8683e",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
     },
     {
-      "id": "e649e6decc6d",
-      "title": "Software Engineer - L3 Support",
+      "id": "f758abf4de39",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:04:02Z",
+      "scraped_at": "2026-04-07T20:04:02Z"
+    },
+    {
+      "id": "9e91a07542c6",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
@@ -1642,45 +1829,45 @@
       "scraped_at": "2026-04-07T20:04:02Z"
     },
     {
-      "id": "9e91a07542c6",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "id": "e649e6decc6d",
+      "title": "Software Engineer - L3 Support",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
     },
     {
-      "id": "f758abf4de39",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "id": "46bac7678c66",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T20:04:02Z",
+      "scraped_at": "2026-04-07T20:04:02Z"
+    },
+    {
+      "id": "c86eb414b593",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
     },
     {
-      "id": "4057c3a8683e",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
+      "id": "0c66dd8510d8",
+      "title": "Quant Strat - Global Investment Firm - High Touch Team",
+      "company": "Mondrian Alpha",
+      "location": "New York City Metropolitan Area",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T20:04:02Z",
-      "scraped_at": "2026-04-07T20:04:02Z"
-    },
-    {
-      "id": "70b6598b8207",
-      "title": "Senior Back-End Software Engineer, Infra",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T20:04:02Z",
       "scraped_at": "2026-04-07T20:04:02Z"
@@ -1730,50 +1917,6 @@
       "scraped_at": "2026-04-07T20:03:55Z"
     },
     {
-      "id": "2afb60b165cd",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T19:20:47Z",
-      "scraped_at": "2026-04-07T19:20:47Z"
-    },
-    {
-      "id": "d746eba60301",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T19:20:47Z",
-      "scraped_at": "2026-04-07T19:20:47Z"
-    },
-    {
-      "id": "a6027b782825",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T19:20:47Z",
-      "scraped_at": "2026-04-07T19:20:47Z"
-    },
-    {
-      "id": "03d94fa32e7d",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T19:20:47Z",
-      "scraped_at": "2026-04-07T19:20:47Z"
-    },
-    {
       "id": "a885e2203792",
       "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
@@ -1785,23 +1928,12 @@
       "scraped_at": "2026-04-07T19:20:47Z"
     },
     {
-      "id": "ae39a08402c2",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T19:20:47Z",
-      "scraped_at": "2026-04-07T19:20:47Z"
-    },
-    {
-      "id": "368fbb866356",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
+      "id": "1d1b34ee7239",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T19:20:47Z",
       "scraped_at": "2026-04-07T19:20:47Z"
@@ -1818,12 +1950,67 @@
       "scraped_at": "2026-04-07T19:20:47Z"
     },
     {
-      "id": "1d1b34ee7239",
-      "title": "Senior Back-End Software Engineer, Infra",
-      "company": "Jobgether",
+      "id": "368fbb866356",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T19:20:47Z",
+      "scraped_at": "2026-04-07T19:20:47Z"
+    },
+    {
+      "id": "ae39a08402c2",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T19:20:47Z",
+      "scraped_at": "2026-04-07T19:20:47Z"
+    },
+    {
+      "id": "03d94fa32e7d",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T19:20:47Z",
+      "scraped_at": "2026-04-07T19:20:47Z"
+    },
+    {
+      "id": "a6027b782825",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T19:20:47Z",
+      "scraped_at": "2026-04-07T19:20:47Z"
+    },
+    {
+      "id": "d746eba60301",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T19:20:47Z",
+      "scraped_at": "2026-04-07T19:20:47Z"
+    },
+    {
+      "id": "2afb60b165cd",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T19:20:47Z",
       "scraped_at": "2026-04-07T19:20:47Z"
@@ -1906,23 +2093,56 @@
       "scraped_at": "2026-04-07T19:20:40Z"
     },
     {
-      "id": "971a25dcbfc4",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "id": "30ef0f4ad5ab",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T18:09:26Z",
       "scraped_at": "2026-04-07T18:09:26Z"
     },
     {
-      "id": "7b9370dde160",
-      "title": "Software Engineer, Sustaining Engineering",
+      "id": "c5384919c646",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T18:09:26Z",
+      "scraped_at": "2026-04-07T18:09:26Z"
+    },
+    {
+      "id": "6344bdeb72e5",
+      "title": "Software Engineer - L3 Support",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T18:09:26Z",
+      "scraped_at": "2026-04-07T18:09:26Z"
+    },
+    {
+      "id": "eff2d09c9bcc",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T18:09:26Z",
+      "scraped_at": "2026-04-07T18:09:26Z"
+    },
+    {
+      "id": "9f16bf5feeb1",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T18:09:26Z",
       "scraped_at": "2026-04-07T18:09:26Z"
@@ -1950,56 +2170,23 @@
       "scraped_at": "2026-04-07T18:09:26Z"
     },
     {
-      "id": "30ef0f4ad5ab",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
+      "id": "971a25dcbfc4",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T18:09:26Z",
       "scraped_at": "2026-04-07T18:09:26Z"
     },
     {
-      "id": "9f16bf5feeb1",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T18:09:26Z",
-      "scraped_at": "2026-04-07T18:09:26Z"
-    },
-    {
-      "id": "6344bdeb72e5",
-      "title": "Software Engineer - L3 Support",
+      "id": "7b9370dde160",
+      "title": "Software Engineer, Sustaining Engineering",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T18:09:26Z",
-      "scraped_at": "2026-04-07T18:09:26Z"
-    },
-    {
-      "id": "c5384919c646",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T18:09:26Z",
-      "scraped_at": "2026-04-07T18:09:26Z"
-    },
-    {
-      "id": "eff2d09c9bcc",
-      "title": "Senior Back-End Software Engineer, Infra",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T18:09:26Z",
       "scraped_at": "2026-04-07T18:09:26Z"
@@ -2082,50 +2269,6 @@
       "scraped_at": "2026-04-07T18:09:19Z"
     },
     {
-      "id": "7a1d6a199fe5",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T17:14:59Z",
-      "scraped_at": "2026-04-07T17:14:59Z"
-    },
-    {
-      "id": "56f81fc696f0",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T17:14:59Z",
-      "scraped_at": "2026-04-07T17:14:59Z"
-    },
-    {
-      "id": "5f19de843e5d",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T17:14:59Z",
-      "scraped_at": "2026-04-07T17:14:59Z"
-    },
-    {
-      "id": "e0025b1fc554",
-      "title": "Senior Back-End Software Engineer, Infra",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T17:14:59Z",
-      "scraped_at": "2026-04-07T17:14:59Z"
-    },
-    {
       "id": "01a268c1e680",
       "title": "Remote ML Engineer - 60735",
       "company": "Turing",
@@ -2137,23 +2280,12 @@
       "scraped_at": "2026-04-07T17:14:59Z"
     },
     {
-      "id": "07aba17fd793",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "a245124288bb",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T17:14:59Z",
-      "scraped_at": "2026-04-07T17:14:59Z"
-    },
-    {
-      "id": "0bef942e14f8",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T17:14:59Z",
       "scraped_at": "2026-04-07T17:14:59Z"
@@ -2170,12 +2302,67 @@
       "scraped_at": "2026-04-07T17:14:59Z"
     },
     {
-      "id": "a245124288bb",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
+      "id": "0bef942e14f8",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T17:14:59Z",
+      "scraped_at": "2026-04-07T17:14:59Z"
+    },
+    {
+      "id": "07aba17fd793",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T17:14:59Z",
+      "scraped_at": "2026-04-07T17:14:59Z"
+    },
+    {
+      "id": "56f81fc696f0",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T17:14:59Z",
+      "scraped_at": "2026-04-07T17:14:59Z"
+    },
+    {
+      "id": "e0025b1fc554",
+      "title": "Senior Back-End Software Engineer, Infra",
+      "company": "Jobgether",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "url": "https://ke.linkedin.com/jobs/view/senior-back-end-software-engineer-infra-at-jobgether-4393873584",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T17:14:59Z",
+      "scraped_at": "2026-04-07T17:14:59Z"
+    },
+    {
+      "id": "5f19de843e5d",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T17:14:59Z",
+      "scraped_at": "2026-04-07T17:14:59Z"
+    },
+    {
+      "id": "7a1d6a199fe5",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T17:14:59Z",
       "scraped_at": "2026-04-07T17:14:59Z"
@@ -2225,12 +2412,12 @@
       "scraped_at": "2026-04-07T17:14:55Z"
     },
     {
-      "id": "f12556ffd29a",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "id": "887e8cdc6788",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T17:14:53Z",
       "scraped_at": "2026-04-07T17:14:53Z"
@@ -2247,12 +2434,12 @@
       "scraped_at": "2026-04-07T17:14:53Z"
     },
     {
-      "id": "887e8cdc6788",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
+      "id": "f12556ffd29a",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T17:14:53Z",
       "scraped_at": "2026-04-07T17:14:53Z"
@@ -2280,50 +2467,6 @@
       "scraped_at": "2026-04-07T23:46:56Z"
     },
     {
-      "id": "3ef14fec34af",
-      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
-      "company": "ICF Consulting Group, Inc.",
-      "location": "Reston, Fairfax County",
-      "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=tprFisoy8RG74InIJZ-TCg&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T21:41:32Z"
-    },
-    {
-      "id": "612dff9a151a",
-      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
-      "company": "ICF Consulting Group, Inc.",
-      "location": "Reston, Fairfax County",
-      "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=LlH1ENwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T23:46:58Z"
-    },
-    {
-      "id": "a6f3715cf129",
-      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
-      "company": "ICF Consulting Group, Inc.",
-      "location": "Reston, Fairfax County",
-      "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=itRsytUy8RGlM7YbmcnlYw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T23:02:03Z"
-    },
-    {
-      "id": "d7437d861ae5",
-      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
-      "company": "ICF Consulting Group, Inc.",
-      "location": "Reston, Fairfax County",
-      "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=6GZ2K9Ay8RGWc-vrjwlkWw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T22:21:49Z"
-    },
-    {
       "id": "40c8d7b6559f",
       "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
       "company": "ICF Consulting Group, Inc.",
@@ -2335,26 +2478,15 @@
       "scraped_at": "2026-04-07T21:41:30Z"
     },
     {
-      "id": "4653ce15edd8",
+      "id": "f73afc85174c",
       "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
       "company": "ICF Consulting Group, Inc.",
       "location": "Reston, Fairfax County",
       "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=Um2bEdwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=8rn7n8Qy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
       "source": "Adzuna-US",
       "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T23:46:59Z"
-    },
-    {
-      "id": "2086b166d47c",
-      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
-      "company": "ICF Consulting Group, Inc.",
-      "location": "Reston, Fairfax County",
-      "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=tkYnLNAy8RGWc-vrjwlkWw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T22:21:50Z"
+      "scraped_at": "2026-04-07T20:59:10Z"
     },
     {
       "id": "45389e6370e9",
@@ -2368,6 +2500,28 @@
       "scraped_at": "2026-04-07T20:59:09Z"
     },
     {
+      "id": "2086b166d47c",
+      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
+      "company": "ICF Consulting Group, Inc.",
+      "location": "Reston, Fairfax County",
+      "salary": "$152,417 - $152,417",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=tkYnLNAy8RGWc-vrjwlkWw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:26:41Z",
+      "scraped_at": "2026-04-07T22:21:50Z"
+    },
+    {
+      "id": "4653ce15edd8",
+      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
+      "company": "ICF Consulting Group, Inc.",
+      "location": "Reston, Fairfax County",
+      "salary": "$152,417 - $152,417",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=Um2bEdwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:26:41Z",
+      "scraped_at": "2026-04-07T23:46:59Z"
+    },
+    {
       "id": "56921b92bd8b",
       "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
       "company": "ICF Consulting Group, Inc.",
@@ -2379,15 +2533,59 @@
       "scraped_at": "2026-04-07T23:02:06Z"
     },
     {
-      "id": "f73afc85174c",
+      "id": "d7437d861ae5",
       "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
       "company": "ICF Consulting Group, Inc.",
       "location": "Reston, Fairfax County",
       "salary": "$152,417 - $152,417",
-      "url": "https://www.adzuna.com/land/ad/5692320871?se=8rn7n8Qy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=6GZ2K9Ay8RGWc-vrjwlkWw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
       "source": "Adzuna-US",
       "posted_date": "2026-04-07T16:26:41Z",
-      "scraped_at": "2026-04-07T20:59:10Z"
+      "scraped_at": "2026-04-07T22:21:49Z"
+    },
+    {
+      "id": "a6f3715cf129",
+      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
+      "company": "ICF Consulting Group, Inc.",
+      "location": "Reston, Fairfax County",
+      "salary": "$152,417 - $152,417",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=itRsytUy8RGlM7YbmcnlYw&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:26:41Z",
+      "scraped_at": "2026-04-07T23:02:03Z"
+    },
+    {
+      "id": "612dff9a151a",
+      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
+      "company": "ICF Consulting Group, Inc.",
+      "location": "Reston, Fairfax County",
+      "salary": "$152,417 - $152,417",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=LlH1ENwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:26:41Z",
+      "scraped_at": "2026-04-07T23:46:58Z"
+    },
+    {
+      "id": "3ef14fec34af",
+      "title": "Senior DevOps Engineer - (US - Remote) with Security Clearance",
+      "company": "ICF Consulting Group, Inc.",
+      "location": "Reston, Fairfax County",
+      "salary": "$152,417 - $152,417",
+      "url": "https://www.adzuna.com/land/ad/5692320871?se=tprFisoy8RG74InIJZ-TCg&utm_medium=api&utm_source=3f1b011b&v=A2B076F188AF1C05CB022BDD2046D0370A294394",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:26:41Z",
+      "scraped_at": "2026-04-07T21:41:32Z"
+    },
+    {
+      "id": "45558008a71e",
+      "title": "Sr. Distinguished Machine Learning Engineer (Remote-Eligible)",
+      "company": "Capital One",
+      "location": "Pimmit, Fairfax County",
+      "salary": "$248,978 - $248,978",
+      "url": "https://www.adzuna.com/land/ad/5692314836?se=iFxJEdwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=F3FF6C4521F8C3C77A880E2315D161DC66CC0090",
+      "source": "Adzuna-US",
+      "posted_date": "2026-04-07T16:25:14Z",
+      "scraped_at": "2026-04-07T23:46:59Z"
     },
     {
       "id": "0a70ce9f89c1",
@@ -2489,17 +2687,6 @@
       "scraped_at": "2026-04-07T20:59:10Z"
     },
     {
-      "id": "45558008a71e",
-      "title": "Sr. Distinguished Machine Learning Engineer (Remote-Eligible)",
-      "company": "Capital One",
-      "location": "Pimmit, Fairfax County",
-      "salary": "$248,978 - $248,978",
-      "url": "https://www.adzuna.com/land/ad/5692314836?se=iFxJEdwy8RGKnukZYnzAng&utm_medium=api&utm_source=3f1b011b&v=F3FF6C4521F8C3C77A880E2315D161DC66CC0090",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T16:25:14Z",
-      "scraped_at": "2026-04-07T23:46:59Z"
-    },
-    {
       "id": "e045093c2417",
       "title": "Distributed Systems Engineer",
       "company": "Cadence Systems",
@@ -2508,7 +2695,7 @@
       "url": "https://www.adzuna.ca/details/5692300647?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-04-07T16:22:03Z",
-      "scraped_at": "2026-04-08T01:04:55Z"
+      "scraped_at": "2026-04-08T03:56:21Z"
     },
     {
       "id": "6a4a30bd3374",
@@ -2520,17 +2707,6 @@
       "source": "Adzuna-US",
       "posted_date": "2026-04-07T16:19:45Z",
       "scraped_at": "2026-04-07T23:46:56Z"
-    },
-    {
-      "id": "e63a024621cf",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T16:08:49Z",
-      "scraped_at": "2026-04-07T16:08:49Z"
     },
     {
       "id": "ab40e64c22af",
@@ -2621,6 +2797,17 @@
       "scraped_at": "2026-04-07T16:08:49Z"
     },
     {
+      "id": "e63a024621cf",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T16:08:49Z",
+      "scraped_at": "2026-04-07T16:08:49Z"
+    },
+    {
       "id": "4ae849235e15",
       "title": "Quant Strat - Global Investment Firm - High Touch Team",
       "company": "Mondrian Alpha",
@@ -2654,28 +2841,6 @@
       "scraped_at": "2026-04-07T16:08:44Z"
     },
     {
-      "id": "d970ffcbaae1",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T16:08:43Z",
-      "scraped_at": "2026-04-07T16:08:43Z"
-    },
-    {
-      "id": "efaa18e36e8a",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T16:08:43Z",
-      "scraped_at": "2026-04-07T16:08:43Z"
-    },
-    {
       "id": "e303159be7b3",
       "title": "Business Intelligence & Systems Analyst",
       "company": "Neumann Kaffee Gruppe (NKG)",
@@ -2698,6 +2863,28 @@
       "scraped_at": "2026-04-07T16:08:43Z"
     },
     {
+      "id": "efaa18e36e8a",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T16:08:43Z",
+      "scraped_at": "2026-04-07T16:08:43Z"
+    },
+    {
+      "id": "d970ffcbaae1",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T16:08:43Z",
+      "scraped_at": "2026-04-07T16:08:43Z"
+    },
+    {
       "id": "56de5f51c4a8",
       "title": "Data Engineer",
       "company": "N2S.Global",
@@ -2707,61 +2894,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-04-07T16:08:42Z",
       "scraped_at": "2026-04-07T16:08:42Z"
-    },
-    {
-      "id": "dfec636c398f",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
-    },
-    {
-      "id": "bff38995fca8",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
-    },
-    {
-      "id": "f468b42133bc",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
-    },
-    {
-      "id": "834de7117e06",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
-    },
-    {
-      "id": "6a45ffaa55f9",
-      "title": "Senior Member of Technical Staff, MLE (Middle East)",
-      "company": "Cohere",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/senior-member-of-technical-staff-mle-middle-east-at-cohere-4139162958",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
     },
     {
       "id": "570eb84dd367",
@@ -2775,23 +2907,12 @@
       "scraped_at": "2026-04-07T14:58:34Z"
     },
     {
-      "id": "040e762dc111",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
+      "id": "2776140fdcdf",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:34Z",
-      "scraped_at": "2026-04-07T14:58:34Z"
-    },
-    {
-      "id": "211c90d903fa",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T14:58:34Z",
       "scraped_at": "2026-04-07T14:58:34Z"
@@ -2808,12 +2929,78 @@
       "scraped_at": "2026-04-07T14:58:34Z"
     },
     {
-      "id": "2776140fdcdf",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
+      "id": "211c90d903fa",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "040e762dc111",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "6a45ffaa55f9",
+      "title": "Senior Member of Technical Staff, MLE (Middle East)",
+      "company": "Cohere",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/senior-member-of-technical-staff-mle-middle-east-at-cohere-4139162958",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "834de7117e06",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "f468b42133bc",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "bff38995fca8",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:34Z",
+      "scraped_at": "2026-04-07T14:58:34Z"
+    },
+    {
+      "id": "dfec636c398f",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T14:58:34Z",
       "scraped_at": "2026-04-07T14:58:34Z"
@@ -2852,28 +3039,6 @@
       "scraped_at": "2026-04-07T14:58:30Z"
     },
     {
-      "id": "b14d94658dd7",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:28Z",
-      "scraped_at": "2026-04-07T14:58:28Z"
-    },
-    {
-      "id": "711476e7f529",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T14:58:28Z",
-      "scraped_at": "2026-04-07T14:58:28Z"
-    },
-    {
       "id": "be5a1f9051c2",
       "title": "DATA ENGINEER",
       "company": "UN Environment Programme",
@@ -2891,6 +3056,28 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:28Z",
+      "scraped_at": "2026-04-07T14:58:28Z"
+    },
+    {
+      "id": "b14d94658dd7",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T14:58:28Z",
+      "scraped_at": "2026-04-07T14:58:28Z"
+    },
+    {
+      "id": "711476e7f529",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T14:58:28Z",
       "scraped_at": "2026-04-07T14:58:28Z"
@@ -2918,50 +3105,6 @@
       "scraped_at": "2026-04-07T20:03:34Z"
     },
     {
-      "id": "c1a13b18c0bc",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:15Z",
-      "scraped_at": "2026-04-07T13:54:15Z"
-    },
-    {
-      "id": "9ae2ecfe02d3",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:15Z",
-      "scraped_at": "2026-04-07T13:54:15Z"
-    },
-    {
-      "id": "2f245c82093f",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:15Z",
-      "scraped_at": "2026-04-07T13:54:15Z"
-    },
-    {
-      "id": "7c22d7c1ea9f",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:15Z",
-      "scraped_at": "2026-04-07T13:54:15Z"
-    },
-    {
       "id": "3acda87dea41",
       "title": "DATA ENGINEER",
       "company": "UN Environment Programme",
@@ -2973,23 +3116,12 @@
       "scraped_at": "2026-04-07T13:54:15Z"
     },
     {
-      "id": "88fdc65fde06",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "id": "cf35a81c3e30",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:15Z",
-      "scraped_at": "2026-04-07T13:54:15Z"
-    },
-    {
-      "id": "77cd98cea390",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T13:54:15Z",
       "scraped_at": "2026-04-07T13:54:15Z"
@@ -3006,12 +3138,67 @@
       "scraped_at": "2026-04-07T13:54:15Z"
     },
     {
-      "id": "cf35a81c3e30",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
+      "id": "77cd98cea390",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:15Z",
+      "scraped_at": "2026-04-07T13:54:15Z"
+    },
+    {
+      "id": "88fdc65fde06",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:15Z",
+      "scraped_at": "2026-04-07T13:54:15Z"
+    },
+    {
+      "id": "2f245c82093f",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:15Z",
+      "scraped_at": "2026-04-07T13:54:15Z"
+    },
+    {
+      "id": "9ae2ecfe02d3",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:15Z",
+      "scraped_at": "2026-04-07T13:54:15Z"
+    },
+    {
+      "id": "c1a13b18c0bc",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:15Z",
+      "scraped_at": "2026-04-07T13:54:15Z"
+    },
+    {
+      "id": "7c22d7c1ea9f",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T13:54:15Z",
       "scraped_at": "2026-04-07T13:54:15Z"
@@ -3050,6 +3237,17 @@
       "scraped_at": "2026-04-07T13:54:11Z"
     },
     {
+      "id": "f88620189024",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T13:54:09Z",
+      "scraped_at": "2026-04-07T13:54:09Z"
+    },
+    {
       "id": "405b6742cb48",
       "title": "Business Intelligence & Systems Analyst",
       "company": "Neumann Kaffee Gruppe (NKG)",
@@ -3067,17 +3265,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T13:54:09Z",
-      "scraped_at": "2026-04-07T13:54:09Z"
-    },
-    {
-      "id": "f88620189024",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T13:54:09Z",
       "scraped_at": "2026-04-07T13:54:09Z"
@@ -3105,17 +3292,6 @@
       "scraped_at": "2026-04-07T13:54:08Z"
     },
     {
-      "id": "418cde402d9b",
-      "title": "Senior Data Engineer - Remote",
-      "company": "TechniPros, LLC",
-      "location": "US",
-      "salary": "$111,737 - $111,737",
-      "url": "https://www.adzuna.com/details/5692200791?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T12:21:34Z",
-      "scraped_at": "2026-04-07T18:08:57Z"
-    },
-    {
       "id": "72c593ed4053",
       "title": "Database Administrator (Cloud Data Platforms) 100% Remote",
       "company": "Apetan Consulting",
@@ -3138,56 +3314,34 @@
       "scraped_at": "2026-04-07T17:14:34Z"
     },
     {
-      "id": "45fe618dbe21",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
+      "id": "57217bd94d05",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T12:04:00Z",
       "scraped_at": "2026-04-07T12:04:00Z"
     },
     {
-      "id": "46ecd1220026",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:04:00Z",
-      "scraped_at": "2026-04-07T12:04:00Z"
-    },
-    {
-      "id": "dbe8cc5698c2",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
+      "id": "bbd785f8649b",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T12:04:00Z",
       "scraped_at": "2026-04-07T12:04:00Z"
     },
     {
-      "id": "e38923b5a273",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
+      "id": "d9eb286abb69",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:04:00Z",
-      "scraped_at": "2026-04-07T12:04:00Z"
-    },
-    {
-      "id": "4264962f736f",
-      "title": "Quant Strat - Global Investment Firm - High Touch Team",
-      "company": "Mondrian Alpha",
-      "location": "New York City Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T12:04:00Z",
       "scraped_at": "2026-04-07T12:04:00Z"
@@ -3215,34 +3369,56 @@
       "scraped_at": "2026-04-07T12:04:00Z"
     },
     {
-      "id": "bbd785f8649b",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:04:00Z",
-      "scraped_at": "2026-04-07T12:04:00Z"
-    },
-    {
-      "id": "57217bd94d05",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:04:00Z",
-      "scraped_at": "2026-04-07T12:04:00Z"
-    },
-    {
-      "id": "d9eb286abb69",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
+      "id": "e38923b5a273",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:04:00Z",
+      "scraped_at": "2026-04-07T12:04:00Z"
+    },
+    {
+      "id": "4264962f736f",
+      "title": "Quant Strat - Global Investment Firm - High Touch Team",
+      "company": "Mondrian Alpha",
+      "location": "New York City Metropolitan Area",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:04:00Z",
+      "scraped_at": "2026-04-07T12:04:00Z"
+    },
+    {
+      "id": "46ecd1220026",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:04:00Z",
+      "scraped_at": "2026-04-07T12:04:00Z"
+    },
+    {
+      "id": "45fe618dbe21",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:04:00Z",
+      "scraped_at": "2026-04-07T12:04:00Z"
+    },
+    {
+      "id": "dbe8cc5698c2",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T12:04:00Z",
       "scraped_at": "2026-04-07T12:04:00Z"
@@ -3281,28 +3457,6 @@
       "scraped_at": "2026-04-07T12:03:56Z"
     },
     {
-      "id": "9968c1229b72",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:03:54Z",
-      "scraped_at": "2026-04-07T12:03:54Z"
-    },
-    {
-      "id": "c66300abdee6",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T12:03:54Z",
-      "scraped_at": "2026-04-07T12:03:54Z"
-    },
-    {
       "id": "0e49df4a4d79",
       "title": "DATA ENGINEER",
       "company": "UN Environment Programme",
@@ -3331,6 +3485,28 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:03:54Z",
+      "scraped_at": "2026-04-07T12:03:54Z"
+    },
+    {
+      "id": "c66300abdee6",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T12:03:54Z",
+      "scraped_at": "2026-04-07T12:03:54Z"
+    },
+    {
+      "id": "9968c1229b72",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T12:03:54Z",
       "scraped_at": "2026-04-07T12:03:54Z"
@@ -3413,45 +3589,34 @@
       "scraped_at": "2026-04-07T18:08:58Z"
     },
     {
-      "id": "b80d26f9b42a",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
+      "id": "aadd6329c572",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T11:16:02Z",
       "scraped_at": "2026-04-07T11:16:02Z"
     },
     {
-      "id": "a9de4bba2886",
-      "title": "Remote Software Engineer (Rust)",
+      "id": "fd1e821cd468",
+      "title": "Remote ML Engineer - 60735",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T11:16:02Z",
       "scraped_at": "2026-04-07T11:16:02Z"
     },
     {
-      "id": "23a78987f739",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
+      "id": "c0949c6bdd14",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T11:16:02Z",
-      "scraped_at": "2026-04-07T11:16:02Z"
-    },
-    {
-      "id": "048360202e46",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T11:16:02Z",
       "scraped_at": "2026-04-07T11:16:02Z"
@@ -3479,34 +3644,45 @@
       "scraped_at": "2026-04-07T11:16:02Z"
     },
     {
-      "id": "c0949c6bdd14",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "id": "048360202e46",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T11:16:02Z",
+      "scraped_at": "2026-04-07T11:16:02Z"
+    },
+    {
+      "id": "b80d26f9b42a",
+      "title": "Software Engineer, Sustaining Engineering",
       "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T11:16:02Z",
       "scraped_at": "2026-04-07T11:16:02Z"
     },
     {
-      "id": "fd1e821cd468",
-      "title": "Remote ML Engineer - 60735",
+      "id": "23a78987f739",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T11:16:02Z",
+      "scraped_at": "2026-04-07T11:16:02Z"
+    },
+    {
+      "id": "a9de4bba2886",
+      "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T11:16:02Z",
-      "scraped_at": "2026-04-07T11:16:02Z"
-    },
-    {
-      "id": "aadd6329c572",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T11:16:02Z",
       "scraped_at": "2026-04-07T11:16:02Z"
@@ -3633,17 +3809,6 @@
       "scraped_at": "2026-04-07T18:09:08Z"
     },
     {
-      "id": "e02f20574541",
-      "title": "Junior SaaS Product Manager - Contractor (Remote, MUST be in USA)",
-      "company": "Addison Group",
-      "location": "US",
-      "salary": "$102,395 - $102,395",
-      "url": "https://www.adzuna.com/details/5692158846?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T11:05:39Z",
-      "scraped_at": "2026-04-07T16:08:26Z"
-    },
-    {
       "id": "6e5aac9bfc88",
       "title": "Operations Research Analyst / Data Scientist (Remote)",
       "company": "GovCIO",
@@ -3699,45 +3864,12 @@
       "scraped_at": "2026-04-07T16:08:23Z"
     },
     {
-      "id": "e2abfb7c2744",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T10:17:32Z",
-      "scraped_at": "2026-04-07T10:17:32Z"
-    },
-    {
-      "id": "0c593bb2f997",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T10:17:32Z",
-      "scraped_at": "2026-04-07T10:17:32Z"
-    },
-    {
-      "id": "16325bcedffb",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T10:17:32Z",
-      "scraped_at": "2026-04-07T10:17:32Z"
-    },
-    {
-      "id": "867faef7311d",
-      "title": "Remote Software Engineer (Rust)",
+      "id": "461e8fee9290",
+      "title": "Remote ML Engineer - 60735",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T10:17:32Z",
       "scraped_at": "2026-04-07T10:17:32Z"
@@ -3765,17 +3897,6 @@
       "scraped_at": "2026-04-07T10:17:32Z"
     },
     {
-      "id": "c2ddfac202ae",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T10:17:32Z",
-      "scraped_at": "2026-04-07T10:17:32Z"
-    },
-    {
       "id": "bc549d7037ad",
       "title": "DATA ENGINEER",
       "company": "UN Environment Programme",
@@ -3787,12 +3908,56 @@
       "scraped_at": "2026-04-07T10:17:32Z"
     },
     {
-      "id": "461e8fee9290",
-      "title": "Remote ML Engineer - 60735",
+      "id": "867faef7311d",
+      "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T10:17:32Z",
+      "scraped_at": "2026-04-07T10:17:32Z"
+    },
+    {
+      "id": "e2abfb7c2744",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T10:17:32Z",
+      "scraped_at": "2026-04-07T10:17:32Z"
+    },
+    {
+      "id": "16325bcedffb",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T10:17:32Z",
+      "scraped_at": "2026-04-07T10:17:32Z"
+    },
+    {
+      "id": "c2ddfac202ae",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T10:17:32Z",
+      "scraped_at": "2026-04-07T10:17:32Z"
+    },
+    {
+      "id": "0c593bb2f997",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T10:17:32Z",
       "scraped_at": "2026-04-07T10:17:32Z"
@@ -3897,61 +4062,6 @@
       "scraped_at": "2026-04-07T10:17:25Z"
     },
     {
-      "id": "6937fa74b753",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:52Z",
-      "scraped_at": "2026-04-07T09:16:52Z"
-    },
-    {
-      "id": "a330a4ed8897",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:52Z",
-      "scraped_at": "2026-04-07T09:16:52Z"
-    },
-    {
-      "id": "7fcb233666c2",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:52Z",
-      "scraped_at": "2026-04-07T09:16:52Z"
-    },
-    {
-      "id": "b8c0c0983204",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:52Z",
-      "scraped_at": "2026-04-07T09:16:52Z"
-    },
-    {
-      "id": "775758fe2283",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:52Z",
-      "scraped_at": "2026-04-07T09:16:52Z"
-    },
-    {
       "id": "12a78c67657e",
       "title": "Senior Machine Learning Scientist - LLM & Voice",
       "company": "Wave Mobile Money",
@@ -3963,12 +4073,12 @@
       "scraped_at": "2026-04-07T09:16:52Z"
     },
     {
-      "id": "526341e5eced",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
+      "id": "d75e1255e046",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T09:16:52Z",
       "scraped_at": "2026-04-07T09:16:52Z"
@@ -3985,12 +4095,67 @@
       "scraped_at": "2026-04-07T09:16:52Z"
     },
     {
-      "id": "d75e1255e046",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
+      "id": "526341e5eced",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:52Z",
+      "scraped_at": "2026-04-07T09:16:52Z"
+    },
+    {
+      "id": "7fcb233666c2",
+      "title": "Software Engineer - L3 Support",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:52Z",
+      "scraped_at": "2026-04-07T09:16:52Z"
+    },
+    {
+      "id": "775758fe2283",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:52Z",
+      "scraped_at": "2026-04-07T09:16:52Z"
+    },
+    {
+      "id": "b8c0c0983204",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:52Z",
+      "scraped_at": "2026-04-07T09:16:52Z"
+    },
+    {
+      "id": "a330a4ed8897",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:52Z",
+      "scraped_at": "2026-04-07T09:16:52Z"
+    },
+    {
+      "id": "6937fa74b753",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T09:16:52Z",
       "scraped_at": "2026-04-07T09:16:52Z"
@@ -4040,28 +4205,6 @@
       "scraped_at": "2026-04-07T09:16:46Z"
     },
     {
-      "id": "06e7d3bbf672",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:43Z",
-      "scraped_at": "2026-04-07T09:16:43Z"
-    },
-    {
-      "id": "ab9d99a2b3de",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T09:16:43Z",
-      "scraped_at": "2026-04-07T09:16:43Z"
-    },
-    {
       "id": "4d4f8afa1edb",
       "title": "DATA ENGINEER",
       "company": "UN Environment Programme",
@@ -4079,6 +4222,28 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:43Z",
+      "scraped_at": "2026-04-07T09:16:43Z"
+    },
+    {
+      "id": "ab9d99a2b3de",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T09:16:43Z",
+      "scraped_at": "2026-04-07T09:16:43Z"
+    },
+    {
+      "id": "06e7d3bbf672",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T09:16:43Z",
       "scraped_at": "2026-04-07T09:16:43Z"
@@ -4293,45 +4458,12 @@
       "scraped_at": "2026-04-07T08:02:44Z"
     },
     {
-      "id": "3b70fa98ddd3",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:40Z",
-      "scraped_at": "2026-04-07T06:53:40Z"
-    },
-    {
-      "id": "3e671d75c93a",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:40Z",
-      "scraped_at": "2026-04-07T06:53:40Z"
-    },
-    {
-      "id": "9fe6d1fd9d1b",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
+      "id": "e3ba309c35b8",
+      "title": "DATA ENGINEER",
+      "company": "UN Environment Programme",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:40Z",
-      "scraped_at": "2026-04-07T06:53:40Z"
-    },
-    {
-      "id": "2c25a09064e9",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T06:53:40Z",
       "scraped_at": "2026-04-07T06:53:40Z"
@@ -4348,23 +4480,23 @@
       "scraped_at": "2026-04-07T06:53:40Z"
     },
     {
-      "id": "e03e7a416e9b",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:40Z",
-      "scraped_at": "2026-04-07T06:53:40Z"
-    },
-    {
       "id": "0202dffa9940",
       "title": "DATA ENGINEER, P3",
       "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:40Z",
+      "scraped_at": "2026-04-07T06:53:40Z"
+    },
+    {
+      "id": "e03e7a416e9b",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T06:53:40Z",
       "scraped_at": "2026-04-07T06:53:40Z"
@@ -4381,12 +4513,45 @@
       "scraped_at": "2026-04-07T06:53:40Z"
     },
     {
-      "id": "e3ba309c35b8",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
+      "id": "2c25a09064e9",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:40Z",
+      "scraped_at": "2026-04-07T06:53:40Z"
+    },
+    {
+      "id": "3e671d75c93a",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:40Z",
+      "scraped_at": "2026-04-07T06:53:40Z"
+    },
+    {
+      "id": "3b70fa98ddd3",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:40Z",
+      "scraped_at": "2026-04-07T06:53:40Z"
+    },
+    {
+      "id": "9fe6d1fd9d1b",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T06:53:40Z",
       "scraped_at": "2026-04-07T06:53:40Z"
@@ -4403,34 +4568,23 @@
       "scraped_at": "2026-04-07T06:53:39Z"
     },
     {
-      "id": "9f8e4d4fa443",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:34Z",
-      "scraped_at": "2026-04-07T06:53:34Z"
-    },
-    {
-      "id": "789369e6985d",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T06:53:34Z",
-      "scraped_at": "2026-04-07T06:53:34Z"
-    },
-    {
       "id": "38ab43be074f",
       "title": "Senior Data Analyst (Finance & Regulatory Reporting)",
       "company": "Jobgether",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-data-analyst-finance-regulatory-reporting-at-jobgether-4392193440",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:34Z",
+      "scraped_at": "2026-04-07T06:53:34Z"
+    },
+    {
+      "id": "2662373fb0b8",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T06:53:34Z",
       "scraped_at": "2026-04-07T06:53:34Z"
@@ -4447,12 +4601,23 @@
       "scraped_at": "2026-04-07T06:53:34Z"
     },
     {
-      "id": "2662373fb0b8",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "id": "789369e6985d",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T06:53:34Z",
+      "scraped_at": "2026-04-07T06:53:34Z"
+    },
+    {
+      "id": "9f8e4d4fa443",
+      "title": "Business Intelligence & Systems Analyst",
+      "company": "Neumann Kaffee Gruppe (NKG)",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T06:53:34Z",
       "scraped_at": "2026-04-07T06:53:34Z"
@@ -4491,61 +4656,6 @@
       "scraped_at": "2026-04-07T10:17:07Z"
     },
     {
-      "id": "c0360d336bbd",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T05:31:17Z",
-      "scraped_at": "2026-04-07T05:31:17Z"
-    },
-    {
-      "id": "117754de0999",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T05:31:17Z",
-      "scraped_at": "2026-04-07T05:31:17Z"
-    },
-    {
-      "id": "5b9f4bb08e5c",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T05:31:17Z",
-      "scraped_at": "2026-04-07T05:31:17Z"
-    },
-    {
-      "id": "c8bf835868ca",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T05:31:17Z",
-      "scraped_at": "2026-04-07T05:31:17Z"
-    },
-    {
-      "id": "f65b1750734b",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T05:31:17Z",
-      "scraped_at": "2026-04-07T05:31:17Z"
-    },
-    {
       "id": "7a66b0141933",
       "title": "Software Engineer - L3 Support",
       "company": "Canonical",
@@ -4557,12 +4667,12 @@
       "scraped_at": "2026-04-07T05:31:17Z"
     },
     {
-      "id": "67b7f00f4bd2",
-      "title": "Remote Software Engineer (Rust)",
+      "id": "f759befcd9bd",
+      "title": "Remote ML Engineer - 60735",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T05:31:17Z",
       "scraped_at": "2026-04-07T05:31:17Z"
@@ -4579,12 +4689,67 @@
       "scraped_at": "2026-04-07T05:31:17Z"
     },
     {
-      "id": "f759befcd9bd",
-      "title": "Remote ML Engineer - 60735",
+      "id": "67b7f00f4bd2",
+      "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T05:31:17Z",
+      "scraped_at": "2026-04-07T05:31:17Z"
+    },
+    {
+      "id": "5b9f4bb08e5c",
+      "title": "Software Engineer, Cloud - Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T05:31:17Z",
+      "scraped_at": "2026-04-07T05:31:17Z"
+    },
+    {
+      "id": "f65b1750734b",
+      "title": "DATA ENGINEER, P3",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T05:31:17Z",
+      "scraped_at": "2026-04-07T05:31:17Z"
+    },
+    {
+      "id": "c8bf835868ca",
+      "title": "DATA ENGINEER, P3 Job ID : 273669",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T05:31:17Z",
+      "scraped_at": "2026-04-07T05:31:17Z"
+    },
+    {
+      "id": "117754de0999",
+      "title": "Senior Machine Learning Scientist - LLM & Voice",
+      "company": "Wave Mobile Money",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
+      "source": "LinkedIn",
+      "posted_date": "2026-04-07T05:31:17Z",
+      "scraped_at": "2026-04-07T05:31:17Z"
+    },
+    {
+      "id": "c0360d336bbd",
+      "title": "Software Engineer, Sustaining Engineering",
+      "company": "Canonical",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
       "source": "LinkedIn",
       "posted_date": "2026-04-07T05:31:17Z",
       "scraped_at": "2026-04-07T05:31:17Z"
@@ -4676,424 +4841,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-04-07T05:31:10Z",
       "scraped_at": "2026-04-07T05:31:10Z"
-    },
-    {
-      "id": "0a722edb2293",
-      "title": "Senior Machine Learning Scientist - LLM & Voice",
-      "company": "Wave Mobile Money",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-machine-learning-scientist-llm-voice-at-wave-mobile-money-4343688415",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "4947954543dc",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4396567348",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "0deb00ebf4e7",
-      "title": "Software Engineer, Cloud - Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-cloud-sustaining-engineering-at-canonical-4394332976",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "aac58e2effd6",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "7f245c5689f8",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "19221e245fbe",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4396567449",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "69072f2a34ee",
-      "title": "Software Engineer, Sustaining Engineering",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-sustaining-engineering-at-canonical-4397771174",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "d85dab79807c",
-      "title": "Software Engineer - L3 Support",
-      "company": "Canonical",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-l3-support-at-canonical-4397511751",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "6f24e6709922",
-      "title": "Quant Strat - Global Investment Firm - High Touch Team",
-      "company": "Mondrian Alpha",
-      "location": "New York City Metropolitan Area",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quant-strat-global-investment-firm-high-touch-team-at-mondrian-alpha-4397566379",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "956db4f62906",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:25Z",
-      "scraped_at": "2026-04-07T03:53:25Z"
-    },
-    {
-      "id": "9442f3b26781",
-      "title": "Business Intelligence & Systems Analyst",
-      "company": "Neumann Kaffee Gruppe (NKG)",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-systems-analyst-at-neumann-kaffee-gruppe-nkg-4397047807",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "f77c6b228923",
-      "title": "DATA ENGINEER, P3 Job ID : 273669",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3%0Ajob-id-273669-at-urban-resilience-hub-by-un-habitat-s-crgp-4395702500",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "5ab387cec4ef",
-      "title": "Software Engineer (Frontend) | Remote",
-      "company": "Crossing Hurdles",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://au.linkedin.com/jobs/view/software-engineer-frontend-remote-at-crossing-hurdles-4392179621",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "37b3d0003ddb",
-      "title": "DATA ENGINEER",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-un-environment-programme-4392442675",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "6e57871a339a",
-      "title": "DATA ENGINEER, P3",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-p3-at-united-nations-office-at-nairobi-4392495370",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "52c85c52e626",
-      "title": "Data Engineer",
-      "company": "N2S.Global",
-      "location": "Sydney, New South Wales, Australia",
-      "salary": "",
-      "url": "https://au.linkedin.com/jobs/view/data-engineer-at-n2s-global-4387233781",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "6bcb93bd91da",
-      "title": "Senior Data Analyst (Finance & Regulatory Reporting)",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-analyst-finance-regulatory-reporting-at-jobgether-4392193440",
-      "source": "LinkedIn",
-      "posted_date": "2026-04-07T03:53:19Z",
-      "scraped_at": "2026-04-07T03:53:19Z"
-    },
-    {
-      "id": "5a17df432bee",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=tgOhHVgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:26Z"
-    },
-    {
-      "id": "3f70b80dcfef",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=CPS6IFgy8RGrBZNbY5I0fA&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:31Z"
-    },
-    {
-      "id": "1ed4c32f4c98",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=7JvydWIy8RGDB9DeFiSL9A&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T09:16:29Z"
-    },
-    {
-      "id": "b728d5768356",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=iDNyIlgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:34Z"
-    },
-    {
-      "id": "85a53d32cb04",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=asF2HFgy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:24Z"
-    },
-    {
-      "id": "efc1216a8258",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=xJs7Hlgy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:27Z"
-    },
-    {
-      "id": "bda1d0952fd6",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=lnFJHVgy8RGrBZNbY5I0fA&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:25Z"
-    },
-    {
-      "id": "997e8bc1b86e",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=TnswH1gy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T08:02:29Z"
-    },
-    {
-      "id": "830860d60cf3",
-      "title": "Senior Data Scientist Machine Learning Operations Gen AI - Remote",
-      "company": "Sentara Health",
-      "location": "Chesapeake, Chesapeake City",
-      "salary": "$117,532 - $117,532",
-      "url": "https://www.adzuna.com/land/ad/5691904842?se=egyy8Goy8RG6sdy1CDryhg&utm_medium=api&utm_source=3f1b011b&v=A9CD0CF757F673EC9E490F12285F4999E9F2271A",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:51:57Z",
-      "scraped_at": "2026-04-07T10:17:11Z"
-    },
-    {
-      "id": "5134dbf088eb",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Lawton, Comanche County",
-      "salary": "$179,363 - $179,363",
-      "url": "https://www.adzuna.com/land/ad/5691899867?se=iDNyIlgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=1BFCD06621056B2B6DEB338BD49D55C7F703613F",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:34Z"
-    },
-    {
-      "id": "149322b73ca6",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Erie, Erie County",
-      "salary": "$193,289 - $193,289",
-      "url": "https://www.adzuna.com/land/ad/5691899845?se=TnswH1gy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=27DDA7B958108D29968552CB870CF6DD3CA15DEB",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:29Z"
-    },
-    {
-      "id": "0dc583f88098",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Manchester, Hillsborough County",
-      "salary": "$187,811 - $187,811",
-      "url": "https://www.adzuna.com/land/ad/5691899840?se=tgOhHVgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=10B0D5C3AE556746360F80CE23AD6EE9EB96117B",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:26Z"
-    },
-    {
-      "id": "b4f8ade8d738",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Lawton, Comanche County",
-      "salary": "$179,363 - $179,363",
-      "url": "https://www.adzuna.com/land/ad/5691899867?se=tgOhHVgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=1BFCD06621056B2B6DEB338BD49D55C7F703613F",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:26Z"
-    },
-    {
-      "id": "cdc1ee5ac877",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Manchester, Hillsborough County",
-      "salary": "$187,811 - $187,811",
-      "url": "https://www.adzuna.com/land/ad/5691899840?se=TnswH1gy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=10B0D5C3AE556746360F80CE23AD6EE9EB96117B",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:29Z"
-    },
-    {
-      "id": "fb22ab267c64",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Manchester, Hillsborough County",
-      "salary": "$187,811 - $187,811",
-      "url": "https://www.adzuna.com/land/ad/5691899840?se=iDNyIlgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=10B0D5C3AE556746360F80CE23AD6EE9EB96117B",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:34Z"
-    },
-    {
-      "id": "49e33965af6b",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Erie, Erie County",
-      "salary": "$193,289 - $193,289",
-      "url": "https://www.adzuna.com/land/ad/5691899845?se=tgOhHVgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=27DDA7B958108D29968552CB870CF6DD3CA15DEB",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:26Z"
-    },
-    {
-      "id": "da5c7869543a",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Lawton, Comanche County",
-      "salary": "$179,363 - $179,363",
-      "url": "https://www.adzuna.com/land/ad/5691899867?se=TnswH1gy8RGPENaAeRtO7Q&utm_medium=api&utm_source=3f1b011b&v=1BFCD06621056B2B6DEB338BD49D55C7F703613F",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:29Z"
-    },
-    {
-      "id": "f59f3d25acc4",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Erie, Erie County",
-      "salary": "$193,289 - $193,289",
-      "url": "https://www.adzuna.com/land/ad/5691899845?se=iDNyIlgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=27DDA7B958108D29968552CB870CF6DD3CA15DEB",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:29Z",
-      "scraped_at": "2026-04-07T08:02:34Z"
-    },
-    {
-      "id": "1fd1eb5c839b",
-      "title": "Machine Learning Engineer New Grad 2024-2025 -Remote",
-      "company": "Quora",
-      "location": "Middletown, New Castle County",
-      "salary": "$193,628 - $193,628",
-      "url": "https://www.adzuna.com/land/ad/5691899774?se=tgOhHVgy8RGyzcm9L2Uavw&utm_medium=api&utm_source=3f1b011b&v=5AF1CB7A43B505BE4E81EACE013BAD1857D8D8C1",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:39:28Z",
-      "scraped_at": "2026-04-07T08:02:26Z"
-    },
-    {
-      "id": "dcaadac8948e",
-      "title": "Entry level software developer remote-Junior data engineer",
-      "company": "SynergisticIT",
-      "location": "US",
-      "salary": "$154,003 - $154,003",
-      "url": "https://www.adzuna.com/details/5691894954?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T03:14:13Z",
-      "scraped_at": "2026-04-07T13:53:48Z"
-    },
-    {
-      "id": "bfe25aa81ce9",
-      "title": "Junior Terraform Developer - REMOTE in US",
-      "company": "NTT DATA Services",
-      "location": "Austin, Travis County",
-      "salary": "$86,157 - $86,157",
-      "url": "https://www.adzuna.com/details/5691866281?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-04-07T02:17:44Z",
-      "scraped_at": "2026-04-07T09:16:27Z"
     }
   ]
 }
