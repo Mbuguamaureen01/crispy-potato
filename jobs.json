@@ -1,7 +1,568 @@
 {
-  "last_updated": "2026-05-24T12:00:20.706417+00:00",
-  "total_jobs": 251,
+  "last_updated": "2026-05-24T13:21:54.805617+00:00",
+  "total_jobs": 243,
   "jobs": [
+    {
+      "id": "2c448258981f",
+      "title": "Staff software engineer, front end",
+      "company": "Sequoia Capital Global Equities",
+      "location": "New Shwaib, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/staff-software-engineer-front-end-at-sequoia-capital-global-equities-4418652804",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T13:20:34Z",
+      "scraped_at": "2026-05-24T13:20:34Z"
+    },
+    {
+      "id": "6631f24abe87",
+      "title": "Senior Machine Learning Engineer - AI Enablement (AU remote)",
+      "company": "Canva",
+      "location": "Sydney NSW",
+      "salary": "",
+      "url": "https://www.seek.com.au/job/92211719?type=standard&ref=search-standalone&origin=cardTitle",
+      "source": "SEEK",
+      "posted_date": "2026-05-24T13:20:01Z",
+      "scraped_at": "2026-05-24T13:20:01Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-05-24T13:19:35Z",
+      "scraped_at": "2026-05-24T13:19:35Z"
+    },
+    {
+      "id": "46250013f2d8",
+      "title": "Remote Software Engineer (Go/Golang)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T11:58:52Z",
+      "scraped_at": "2026-05-24T11:58:52Z"
+    },
     {
       "id": "8ede52d337e1",
       "title": "Senior Data Engineer | Apache NiFi",
@@ -9,17 +570,6 @@
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T11:58:52Z",
-      "scraped_at": "2026-05-24T11:58:52Z"
-    },
-    {
-      "id": "f4d044e173d7",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T11:58:52Z",
       "scraped_at": "2026-05-24T11:58:52Z"
@@ -36,17 +586,6 @@
       "scraped_at": "2026-05-24T11:58:52Z"
     },
     {
-      "id": "917fac206b6f",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T11:58:52Z",
-      "scraped_at": "2026-05-24T11:58:52Z"
-    },
-    {
       "id": "e30240bf42d4",
       "title": "Remote ML Engineer - 60735",
       "company": "Turing",
@@ -58,12 +597,23 @@
       "scraped_at": "2026-05-24T11:58:52Z"
     },
     {
-      "id": "46250013f2d8",
-      "title": "Remote Software Engineer (Go/Golang)",
+      "id": "917fac206b6f",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T11:58:52Z",
+      "scraped_at": "2026-05-24T11:58:52Z"
+    },
+    {
+      "id": "f4d044e173d7",
+      "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T11:58:52Z",
       "scraped_at": "2026-05-24T11:58:52Z"
@@ -89,6 +639,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-24T11:58:47Z",
       "scraped_at": "2026-05-24T11:58:47Z"
+    },
+    {
+      "id": "7665eed36474",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T11:58:46Z",
+      "scraped_at": "2026-05-24T11:58:46Z"
     },
     {
       "id": "47db1131c902",
@@ -157,17 +718,6 @@
       "scraped_at": "2026-05-24T11:58:46Z"
     },
     {
-      "id": "7665eed36474",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T11:58:46Z",
-      "scraped_at": "2026-05-24T11:58:46Z"
-    },
-    {
       "id": "364bed938a14",
       "title": "Programme Policy Officer – Data Analyst (NOA)",
       "company": "World Food Programme",
@@ -179,595 +729,12 @@
       "scraped_at": "2026-05-24T11:58:46Z"
     },
     {
-      "id": "6631f24abe87",
-      "title": "Senior Machine Learning Engineer - AI Enablement (AU remote)",
-      "company": "Canva",
-      "location": "Sydney NSW",
-      "salary": "",
-      "url": "https://www.seek.com.au/job/92211719?type=standard&ref=search-standalone&origin=cardTitle",
-      "source": "SEEK",
-      "posted_date": "2026-05-24T11:58:19Z",
-      "scraped_at": "2026-05-24T11:58:19Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
-      "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-05-24T11:57:51Z",
-      "scraped_at": "2026-05-24T11:57:51Z"
-    },
-    {
-      "id": "04c28fa45dd4",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:27Z",
-      "scraped_at": "2026-05-24T10:56:27Z"
-    },
-    {
       "id": "5bb974ff9d03",
       "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:27Z",
-      "scraped_at": "2026-05-24T10:56:27Z"
-    },
-    {
-      "id": "5013f849cf35",
-      "title": "C++ Systems Software Engineer (3 months project, AI project)",
-      "company": "Gramian Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:27Z",
-      "scraped_at": "2026-05-24T10:56:27Z"
-    },
-    {
-      "id": "4e5f082226a6",
-      "title": "Remote Software Engineer (Go/Golang)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:27Z",
-      "scraped_at": "2026-05-24T10:56:27Z"
-    },
-    {
-      "id": "7f8eb18100c8",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T10:56:27Z",
       "scraped_at": "2026-05-24T10:56:27Z"
@@ -784,6 +751,50 @@
       "scraped_at": "2026-05-24T10:56:27Z"
     },
     {
+      "id": "7f8eb18100c8",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:27Z",
+      "scraped_at": "2026-05-24T10:56:27Z"
+    },
+    {
+      "id": "4e5f082226a6",
+      "title": "Remote Software Engineer (Go/Golang)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:27Z",
+      "scraped_at": "2026-05-24T10:56:27Z"
+    },
+    {
+      "id": "5013f849cf35",
+      "title": "C++ Systems Software Engineer (3 months project, AI project)",
+      "company": "Gramian Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:27Z",
+      "scraped_at": "2026-05-24T10:56:27Z"
+    },
+    {
+      "id": "04c28fa45dd4",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:27Z",
+      "scraped_at": "2026-05-24T10:56:27Z"
+    },
+    {
       "id": "7b7c4233b028",
       "title": "Entry-Level Software Engineer | Remote",
       "company": "Crossing Hurdles",
@@ -795,23 +806,12 @@
       "scraped_at": "2026-05-24T10:56:24Z"
     },
     {
-      "id": "5d4c52bf6318",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
+      "id": "b6832dc9172b",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:22Z",
-      "scraped_at": "2026-05-24T10:56:22Z"
-    },
-    {
-      "id": "4f34498f7c5d",
-      "title": "Environmental data research and methodology Intern Job ID : 277779",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern%0Ajob-id-277779-at-urban-resilience-hub-by-un-habitat-s-crgp-4416947181",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T10:56:22Z",
       "scraped_at": "2026-05-24T10:56:22Z"
@@ -823,39 +823,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:22Z",
-      "scraped_at": "2026-05-24T10:56:22Z"
-    },
-    {
-      "id": "7ce14c0a485f",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:22Z",
-      "scraped_at": "2026-05-24T10:56:22Z"
-    },
-    {
-      "id": "ad6666f433f2",
-      "title": "Human Feedback Contributor",
-      "company": "Tech Pipeline",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T10:56:22Z",
-      "scraped_at": "2026-05-24T10:56:22Z"
-    },
-    {
-      "id": "b6832dc9172b",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T10:56:22Z",
       "scraped_at": "2026-05-24T10:56:22Z"
@@ -883,6 +850,50 @@
       "scraped_at": "2026-05-24T10:56:22Z"
     },
     {
+      "id": "ad6666f433f2",
+      "title": "Human Feedback Contributor",
+      "company": "Tech Pipeline",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:22Z",
+      "scraped_at": "2026-05-24T10:56:22Z"
+    },
+    {
+      "id": "7ce14c0a485f",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:22Z",
+      "scraped_at": "2026-05-24T10:56:22Z"
+    },
+    {
+      "id": "4f34498f7c5d",
+      "title": "Environmental data research and methodology Intern Job ID : 277779",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern%0Ajob-id-277779-at-urban-resilience-hub-by-un-habitat-s-crgp-4416947181",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:22Z",
+      "scraped_at": "2026-05-24T10:56:22Z"
+    },
+    {
+      "id": "5d4c52bf6318",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T10:56:22Z",
+      "scraped_at": "2026-05-24T10:56:22Z"
+    },
+    {
       "id": "fe00b558c7bd",
       "title": "Entry-Level Software Engineer | Remote",
       "company": "Crossing Hurdles",
@@ -894,34 +905,12 @@
       "scraped_at": "2026-05-24T09:31:24Z"
     },
     {
-      "id": "46d058880671",
-      "title": "Staff software engineer, front end",
-      "company": "Sequoia Capital Global Equities",
-      "location": "New Shwaib, Abu Dhabi Emirate, United Arab Emirates",
+      "id": "ee0cccceba71",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/staff-software-engineer-front-end-at-sequoia-capital-global-equities-4418652804",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T09:31:22Z",
-      "scraped_at": "2026-05-24T09:31:22Z"
-    },
-    {
-      "id": "37d7e6fc2efb",
-      "title": "Environmental data research and methodology Intern Job ID : 277779",
-      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern%0Ajob-id-277779-at-urban-resilience-hub-by-un-habitat-s-crgp-4416947181",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T09:31:22Z",
-      "scraped_at": "2026-05-24T09:31:22Z"
-    },
-    {
-      "id": "ce1df28f7e04",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T09:31:22Z",
       "scraped_at": "2026-05-24T09:31:22Z"
@@ -933,39 +922,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T09:31:22Z",
-      "scraped_at": "2026-05-24T09:31:22Z"
-    },
-    {
-      "id": "b77ad35c097a",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T09:31:22Z",
-      "scraped_at": "2026-05-24T09:31:22Z"
-    },
-    {
-      "id": "d8eb79d4dcf7",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T09:31:22Z",
-      "scraped_at": "2026-05-24T09:31:22Z"
-    },
-    {
-      "id": "ee0cccceba71",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T09:31:22Z",
       "scraped_at": "2026-05-24T09:31:22Z"
@@ -993,6 +949,61 @@
       "scraped_at": "2026-05-24T09:31:22Z"
     },
     {
+      "id": "d8eb79d4dcf7",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T09:31:22Z",
+      "scraped_at": "2026-05-24T09:31:22Z"
+    },
+    {
+      "id": "b77ad35c097a",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T09:31:22Z",
+      "scraped_at": "2026-05-24T09:31:22Z"
+    },
+    {
+      "id": "ce1df28f7e04",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T09:31:22Z",
+      "scraped_at": "2026-05-24T09:31:22Z"
+    },
+    {
+      "id": "37d7e6fc2efb",
+      "title": "Environmental data research and methodology Intern Job ID : 277779",
+      "company": "Urban Resilience Hub by UN-Habitat's CRGP",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern%0Ajob-id-277779-at-urban-resilience-hub-by-un-habitat-s-crgp-4416947181",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T09:31:22Z",
+      "scraped_at": "2026-05-24T09:31:22Z"
+    },
+    {
+      "id": "46d058880671",
+      "title": "Staff software engineer, front end",
+      "company": "Sequoia Capital Global Equities",
+      "location": "New Shwaib, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/staff-software-engineer-front-end-at-sequoia-capital-global-equities-4418652804",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T09:31:22Z",
+      "scraped_at": "2026-05-24T09:31:22Z"
+    },
+    {
       "id": "c50d56b906e7",
       "title": "Quantitative Developer | Global Electronic Trading Firm | London Engineering at the Frontier of Electronic Markets",
       "company": "Mondrian Alpha",
@@ -1013,6 +1024,50 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-24T07:39:31Z",
       "scraped_at": "2026-05-24T07:39:31Z"
+    },
+    {
+      "id": "a42030dd8f80",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T07:39:28Z",
+      "scraped_at": "2026-05-24T07:39:28Z"
+    },
+    {
+      "id": "831e5f378842",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T07:39:28Z",
+      "scraped_at": "2026-05-24T07:39:28Z"
+    },
+    {
+      "id": "8eebd581e3d3",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T07:39:28Z",
+      "scraped_at": "2026-05-24T07:39:28Z"
+    },
+    {
+      "id": "3ab63f5c582d",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T07:39:28Z",
+      "scraped_at": "2026-05-24T07:39:28Z"
     },
     {
       "id": "b46724797db3",
@@ -1048,50 +1103,6 @@
       "scraped_at": "2026-05-24T07:39:28Z"
     },
     {
-      "id": "831e5f378842",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T07:39:28Z",
-      "scraped_at": "2026-05-24T07:39:28Z"
-    },
-    {
-      "id": "a42030dd8f80",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T07:39:28Z",
-      "scraped_at": "2026-05-24T07:39:28Z"
-    },
-    {
-      "id": "8eebd581e3d3",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T07:39:28Z",
-      "scraped_at": "2026-05-24T07:39:28Z"
-    },
-    {
-      "id": "3ab63f5c582d",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T07:39:28Z",
-      "scraped_at": "2026-05-24T07:39:28Z"
-    },
-    {
       "id": "0d11710bc1c0",
       "title": "Senior Data Scientist II – Health Care Analytics - Chicago, DC or Remote",
       "company": "NORC at the University of Chicago",
@@ -1100,7 +1111,7 @@
       "url": "https://www.adzuna.com/details/5739726520?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-05-24T07:16:18Z",
-      "scraped_at": "2026-05-24T11:58:30Z"
+      "scraped_at": "2026-05-24T13:20:14Z"
     },
     {
       "id": "de565716af10",
@@ -1111,7 +1122,7 @@
       "url": "https://www.adzuna.com/details/5739671695?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-05-24T06:15:39Z",
-      "scraped_at": "2026-05-24T11:58:30Z"
+      "scraped_at": "2026-05-24T13:20:15Z"
     },
     {
       "id": "67838bec40ef",
@@ -1122,7 +1133,7 @@
       "url": "https://www.adzuna.ca/details/5739641909?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-05-24T05:46:47Z",
-      "scraped_at": "2026-05-24T11:58:38Z"
+      "scraped_at": "2026-05-24T13:20:24Z"
     },
     {
       "id": "eeffe67f5881",
@@ -1158,56 +1169,12 @@
       "scraped_at": "2026-05-24T09:31:04Z"
     },
     {
-      "id": "54461c113cea",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T04:37:30Z",
-      "scraped_at": "2026-05-24T04:37:30Z"
-    },
-    {
-      "id": "e2b32b1dbf0d",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T04:37:30Z",
-      "scraped_at": "2026-05-24T04:37:30Z"
-    },
-    {
       "id": "1e4c9edb8cbd",
       "title": "C++ Systems Software Engineer (3 months project, AI project)",
       "company": "Gramian Consulting",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T04:37:30Z",
-      "scraped_at": "2026-05-24T04:37:30Z"
-    },
-    {
-      "id": "5d2a27eb2f82",
-      "title": "Remote Software Engineer (Go/Golang)",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T04:37:30Z",
-      "scraped_at": "2026-05-24T04:37:30Z"
-    },
-    {
-      "id": "85fdf1d8cd68",
-      "title": "Senior Data Engineer | Apache NiFi",
-      "company": "Keyrus",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T04:37:30Z",
       "scraped_at": "2026-05-24T04:37:30Z"
@@ -1224,6 +1191,50 @@
       "scraped_at": "2026-05-24T04:37:30Z"
     },
     {
+      "id": "85fdf1d8cd68",
+      "title": "Senior Data Engineer | Apache NiFi",
+      "company": "Keyrus",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T04:37:30Z",
+      "scraped_at": "2026-05-24T04:37:30Z"
+    },
+    {
+      "id": "5d2a27eb2f82",
+      "title": "Remote Software Engineer (Go/Golang)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T04:37:30Z",
+      "scraped_at": "2026-05-24T04:37:30Z"
+    },
+    {
+      "id": "e2b32b1dbf0d",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T04:37:30Z",
+      "scraped_at": "2026-05-24T04:37:30Z"
+    },
+    {
+      "id": "54461c113cea",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T04:37:30Z",
+      "scraped_at": "2026-05-24T04:37:30Z"
+    },
+    {
       "id": "1589796ee36e",
       "title": "Entry-Level Software Engineer | Remote",
       "company": "Crossing Hurdles",
@@ -1233,6 +1244,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-24T04:37:27Z",
       "scraped_at": "2026-05-24T04:37:27Z"
+    },
+    {
+      "id": "d318eed59d28",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-24T04:37:24Z",
+      "scraped_at": "2026-05-24T04:37:24Z"
     },
     {
       "id": "006879de0954",
@@ -1296,17 +1318,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-24T04:37:24Z",
-      "scraped_at": "2026-05-24T04:37:24Z"
-    },
-    {
-      "id": "d318eed59d28",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
       "source": "LinkedIn",
       "posted_date": "2026-05-24T04:37:24Z",
       "scraped_at": "2026-05-24T04:37:24Z"
@@ -1455,67 +1466,12 @@
       "scraped_at": "2026-05-23T23:11:14Z"
     },
     {
-      "id": "7896a8c772ec",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T23:11:12Z",
-      "scraped_at": "2026-05-23T23:11:12Z"
-    },
-    {
-      "id": "e2c3b7df2dc1",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T23:11:12Z",
-      "scraped_at": "2026-05-23T23:11:12Z"
-    },
-    {
-      "id": "849bbe4ca90a",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T23:11:12Z",
-      "scraped_at": "2026-05-23T23:11:12Z"
-    },
-    {
       "id": "345aa7a579fb",
       "title": "Human Feedback Contributor",
       "company": "Tech Pipeline",
       "location": "Mombasa, Mombasa County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T23:11:12Z",
-      "scraped_at": "2026-05-23T23:11:12Z"
-    },
-    {
-      "id": "90ce02ff08cd",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T23:11:12Z",
-      "scraped_at": "2026-05-23T23:11:12Z"
-    },
-    {
-      "id": "c25f5a4612e8",
-      "title": "Programme Policy Officer – Data Analyst (NOA)",
-      "company": "World Food Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T23:11:12Z",
       "scraped_at": "2026-05-23T23:11:12Z"
@@ -1532,6 +1488,61 @@
       "scraped_at": "2026-05-23T23:11:12Z"
     },
     {
+      "id": "c25f5a4612e8",
+      "title": "Programme Policy Officer – Data Analyst (NOA)",
+      "company": "World Food Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T23:11:12Z",
+      "scraped_at": "2026-05-23T23:11:12Z"
+    },
+    {
+      "id": "90ce02ff08cd",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T23:11:12Z",
+      "scraped_at": "2026-05-23T23:11:12Z"
+    },
+    {
+      "id": "849bbe4ca90a",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T23:11:12Z",
+      "scraped_at": "2026-05-23T23:11:12Z"
+    },
+    {
+      "id": "e2c3b7df2dc1",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T23:11:12Z",
+      "scraped_at": "2026-05-23T23:11:12Z"
+    },
+    {
+      "id": "7896a8c772ec",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T23:11:12Z",
+      "scraped_at": "2026-05-23T23:11:12Z"
+    },
+    {
       "id": "8cd3b0a091a2",
       "title": "Lead Software Engineer (remote)",
       "company": "Hallmark",
@@ -1543,12 +1554,34 @@
       "scraped_at": "2026-05-24T04:37:05Z"
     },
     {
-      "id": "900a8f05bfd8",
-      "title": "Remote Software Engineer (Go/Golang)",
+      "id": "7ef682fcf685",
+      "title": "Remote Software Engineer (Rust)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T22:13:28Z",
+      "scraped_at": "2026-05-23T22:13:28Z"
+    },
+    {
+      "id": "4f19d14cdcf7",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T22:13:28Z",
+      "scraped_at": "2026-05-23T22:13:28Z"
+    },
+    {
+      "id": "c44b02558936",
+      "title": "C++ Systems Software Engineer (3 months project, AI project)",
+      "company": "Gramian Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:28Z",
       "scraped_at": "2026-05-23T22:13:28Z"
@@ -1576,34 +1609,12 @@
       "scraped_at": "2026-05-23T22:13:28Z"
     },
     {
-      "id": "7ef682fcf685",
-      "title": "Remote Software Engineer (Rust)",
+      "id": "900a8f05bfd8",
+      "title": "Remote Software Engineer (Go/Golang)",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T22:13:28Z",
-      "scraped_at": "2026-05-23T22:13:28Z"
-    },
-    {
-      "id": "c44b02558936",
-      "title": "C++ Systems Software Engineer (3 months project, AI project)",
-      "company": "Gramian Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T22:13:28Z",
-      "scraped_at": "2026-05-23T22:13:28Z"
-    },
-    {
-      "id": "4f19d14cdcf7",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-go-golang-at-turing-4418482281",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:28Z",
       "scraped_at": "2026-05-23T22:13:28Z"
@@ -1620,34 +1631,23 @@
       "scraped_at": "2026-05-23T22:13:25Z"
     },
     {
-      "id": "30c81ebcd5c7",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
+      "id": "ab1033218fe9",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:23Z",
       "scraped_at": "2026-05-23T22:13:23Z"
     },
     {
-      "id": "2b87ef1a6b89",
-      "title": "Human Feedback Contributor",
-      "company": "Tech Pipeline",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T22:13:23Z",
-      "scraped_at": "2026-05-23T22:13:23Z"
-    },
-    {
-      "id": "ece654962006",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
+      "id": "8859ffee30a9",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:23Z",
       "scraped_at": "2026-05-23T22:13:23Z"
@@ -1675,23 +1675,34 @@
       "scraped_at": "2026-05-23T22:13:23Z"
     },
     {
-      "id": "8859ffee30a9",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "2b87ef1a6b89",
+      "title": "Human Feedback Contributor",
+      "company": "Tech Pipeline",
+      "location": "Mombasa, Mombasa County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:23Z",
       "scraped_at": "2026-05-23T22:13:23Z"
     },
     {
-      "id": "ab1033218fe9",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
+      "id": "ece654962006",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T22:13:23Z",
+      "scraped_at": "2026-05-23T22:13:23Z"
+    },
+    {
+      "id": "30c81ebcd5c7",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T22:13:23Z",
       "scraped_at": "2026-05-23T22:13:23Z"
@@ -1774,56 +1785,12 @@
       "scraped_at": "2026-05-23T21:28:31Z"
     },
     {
-      "id": "59094e3a131f",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T21:28:26Z",
-      "scraped_at": "2026-05-23T21:28:26Z"
-    },
-    {
-      "id": "ed72c1114bfb",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T21:28:26Z",
-      "scraped_at": "2026-05-23T21:28:26Z"
-    },
-    {
-      "id": "f3d7b671e7c3",
-      "title": "Programme Policy Officer – Data Analyst (NOA)",
-      "company": "World Food Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T21:28:26Z",
-      "scraped_at": "2026-05-23T21:28:26Z"
-    },
-    {
       "id": "2c55b7394e46",
       "title": "Data Analyst (SQL / Python) | $15/hr Remote",
       "company": "Crossing Hurdles",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T21:28:26Z",
-      "scraped_at": "2026-05-23T21:28:26Z"
-    },
-    {
-      "id": "1d160b4d5cc9",
-      "title": "Human Feedback Contributor",
-      "company": "Tech Pipeline",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T21:28:26Z",
       "scraped_at": "2026-05-23T21:28:26Z"
@@ -1840,12 +1807,56 @@
       "scraped_at": "2026-05-23T21:28:26Z"
     },
     {
+      "id": "1d160b4d5cc9",
+      "title": "Human Feedback Contributor",
+      "company": "Tech Pipeline",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T21:28:26Z",
+      "scraped_at": "2026-05-23T21:28:26Z"
+    },
+    {
       "id": "99665ddd5899",
       "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
       "company": "UN Environment Programme",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T21:28:26Z",
+      "scraped_at": "2026-05-23T21:28:26Z"
+    },
+    {
+      "id": "f3d7b671e7c3",
+      "title": "Programme Policy Officer – Data Analyst (NOA)",
+      "company": "World Food Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T21:28:26Z",
+      "scraped_at": "2026-05-23T21:28:26Z"
+    },
+    {
+      "id": "ed72c1114bfb",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T21:28:26Z",
+      "scraped_at": "2026-05-23T21:28:26Z"
+    },
+    {
+      "id": "59094e3a131f",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T21:28:26Z",
       "scraped_at": "2026-05-23T21:28:26Z"
@@ -1928,34 +1939,12 @@
       "scraped_at": "2026-05-23T20:31:15Z"
     },
     {
-      "id": "68a1ee5796ed",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T20:31:12Z",
-      "scraped_at": "2026-05-23T20:31:12Z"
-    },
-    {
-      "id": "036e5a354ead",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
+      "id": "4ef0966799fa",
+      "title": "Data Analyst",
+      "company": "DHL Supply Chain",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T20:31:12Z",
-      "scraped_at": "2026-05-23T20:31:12Z"
-    },
-    {
-      "id": "f7d5c46a9fcb",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T20:31:12Z",
       "scraped_at": "2026-05-23T20:31:12Z"
@@ -1994,26 +1983,37 @@
       "scraped_at": "2026-05-23T20:31:12Z"
     },
     {
-      "id": "4ef0966799fa",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
+      "id": "f7d5c46a9fcb",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T20:31:12Z",
       "scraped_at": "2026-05-23T20:31:12Z"
     },
     {
-      "id": "af37111299c0",
-      "title": "Senior Data Engineer | Apache NiFi",
-      "company": "Keyrus",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "68a1ee5796ed",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
       "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:19Z",
-      "scraped_at": "2026-05-23T19:39:19Z"
+      "posted_date": "2026-05-23T20:31:12Z",
+      "scraped_at": "2026-05-23T20:31:12Z"
+    },
+    {
+      "id": "036e5a354ead",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T20:31:12Z",
+      "scraped_at": "2026-05-23T20:31:12Z"
     },
     {
       "id": "ecb240174776",
@@ -2071,6 +2071,17 @@
       "scraped_at": "2026-05-23T19:39:19Z"
     },
     {
+      "id": "af37111299c0",
+      "title": "Senior Data Engineer | Apache NiFi",
+      "company": "Keyrus",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T19:39:19Z",
+      "scraped_at": "2026-05-23T19:39:19Z"
+    },
+    {
       "id": "c0b2b636ed6d",
       "title": "Entry-Level Software Engineer | Remote",
       "company": "Crossing Hurdles",
@@ -2082,67 +2093,12 @@
       "scraped_at": "2026-05-23T19:39:16Z"
     },
     {
-      "id": "f7c1098365b6",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:13Z",
-      "scraped_at": "2026-05-23T19:39:13Z"
-    },
-    {
-      "id": "e79768e5aa8f",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:13Z",
-      "scraped_at": "2026-05-23T19:39:13Z"
-    },
-    {
-      "id": "60228ccef58b",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:13Z",
-      "scraped_at": "2026-05-23T19:39:13Z"
-    },
-    {
       "id": "efbfb7400207",
       "title": "Data Analyst",
       "company": "DHL Supply Chain",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:13Z",
-      "scraped_at": "2026-05-23T19:39:13Z"
-    },
-    {
-      "id": "855d5ceda7fd",
-      "title": "Programme Policy Officer – Data Analyst (NOA)",
-      "company": "World Food Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T19:39:13Z",
-      "scraped_at": "2026-05-23T19:39:13Z"
-    },
-    {
-      "id": "aa57d5e71ee6",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T19:39:13Z",
       "scraped_at": "2026-05-23T19:39:13Z"
@@ -2159,37 +2115,59 @@
       "scraped_at": "2026-05-23T19:39:13Z"
     },
     {
-      "id": "d89f77491063",
-      "title": "C++ Systems Software Engineer (3 months project, AI project)",
-      "company": "Gramian Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T18:14:37Z",
-      "scraped_at": "2026-05-23T18:14:37Z"
-    },
-    {
-      "id": "e3ce1f4c7901",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T18:14:37Z",
-      "scraped_at": "2026-05-23T18:14:37Z"
-    },
-    {
-      "id": "8d098584c64c",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
+      "id": "aa57d5e71ee6",
+      "title": "Environmental data research and methodology Intern",
+      "company": "United Nations Office at Nairobi",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
       "source": "LinkedIn",
-      "posted_date": "2026-05-23T18:14:37Z",
-      "scraped_at": "2026-05-23T18:14:37Z"
+      "posted_date": "2026-05-23T19:39:13Z",
+      "scraped_at": "2026-05-23T19:39:13Z"
+    },
+    {
+      "id": "855d5ceda7fd",
+      "title": "Programme Policy Officer – Data Analyst (NOA)",
+      "company": "World Food Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T19:39:13Z",
+      "scraped_at": "2026-05-23T19:39:13Z"
+    },
+    {
+      "id": "f7c1098365b6",
+      "title": "Junior Data Analyst & Operations Assistant Nairobi",
+      "company": "Recruitify_HR",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T19:39:13Z",
+      "scraped_at": "2026-05-23T19:39:13Z"
+    },
+    {
+      "id": "60228ccef58b",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T19:39:13Z",
+      "scraped_at": "2026-05-23T19:39:13Z"
+    },
+    {
+      "id": "e79768e5aa8f",
+      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
+      "company": "UN Environment Programme",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T19:39:13Z",
+      "scraped_at": "2026-05-23T19:39:13Z"
     },
     {
       "id": "238ee1a1da38",
@@ -2225,6 +2203,39 @@
       "scraped_at": "2026-05-23T18:14:37Z"
     },
     {
+      "id": "e3ce1f4c7901",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T18:14:37Z",
+      "scraped_at": "2026-05-23T18:14:37Z"
+    },
+    {
+      "id": "8d098584c64c",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T18:14:37Z",
+      "scraped_at": "2026-05-23T18:14:37Z"
+    },
+    {
+      "id": "d89f77491063",
+      "title": "C++ Systems Software Engineer (3 months project, AI project)",
+      "company": "Gramian Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T18:14:37Z",
+      "scraped_at": "2026-05-23T18:14:37Z"
+    },
+    {
       "id": "9a53f37e1e90",
       "title": "Entry-Level Software Engineer | Remote",
       "company": "Crossing Hurdles",
@@ -2236,34 +2247,23 @@
       "scraped_at": "2026-05-23T18:14:34Z"
     },
     {
-      "id": "57026491830e",
-      "title": "C++ Systems Software Engineer (3 months project, AI project)",
-      "company": "Gramian Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T17:20:08Z",
-      "scraped_at": "2026-05-23T17:20:08Z"
-    },
-    {
-      "id": "136b64b1b5cd",
-      "title": "Senior Data Engineer | Apache NiFi",
-      "company": "Keyrus",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T17:20:08Z",
-      "scraped_at": "2026-05-23T17:20:08Z"
-    },
-    {
       "id": "11892dd272a2",
       "title": "Remote ML Engineer - 60735",
       "company": "Turing",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T17:20:08Z",
+      "scraped_at": "2026-05-23T17:20:08Z"
+    },
+    {
+      "id": "6c9d88cd1543",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T17:20:08Z",
       "scraped_at": "2026-05-23T17:20:08Z"
@@ -2291,12 +2291,23 @@
       "scraped_at": "2026-05-23T17:20:08Z"
     },
     {
-      "id": "6c9d88cd1543",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "136b64b1b5cd",
+      "title": "Senior Data Engineer | Apache NiFi",
+      "company": "Keyrus",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T17:20:08Z",
+      "scraped_at": "2026-05-23T17:20:08Z"
+    },
+    {
+      "id": "57026491830e",
+      "title": "C++ Systems Software Engineer (3 months project, AI project)",
+      "company": "Gramian Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T17:20:08Z",
       "scraped_at": "2026-05-23T17:20:08Z"
@@ -2311,6 +2322,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-23T17:20:06Z",
       "scraped_at": "2026-05-23T17:20:06Z"
+    },
+    {
+      "id": "dfea50e4f54c",
+      "title": "Human Feedback Contributor",
+      "company": "Tech Pipeline",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T17:20:02Z",
+      "scraped_at": "2026-05-23T17:20:02Z"
     },
     {
       "id": "3bf4ab34554c",
@@ -2379,17 +2401,6 @@
       "scraped_at": "2026-05-23T17:20:02Z"
     },
     {
-      "id": "dfea50e4f54c",
-      "title": "Human Feedback Contributor",
-      "company": "Tech Pipeline",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T17:20:02Z",
-      "scraped_at": "2026-05-23T17:20:02Z"
-    },
-    {
       "id": "cfe9fc6d2cab",
       "title": "Staff, Data Engineer (Global Security)",
       "company": "Royal Bank of Canada",
@@ -2398,7 +2409,7 @@
       "url": "https://www.adzuna.ca/details/5739124396?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-05-23T16:48:46Z",
-      "scraped_at": "2026-05-24T11:58:42Z"
+      "scraped_at": "2026-05-24T13:20:28Z"
     },
     {
       "id": "31be4719a874",
@@ -2410,17 +2421,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-23T16:17:40Z",
       "scraped_at": "2026-05-23T16:17:40Z"
-    },
-    {
-      "id": "8f0af7cda911",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T16:17:38Z",
-      "scraped_at": "2026-05-23T16:17:38Z"
     },
     {
       "id": "fba3993f2c2f",
@@ -2489,37 +2489,15 @@
       "scraped_at": "2026-05-23T16:17:38Z"
     },
     {
-      "id": "532538e63504",
-      "title": "Remote Software Engineer (Rust)",
-      "company": "Turing",
+      "id": "8f0af7cda911",
+      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
+      "company": "Crossing Hurdles",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
       "source": "LinkedIn",
-      "posted_date": "2026-05-23T15:21:11Z",
-      "scraped_at": "2026-05-23T15:21:11Z"
-    },
-    {
-      "id": "a02988f63378",
-      "title": "Remote ML Engineer - 60735",
-      "company": "Turing",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T15:21:11Z",
-      "scraped_at": "2026-05-23T15:21:11Z"
-    },
-    {
-      "id": "360656329641",
-      "title": "Lead Software Engineer",
-      "company": "Mastercard",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T15:21:11Z",
-      "scraped_at": "2026-05-23T15:21:11Z"
+      "posted_date": "2026-05-23T16:17:38Z",
+      "scraped_at": "2026-05-23T16:17:38Z"
     },
     {
       "id": "2c4879853997",
@@ -2528,6 +2506,17 @@
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-apache-nifi-at-keyrus-4417344057",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T15:21:11Z",
+      "scraped_at": "2026-05-23T15:21:11Z"
+    },
+    {
+      "id": "dc70ebdca64d",
+      "title": "C++ Systems Software Engineer (3 months project, AI project)",
+      "company": "Gramian Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T15:21:11Z",
       "scraped_at": "2026-05-23T15:21:11Z"
@@ -2544,12 +2533,34 @@
       "scraped_at": "2026-05-23T15:21:11Z"
     },
     {
-      "id": "dc70ebdca64d",
-      "title": "C++ Systems Software Engineer (3 months project, AI project)",
-      "company": "Gramian Consulting",
+      "id": "360656329641",
+      "title": "Lead Software Engineer",
+      "company": "Mastercard",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/lead-software-engineer-at-mastercard-4413617878",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T15:21:11Z",
+      "scraped_at": "2026-05-23T15:21:11Z"
+    },
+    {
+      "id": "a02988f63378",
+      "title": "Remote ML Engineer - 60735",
+      "company": "Turing",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/c%2B%2B-systems-software-engineer-3-months-project-ai-project-at-gramian-consulting-4417373158",
+      "url": "https://ke.linkedin.com/jobs/view/remote-ml-engineer-60735-at-turing-4418465829",
+      "source": "LinkedIn",
+      "posted_date": "2026-05-23T15:21:11Z",
+      "scraped_at": "2026-05-23T15:21:11Z"
+    },
+    {
+      "id": "532538e63504",
+      "title": "Remote Software Engineer (Rust)",
+      "company": "Turing",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/remote-software-engineer-rust-at-turing-4418476386",
       "source": "LinkedIn",
       "posted_date": "2026-05-23T15:21:11Z",
       "scraped_at": "2026-05-23T15:21:11Z"
@@ -2663,105 +2674,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-05-23T14:14:30Z",
       "scraped_at": "2026-05-23T14:14:30Z"
-    },
-    {
-      "id": "8fe0ce12b1a6",
-      "title": "eFX Quantitative Analyst, AVP - Global Markets",
-      "company": "State Street",
-      "location": "Boston, MA",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/efx-quantitative-analyst-avp-global-markets-at-state-street-4416917670",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:35Z",
-      "scraped_at": "2026-05-23T12:42:35Z"
-    },
-    {
-      "id": "51e1fd4dabb2",
-      "title": "Entry-Level Software Engineer | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4417553585",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:32Z",
-      "scraped_at": "2026-05-23T12:42:32Z"
-    },
-    {
-      "id": "1597c79a869b",
-      "title": "Environmental data research and methodology Intern",
-      "company": "United Nations Office at Nairobi",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-united-nations-office-at-nairobi-4415900230",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "da317bd67e01",
-      "title": "ENVIRONMENTAL DATA RESEARCH AND METHODOLOGY INTERN",
-      "company": "UN Environment Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/environmental-data-research-and-methodology-intern-at-un-environment-programme-4415937256",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "05f380356578",
-      "title": "Data Analyst (SQL / Python) | $15/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-sql-python-%2415-hr-remote-at-crossing-hurdles-4417553604",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "221153578807",
-      "title": "Human Feedback Contributor",
-      "company": "Tech Pipeline",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/human-feedback-contributor-at-tech-pipeline-4415650601",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "b81aa7e4d6cc",
-      "title": "Junior Data Analyst & Operations Assistant Nairobi",
-      "company": "Recruitify_HR",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-data-analyst-operations-assistant-nairobi-at-recruitify-hr-4416701390",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "67d4f6183022",
-      "title": "Programme Policy Officer – Data Analyst (NOA)",
-      "company": "World Food Programme",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/programme-policy-officer-%E2%80%93-data-analyst-noa-at-world-food-programme-4417070514",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
-    },
-    {
-      "id": "ee9f20cbf72e",
-      "title": "Data Analyst",
-      "company": "DHL Supply Chain",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-at-dhl-supply-chain-4418093120",
-      "source": "LinkedIn",
-      "posted_date": "2026-05-23T12:42:30Z",
-      "scraped_at": "2026-05-23T12:42:30Z"
     }
   ]
 }
