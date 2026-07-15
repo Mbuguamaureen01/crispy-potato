@@ -1,47 +1,773 @@
 {
-  "last_updated": "2026-07-15T03:18:38.532731+00:00",
-  "total_jobs": 309,
+  "last_updated": "2026-07-15T05:44:02.211999+00:00",
+  "total_jobs": 310,
   "jobs": [
     {
-      "id": "9133c0d88943",
+      "id": "2427ce26777c",
       "title": "Senior Data Engineer",
-      "company": "Inkomoko",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-15T03:17:03Z",
-      "scraped_at": "2026-07-15T03:17:03Z"
-    },
-    {
-      "id": "05ecb797427a",
-      "title": "Software Engineer",
-      "company": "Jobs Opportunity",
+      "company": "FinStrat Management",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-finstrat-management-4438067055",
       "source": "LinkedIn",
-      "posted_date": "2026-07-15T03:17:03Z",
-      "scraped_at": "2026-07-15T03:17:03Z"
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
     },
     {
-      "id": "9136291c9dfc",
+      "id": "b31cb76a3c35",
       "title": "Machine Learning Engineer",
       "company": "Corsearch",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
       "source": "LinkedIn",
-      "posted_date": "2026-07-15T03:17:03Z",
-      "scraped_at": "2026-07-15T03:17:03Z"
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
     },
     {
-      "id": "0f0d92b6ddf9",
+      "id": "e5895d9c7dcb",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hired",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440903574",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "7c1e7b829396",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "8fc6f338b9f9",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
       "company": "Hi5Creations",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "08e7a312a91b",
+      "title": "Quantitative Analyst (Quant Analyst) | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-quant-analyst-remote-at-crossing-hurdles-4439848776",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "a049ac49ab12",
+      "title": "Software Engineer",
+      "company": "Jobs Opportunity",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "f9a45a3094ec",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "fcb533d8a5e8",
+      "title": "AI/ML Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440913287",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "33532de15e6c",
+      "title": "Senior Data Engineer",
+      "company": "Inkomoko",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:30Z",
+      "scraped_at": "2026-07-15T05:42:30Z"
+    },
+    {
+      "id": "5ff447cb212c",
+      "title": "C# Software Engineer - Global Hedge Fund - Montreal",
+      "company": "Hunter Bond",
+      "location": "Montreal, Quebec, Canada",
+      "salary": "",
+      "url": "https://ca.linkedin.com/jobs/view/c%23-software-engineer-global-hedge-fund-montreal-at-hunter-bond-4436670366",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:28Z",
+      "scraped_at": "2026-07-15T05:42:28Z"
+    },
+    {
+      "id": "629e6b98aa63",
+      "title": "Python Developer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Cambridge, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4439109701",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:27Z",
+      "scraped_at": "2026-07-15T05:42:27Z"
+    },
+    {
+      "id": "accab6e355e4",
+      "title": "Python Developer | $100/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:27Z",
+      "scraped_at": "2026-07-15T05:42:27Z"
+    },
+    {
+      "id": "a7d014a7d65b",
+      "title": "Python Developer - Fully Remote | Upto $50/hr",
+      "company": "Mercor",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:27Z",
+      "scraped_at": "2026-07-15T05:42:27Z"
+    },
+    {
+      "id": "16c7026673ad",
+      "title": "Software Engineer (Python, React) | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:27Z",
+      "scraped_at": "2026-07-15T05:42:27Z"
+    },
+    {
+      "id": "1e5cca53fce7",
+      "title": "Junior Business & Data Analyst",
+      "company": "Securitas Security Services Europe",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "bf630cb136f7",
+      "title": "Data Analyst - Business (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-business-remote-at-hire-feed-4440902661",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "142451634d8a",
+      "title": "Data Analyst - Finance (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-finance-remote-at-hire-feed-4440908449",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "9afa51634db3",
+      "title": "Data Science Intern",
+      "company": "deeptrack",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "c65eecdf1e06",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Hi5Creations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "640d092831c5",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T05:42:25Z",
+      "scraped_at": "2026-07-15T05:42:25Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-07-15T05:41:45Z",
+      "scraped_at": "2026-07-15T05:41:45Z"
+    },
+    {
+      "id": "f75f7af2258f",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
       "source": "LinkedIn",
       "posted_date": "2026-07-15T03:17:03Z",
       "scraped_at": "2026-07-15T03:17:03Z"
@@ -58,12 +784,45 @@
       "scraped_at": "2026-07-15T03:17:03Z"
     },
     {
-      "id": "f75f7af2258f",
+      "id": "0f0d92b6ddf9",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
+      "company": "Hi5Creations",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T03:17:03Z",
+      "scraped_at": "2026-07-15T03:17:03Z"
+    },
+    {
+      "id": "9136291c9dfc",
+      "title": "Machine Learning Engineer",
+      "company": "Corsearch",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T03:17:03Z",
+      "scraped_at": "2026-07-15T03:17:03Z"
+    },
+    {
+      "id": "05ecb797427a",
+      "title": "Software Engineer",
+      "company": "Jobs Opportunity",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T03:17:03Z",
+      "scraped_at": "2026-07-15T03:17:03Z"
+    },
+    {
+      "id": "9133c0d88943",
+      "title": "Senior Data Engineer",
+      "company": "Inkomoko",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
       "source": "LinkedIn",
       "posted_date": "2026-07-15T03:17:03Z",
       "scraped_at": "2026-07-15T03:17:03Z"
@@ -80,23 +839,12 @@
       "scraped_at": "2026-07-15T03:17:01Z"
     },
     {
-      "id": "701632c33d1d",
-      "title": "Python Developer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Cambridge, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4439109701",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-15T03:16:59Z",
-      "scraped_at": "2026-07-15T03:16:59Z"
-    },
-    {
-      "id": "b083bc8e5960",
-      "title": "Python Developer | $100/hr Remote",
+      "id": "fe4dc8003613",
+      "title": "Software Engineer (Python, React) | $90/hr Remote",
       "company": "Crossing Hurdles",
       "location": "United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
       "source": "LinkedIn",
       "posted_date": "2026-07-15T03:16:59Z",
       "scraped_at": "2026-07-15T03:16:59Z"
@@ -113,12 +861,23 @@
       "scraped_at": "2026-07-15T03:16:59Z"
     },
     {
-      "id": "fe4dc8003613",
-      "title": "Software Engineer (Python, React) | $90/hr Remote",
+      "id": "b083bc8e5960",
+      "title": "Python Developer | $100/hr Remote",
       "company": "Crossing Hurdles",
       "location": "United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T03:16:59Z",
+      "scraped_at": "2026-07-15T03:16:59Z"
+    },
+    {
+      "id": "701632c33d1d",
+      "title": "Python Developer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Cambridge, England, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4439109701",
       "source": "LinkedIn",
       "posted_date": "2026-07-15T03:16:59Z",
       "scraped_at": "2026-07-15T03:16:59Z"
@@ -157,532 +916,59 @@
       "scraped_at": "2026-07-15T03:16:57Z"
     },
     {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
+      "id": "926fd068175d",
+      "title": "Supply Chain Data Analyst - Global",
+      "company": "Deckers",
+      "location": "Goleta, Santa Barbara County",
+      "salary": "$95,493 - $139,900",
+      "url": "https://www.adzuna.com/details/5800785502?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-15T01:12:25Z",
+      "scraped_at": "2026-07-15T05:42:03Z"
     },
     {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
+      "id": "7989990a1059",
+      "title": "Sr. Data Scientist Specialist (Remote)",
+      "company": "US Foods",
+      "location": "US",
+      "salary": "$129,958 - $129,958",
+      "url": "https://www.adzuna.com/details/5800783172?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-15T01:05:52Z",
+      "scraped_at": "2026-07-15T05:42:04Z"
     },
     {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
+      "id": "58e368b9bd9d",
+      "title": "Remote Software Engineer - Entry",
+      "company": "SynergisticIT",
+      "location": "Spokane, Spokane County",
+      "salary": "$169,722 - $169,722",
+      "url": "https://www.adzuna.com/details/5800758833?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-15T00:46:27Z",
+      "scraped_at": "2026-07-15T05:42:03Z"
     },
     {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
+      "id": "30154ec743e7",
+      "title": "[Remote] Director of DevOps",
+      "company": "Convoso",
+      "location": "Los Angeles, Los Angeles County",
+      "salary": "$157,322 - $157,322",
+      "url": "https://www.adzuna.com/land/ad/5800716591?se=CvXy6Q-A8RG16YRTrH0dTg&utm_medium=api&utm_source=3f1b011b&v=CD5725CFFEC2186BC41579E0C71FA6B35D08601F",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-15T00:36:16Z",
+      "scraped_at": "2026-07-15T05:42:06Z"
     },
     {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "id": "c1809e4c54b4",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-07-15T03:16:26Z",
-      "scraped_at": "2026-07-15T03:16:26Z"
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T00:03:51Z",
+      "scraped_at": "2026-07-15T00:03:51Z"
     },
     {
       "id": "dac5e52081d6",
@@ -740,17 +1026,6 @@
       "scraped_at": "2026-07-15T00:03:51Z"
     },
     {
-      "id": "c1809e4c54b4",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-15T00:03:51Z",
-      "scraped_at": "2026-07-15T00:03:51Z"
-    },
-    {
       "id": "3c606041d3a6",
       "title": "Quantitative Analyst (Quant Analyst) | Remote",
       "company": "Crossing Hurdles",
@@ -771,17 +1046,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-07-15T00:03:49Z",
       "scraped_at": "2026-07-15T00:03:49Z"
-    },
-    {
-      "id": "f0b8599a0f4c",
-      "title": "Python Developer | $100/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-15T00:03:47Z",
-      "scraped_at": "2026-07-15T00:03:47Z"
     },
     {
       "id": "ddcbfefa9c70",
@@ -815,6 +1079,28 @@
       "source": "LinkedIn",
       "posted_date": "2026-07-15T00:03:47Z",
       "scraped_at": "2026-07-15T00:03:47Z"
+    },
+    {
+      "id": "f0b8599a0f4c",
+      "title": "Python Developer | $100/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T00:03:47Z",
+      "scraped_at": "2026-07-15T00:03:47Z"
+    },
+    {
+      "id": "c473fe6cef36",
+      "title": "Junior Business & Data Analyst",
+      "company": "Securitas Security Services Europe",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-15T00:03:45Z",
+      "scraped_at": "2026-07-15T00:03:45Z"
     },
     {
       "id": "ab232dcae117",
@@ -861,17 +1147,6 @@
       "scraped_at": "2026-07-15T00:03:45Z"
     },
     {
-      "id": "c473fe6cef36",
-      "title": "Junior Business & Data Analyst",
-      "company": "Securitas Security Services Europe",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-15T00:03:45Z",
-      "scraped_at": "2026-07-15T00:03:45Z"
-    },
-    {
       "id": "d940f7d9e2f7",
       "title": "Data Science Intern",
       "company": "deeptrack",
@@ -891,7 +1166,7 @@
       "url": "https://www.adzuna.com.au/details/5799966755?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-AU",
       "posted_date": "2026-07-14T23:11:19Z",
-      "scraped_at": "2026-07-15T03:16:30Z"
+      "scraped_at": "2026-07-15T05:41:48Z"
     },
     {
       "id": "9106ad7054b8",
@@ -905,34 +1180,12 @@
       "scraped_at": "2026-07-14T23:08:15Z"
     },
     {
-      "id": "e4ee0ce8ea5c",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T23:08:15Z",
-      "scraped_at": "2026-07-14T23:08:15Z"
-    },
-    {
-      "id": "2e6db4471dcc",
+      "id": "5cd3a9a3db88",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Hi5Creations",
+      "company": "DesignX",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T23:08:15Z",
-      "scraped_at": "2026-07-14T23:08:15Z"
-    },
-    {
-      "id": "ab47201104b5",
-      "title": "Senior Data Engineer",
-      "company": "Inkomoko",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T23:08:15Z",
       "scraped_at": "2026-07-14T23:08:15Z"
@@ -949,15 +1202,59 @@
       "scraped_at": "2026-07-14T23:08:15Z"
     },
     {
-      "id": "5cd3a9a3db88",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "ab47201104b5",
+      "title": "Senior Data Engineer",
+      "company": "Inkomoko",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T23:08:15Z",
       "scraped_at": "2026-07-14T23:08:15Z"
+    },
+    {
+      "id": "2e6db4471dcc",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Hi5Creations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T23:08:15Z",
+      "scraped_at": "2026-07-14T23:08:15Z"
+    },
+    {
+      "id": "e4ee0ce8ea5c",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T23:08:15Z",
+      "scraped_at": "2026-07-14T23:08:15Z"
+    },
+    {
+      "id": "c921464e7366",
+      "title": "Software Engineers",
+      "company": "Iowa State University Research Park",
+      "location": "Tmc, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineers-at-iowa-state-university-research-park-4435935964",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T23:08:09Z",
+      "scraped_at": "2026-07-14T23:08:09Z"
+    },
+    {
+      "id": "09c96428ae97",
+      "title": "Data Science Intern",
+      "company": "deeptrack",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T23:08:09Z",
+      "scraped_at": "2026-07-14T23:08:09Z"
     },
     {
       "id": "94ddfe60c8b0",
@@ -982,28 +1279,6 @@
       "scraped_at": "2026-07-14T23:08:09Z"
     },
     {
-      "id": "09c96428ae97",
-      "title": "Data Science Intern",
-      "company": "deeptrack",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T23:08:09Z",
-      "scraped_at": "2026-07-14T23:08:09Z"
-    },
-    {
-      "id": "c921464e7366",
-      "title": "Software Engineers",
-      "company": "Iowa State University Research Park",
-      "location": "Tmc, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineers-at-iowa-state-university-research-park-4435935964",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T23:08:09Z",
-      "scraped_at": "2026-07-14T23:08:09Z"
-    },
-    {
       "id": "d52b61164328",
       "title": "Facets DevOps & AWS Implementation Manager - Remote",
       "company": "Cognizant",
@@ -1023,7 +1298,7 @@
       "url": "https://www.adzuna.com.au/details/5799948057?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-AU",
       "posted_date": "2026-07-14T22:39:05Z",
-      "scraped_at": "2026-07-15T03:16:33Z"
+      "scraped_at": "2026-07-15T05:41:53Z"
     },
     {
       "id": "1a2575d5e870",
@@ -1059,45 +1334,12 @@
       "scraped_at": "2026-07-15T03:16:42Z"
     },
     {
-      "id": "4085f67f7a60",
-      "title": "Senior Data Engineer",
-      "company": "Inkomoko",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T22:07:39Z",
-      "scraped_at": "2026-07-14T22:07:39Z"
-    },
-    {
       "id": "bc4d92953346",
       "title": "Software Engineer",
       "company": "Jobs Opportunity",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T22:07:39Z",
-      "scraped_at": "2026-07-14T22:07:39Z"
-    },
-    {
-      "id": "ba1bb0904fbd",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Hi5Creations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T22:07:39Z",
-      "scraped_at": "2026-07-14T22:07:39Z"
-    },
-    {
-      "id": "05f093c3467d",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T22:07:39Z",
       "scraped_at": "2026-07-14T22:07:39Z"
@@ -1120,6 +1362,39 @@
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T22:07:39Z",
+      "scraped_at": "2026-07-14T22:07:39Z"
+    },
+    {
+      "id": "05f093c3467d",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T22:07:39Z",
+      "scraped_at": "2026-07-14T22:07:39Z"
+    },
+    {
+      "id": "ba1bb0904fbd",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Hi5Creations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T22:07:39Z",
+      "scraped_at": "2026-07-14T22:07:39Z"
+    },
+    {
+      "id": "4085f67f7a60",
+      "title": "Senior Data Engineer",
+      "company": "Inkomoko",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T22:07:39Z",
       "scraped_at": "2026-07-14T22:07:39Z"
@@ -1158,6 +1433,17 @@
       "scraped_at": "2026-07-14T21:04:49Z"
     },
     {
+      "id": "b49025616f70",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T21:04:48Z",
+      "scraped_at": "2026-07-14T21:04:48Z"
+    },
+    {
       "id": "4401d0bd4498",
       "title": "Data Scientist",
       "company": "AHADI Applied Health Analytics for Delivery & Innovation",
@@ -1191,17 +1477,6 @@
       "scraped_at": "2026-07-14T21:04:48Z"
     },
     {
-      "id": "b49025616f70",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T21:04:48Z",
-      "scraped_at": "2026-07-14T21:04:48Z"
-    },
-    {
       "id": "2e74f6098eb9",
       "title": "C# Software Engineer - Global Hedge Fund - Montreal",
       "company": "Hunter Bond",
@@ -1211,6 +1486,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-07-14T21:04:46Z",
       "scraped_at": "2026-07-14T21:04:46Z"
+    },
+    {
+      "id": "3b7df0def8f0",
+      "title": "Python Developer | $100/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T21:04:44Z",
+      "scraped_at": "2026-07-14T21:04:44Z"
     },
     {
       "id": "d4509974ae5f",
@@ -1246,23 +1532,12 @@
       "scraped_at": "2026-07-14T21:04:44Z"
     },
     {
-      "id": "3b7df0def8f0",
-      "title": "Python Developer | $100/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
+      "id": "aea2534f100d",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T21:04:44Z",
-      "scraped_at": "2026-07-14T21:04:44Z"
-    },
-    {
-      "id": "9182e1492afd",
-      "title": "AI-Native Intern",
-      "company": "TamuPOS",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-native-intern-at-tamupos-4437290459",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T21:04:42Z",
       "scraped_at": "2026-07-14T21:04:42Z"
@@ -1279,12 +1554,12 @@
       "scraped_at": "2026-07-14T21:04:42Z"
     },
     {
-      "id": "aea2534f100d",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "9182e1492afd",
+      "title": "AI-Native Intern",
+      "company": "TamuPOS",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "url": "https://ke.linkedin.com/jobs/view/ai-native-intern-at-tamupos-4437290459",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T21:04:42Z",
       "scraped_at": "2026-07-14T21:04:42Z"
@@ -1312,12 +1587,12 @@
       "scraped_at": "2026-07-14T21:04:42Z"
     },
     {
-      "id": "92ea7320e5be",
+      "id": "8bf3b50645f6",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
+      "company": "Hi5Creations",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T20:02:36Z",
       "scraped_at": "2026-07-14T20:02:36Z"
@@ -1334,12 +1609,12 @@
       "scraped_at": "2026-07-14T20:02:36Z"
     },
     {
-      "id": "8bf3b50645f6",
+      "id": "92ea7320e5be",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Hi5Creations",
+      "company": "DesignX",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T20:02:36Z",
       "scraped_at": "2026-07-14T20:02:36Z"
@@ -1367,17 +1642,6 @@
       "scraped_at": "2026-07-14T20:02:34Z"
     },
     {
-      "id": "ce0179753674",
-      "title": "Python Developer - Fully Remote | Upto $50/hr",
-      "company": "Mercor",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T20:02:32Z",
-      "scraped_at": "2026-07-14T20:02:32Z"
-    },
-    {
       "id": "9dd88bb84fbd",
       "title": "Python Developer - Remote",
       "company": "YO IT Consulting",
@@ -1389,12 +1653,12 @@
       "scraped_at": "2026-07-14T20:02:32Z"
     },
     {
-      "id": "ed14ae608bf8",
-      "title": "Software Engineer (Python, React) | $90/hr Remote",
-      "company": "Crossing Hurdles",
+      "id": "ce0179753674",
+      "title": "Python Developer - Fully Remote | Upto $50/hr",
+      "company": "Mercor",
       "location": "United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T20:02:32Z",
       "scraped_at": "2026-07-14T20:02:32Z"
@@ -1406,6 +1670,17 @@
       "location": "United Kingdom",
       "salary": "",
       "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T20:02:32Z",
+      "scraped_at": "2026-07-14T20:02:32Z"
+    },
+    {
+      "id": "ed14ae608bf8",
+      "title": "Software Engineer (Python, React) | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T20:02:32Z",
       "scraped_at": "2026-07-14T20:02:32Z"
@@ -1477,6 +1752,28 @@
       "scraped_at": "2026-07-15T00:02:34Z"
     },
     {
+      "id": "e9df13545861",
+      "title": "Quantitative Analyst (Quant Analyst) | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-quant-analyst-remote-at-crossing-hurdles-4439848776",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T18:53:41Z",
+      "scraped_at": "2026-07-14T18:53:41Z"
+    },
+    {
+      "id": "f0ab90db77ed",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T18:53:41Z",
+      "scraped_at": "2026-07-14T18:53:41Z"
+    },
+    {
       "id": "59c05a2eb63a",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
       "company": "DesignX",
@@ -1494,17 +1791,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T18:53:41Z",
-      "scraped_at": "2026-07-14T18:53:41Z"
-    },
-    {
-      "id": "e9df13545861",
-      "title": "Quantitative Analyst (Quant Analyst) | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-quant-analyst-remote-at-crossing-hurdles-4439848776",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T18:53:41Z",
       "scraped_at": "2026-07-14T18:53:41Z"
@@ -1543,15 +1829,26 @@
       "scraped_at": "2026-07-14T18:53:41Z"
     },
     {
-      "id": "f0ab90db77ed",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "5d21062ee4ef",
+      "title": "Python Developer - Fully Remote | Upto $50/hr",
+      "company": "Mercor",
+      "location": "United Kingdom",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
       "source": "LinkedIn",
-      "posted_date": "2026-07-14T18:53:41Z",
-      "scraped_at": "2026-07-14T18:53:41Z"
+      "posted_date": "2026-07-14T18:53:37Z",
+      "scraped_at": "2026-07-14T18:53:37Z"
+    },
+    {
+      "id": "b9b271a63a44",
+      "title": "Software Engineer (Python, React) | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T18:53:37Z",
+      "scraped_at": "2026-07-14T18:53:37Z"
     },
     {
       "id": "779d56111887",
@@ -1571,28 +1868,6 @@
       "location": "United Kingdom",
       "salary": "",
       "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T18:53:37Z",
-      "scraped_at": "2026-07-14T18:53:37Z"
-    },
-    {
-      "id": "b9b271a63a44",
-      "title": "Software Engineer (Python, React) | $90/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T18:53:37Z",
-      "scraped_at": "2026-07-14T18:53:37Z"
-    },
-    {
-      "id": "5d21062ee4ef",
-      "title": "Python Developer - Fully Remote | Upto $50/hr",
-      "company": "Mercor",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T18:53:37Z",
       "scraped_at": "2026-07-14T18:53:37Z"
@@ -1785,6 +2060,28 @@
       "scraped_at": "2026-07-14T16:51:05Z"
     },
     {
+      "id": "ffbc606abb84",
+      "title": "Junior Business & Data Analyst",
+      "company": "Securitas Security Services Europe",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T16:51:05Z",
+      "scraped_at": "2026-07-14T16:51:05Z"
+    },
+    {
+      "id": "01383e0e22bf",
+      "title": "Data Science Intern",
+      "company": "deeptrack",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T16:51:05Z",
+      "scraped_at": "2026-07-14T16:51:05Z"
+    },
+    {
       "id": "6524df6dfe9c",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
       "company": "DesignX",
@@ -1807,26 +2104,15 @@
       "scraped_at": "2026-07-14T16:51:05Z"
     },
     {
-      "id": "ffbc606abb84",
-      "title": "Junior Business & Data Analyst",
-      "company": "Securitas Security Services Europe",
+      "id": "cb97b4b41811",
+      "title": "Machine Learning Engineer",
+      "company": "Corsearch",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
       "source": "LinkedIn",
-      "posted_date": "2026-07-14T16:51:05Z",
-      "scraped_at": "2026-07-14T16:51:05Z"
-    },
-    {
-      "id": "01383e0e22bf",
-      "title": "Data Science Intern",
-      "company": "deeptrack",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T16:51:05Z",
-      "scraped_at": "2026-07-14T16:51:05Z"
+      "posted_date": "2026-07-14T15:43:35Z",
+      "scraped_at": "2026-07-14T15:43:35Z"
     },
     {
       "id": "bf9ed3f6f28c",
@@ -1879,17 +2165,6 @@
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T15:43:35Z",
-      "scraped_at": "2026-07-14T15:43:35Z"
-    },
-    {
-      "id": "cb97b4b41811",
-      "title": "Machine Learning Engineer",
-      "company": "Corsearch",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T15:43:35Z",
       "scraped_at": "2026-07-14T15:43:35Z"
@@ -1972,23 +2247,23 @@
       "scraped_at": "2026-07-14T14:12:19Z"
     },
     {
-      "id": "31ae5888c4f6",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T14:12:19Z",
-      "scraped_at": "2026-07-14T14:12:19Z"
-    },
-    {
       "id": "9c83204d92b7",
       "title": "Machine Learning Engineer",
       "company": "Corsearch",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T14:12:19Z",
+      "scraped_at": "2026-07-14T14:12:19Z"
+    },
+    {
+      "id": "31ae5888c4f6",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T14:12:19Z",
       "scraped_at": "2026-07-14T14:12:19Z"
@@ -2005,23 +2280,23 @@
       "scraped_at": "2026-07-14T14:12:15Z"
     },
     {
-      "id": "f89b14286ffa",
-      "title": "Software Engineer (Python, React) | $90/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T14:12:15Z",
-      "scraped_at": "2026-07-14T14:12:15Z"
-    },
-    {
       "id": "45341fd61e7d",
       "title": "Python Developer - Fully Remote | Upto $50/hr",
       "company": "Mercor",
       "location": "United Kingdom",
       "salary": "",
       "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T14:12:15Z",
+      "scraped_at": "2026-07-14T14:12:15Z"
+    },
+    {
+      "id": "f89b14286ffa",
+      "title": "Software Engineer (Python, React) | $90/hr Remote",
+      "company": "Crossing Hurdles",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/software-engineer-python-react-%2490-hr-remote-at-crossing-hurdles-4432218038",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T14:12:15Z",
       "scraped_at": "2026-07-14T14:12:15Z"
@@ -2115,15 +2390,15 @@
       "scraped_at": "2026-07-14T17:51:44Z"
     },
     {
-      "id": "2369eb060761",
-      "title": "REACT / PYTHON DEVELOPER - REMOTE",
-      "company": "Contract Staffing Recruiters",
+      "id": "232fdbcf9441",
+      "title": "ServiceNow Software Engineer, OH/REMOTE - Direct Client",
+      "company": "Javen Technologies, Inc",
       "location": "US",
-      "salary": "$127,593 - $127,593",
-      "url": "https://www.adzuna.com/land/ad/5800168333?se=nozXSLV_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=94CF2948DB96A4395866CA17541446B8A8CAA5CF",
+      "salary": "$58,813 - $58,813",
+      "url": "https://www.adzuna.com/land/ad/5800168335?se=oP98R7V_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=DB3030187B091EC7F9591E61466B94960FC6B378",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T13:40:28Z",
-      "scraped_at": "2026-07-14T18:53:21Z"
+      "scraped_at": "2026-07-14T18:53:19Z"
     },
     {
       "id": "938098d47e61",
@@ -2137,15 +2412,26 @@
       "scraped_at": "2026-07-14T17:51:47Z"
     },
     {
-      "id": "232fdbcf9441",
-      "title": "ServiceNow Software Engineer, OH/REMOTE - Direct Client",
-      "company": "Javen Technologies, Inc",
+      "id": "2369eb060761",
+      "title": "REACT / PYTHON DEVELOPER - REMOTE",
+      "company": "Contract Staffing Recruiters",
       "location": "US",
-      "salary": "$58,813 - $58,813",
-      "url": "https://www.adzuna.com/land/ad/5800168335?se=oP98R7V_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=DB3030187B091EC7F9591E61466B94960FC6B378",
+      "salary": "$127,593 - $127,593",
+      "url": "https://www.adzuna.com/land/ad/5800168333?se=nozXSLV_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=94CF2948DB96A4395866CA17541446B8A8CAA5CF",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T13:40:28Z",
-      "scraped_at": "2026-07-14T18:53:19Z"
+      "scraped_at": "2026-07-14T18:53:21Z"
+    },
+    {
+      "id": "b5069918a1fa",
+      "title": "Full Stack Web Developer Intern / Trainee - Remote",
+      "company": "Business Web Solutions",
+      "location": "Sydney, Cape Breton",
+      "salary": "$200 - $200",
+      "url": "https://www.adzuna.ca/details/5800148557?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-CA",
+      "posted_date": "2026-07-14T13:08:51Z",
+      "scraped_at": "2026-07-15T05:42:20Z"
     },
     {
       "id": "465ec31c9117",
@@ -2156,7 +2442,18 @@
       "url": "https://www.adzuna.ca/details/5800148547?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-07-14T13:08:51Z",
-      "scraped_at": "2026-07-15T03:16:53Z"
+      "scraped_at": "2026-07-15T05:42:20Z"
+    },
+    {
+      "id": "1554a096c141",
+      "title": "Machine Learning Engineer",
+      "company": "Corsearch",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T12:13:10Z",
+      "scraped_at": "2026-07-14T12:13:10Z"
     },
     {
       "id": "ceee2b516215",
@@ -2214,17 +2511,6 @@
       "scraped_at": "2026-07-14T12:13:10Z"
     },
     {
-      "id": "1554a096c141",
-      "title": "Machine Learning Engineer",
-      "company": "Corsearch",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T12:13:10Z",
-      "scraped_at": "2026-07-14T12:13:10Z"
-    },
-    {
       "id": "b502946d09c7",
       "title": "C# Software Engineer - Global Hedge Fund - Montreal",
       "company": "Hunter Bond",
@@ -2236,23 +2522,23 @@
       "scraped_at": "2026-07-14T12:13:08Z"
     },
     {
-      "id": "3d4742aa6199",
-      "title": "Python Developer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Cambridge, England, United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4439109701",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T12:13:06Z",
-      "scraped_at": "2026-07-14T12:13:06Z"
-    },
-    {
       "id": "9f387ff061c7",
       "title": "Python Developer | $100/hr Remote",
       "company": "Crossing Hurdles",
       "location": "United Kingdom",
       "salary": "",
       "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T12:13:06Z",
+      "scraped_at": "2026-07-14T12:13:06Z"
+    },
+    {
+      "id": "d4b440a4c7b3",
+      "title": "Python Developer - Fully Remote | Upto $50/hr",
+      "company": "Mercor",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T12:13:06Z",
       "scraped_at": "2026-07-14T12:13:06Z"
@@ -2269,12 +2555,12 @@
       "scraped_at": "2026-07-14T12:13:06Z"
     },
     {
-      "id": "d4b440a4c7b3",
-      "title": "Python Developer - Fully Remote | Upto $50/hr",
-      "company": "Mercor",
-      "location": "United Kingdom",
+      "id": "3d4742aa6199",
+      "title": "Python Developer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Cambridge, England, United Kingdom",
       "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-fully-remote-upto-%2450-hr-at-mercor-4432098227",
+      "url": "https://uk.linkedin.com/jobs/view/python-developer-remote-at-yo-it-consulting-4439109701",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T12:13:06Z",
       "scraped_at": "2026-07-14T12:13:06Z"
@@ -2322,6 +2608,17 @@
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T11:38:16Z",
       "scraped_at": "2026-07-14T16:50:50Z"
+    },
+    {
+      "id": "153fcc3967d3",
+      "title": "Member of Technical Staff - AI Engineering (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/member-of-technical-staff-ai-engineering-remote-at-hire-feed-4440394792",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T10:59:58Z",
+      "scraped_at": "2026-07-14T10:59:58Z"
     },
     {
       "id": "d37c3aef509c",
@@ -2390,17 +2687,6 @@
       "scraped_at": "2026-07-14T10:59:58Z"
     },
     {
-      "id": "153fcc3967d3",
-      "title": "Member of Technical Staff - AI Engineering (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/member-of-technical-staff-ai-engineering-remote-at-hire-feed-4440394792",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T10:59:58Z",
-      "scraped_at": "2026-07-14T10:59:58Z"
-    },
-    {
       "id": "d0b145455e2d",
       "title": "Data Platform Engineer (Remote)",
       "company": "Paymentology",
@@ -2423,23 +2709,23 @@
       "scraped_at": "2026-07-14T10:59:56Z"
     },
     {
-      "id": "3be69518a548",
-      "title": "Data Analyst - Finance (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-finance-remote-at-hire-feed-4440509055",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T10:59:53Z",
-      "scraped_at": "2026-07-14T10:59:53Z"
-    },
-    {
       "id": "8935645edba6",
       "title": "Junior Business & Data Analyst",
       "company": "Securitas Security Services Europe",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T10:59:53Z",
+      "scraped_at": "2026-07-14T10:59:53Z"
+    },
+    {
+      "id": "08f8b164b6bf",
+      "title": "Data Science Intern",
+      "company": "deeptrack",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T10:59:53Z",
       "scraped_at": "2026-07-14T10:59:53Z"
@@ -2467,56 +2753,23 @@
       "scraped_at": "2026-07-14T10:59:53Z"
     },
     {
-      "id": "08f8b164b6bf",
-      "title": "Data Science Intern",
-      "company": "deeptrack",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "3be69518a548",
+      "title": "Data Analyst - Finance (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-science-intern-at-deeptrack-4437616844",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-finance-remote-at-hire-feed-4440509055",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T10:59:53Z",
       "scraped_at": "2026-07-14T10:59:53Z"
     },
     {
-      "id": "f089a3ac3fa9",
-      "title": "Software Engineer",
-      "company": "Jobs Opportunity",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "611b27c9c0fc",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hired",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T09:24:09Z",
-      "scraped_at": "2026-07-14T09:24:09Z"
-    },
-    {
-      "id": "bc4056300ff3",
-      "title": "Data Scientist",
-      "company": "Andela",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-andela-4434517965",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T09:24:09Z",
-      "scraped_at": "2026-07-14T09:24:09Z"
-    },
-    {
-      "id": "9a35c8a43f8f",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T09:24:09Z",
-      "scraped_at": "2026-07-14T09:24:09Z"
-    },
-    {
-      "id": "826a8947c468",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440396327",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T09:24:09Z",
       "scraped_at": "2026-07-14T09:24:09Z"
@@ -2533,23 +2786,12 @@
       "scraped_at": "2026-07-14T09:24:09Z"
     },
     {
-      "id": "bfd3bdf532dc",
-      "title": "Machine Learning Engineer",
-      "company": "Corsearch",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T09:24:09Z",
-      "scraped_at": "2026-07-14T09:24:09Z"
-    },
-    {
-      "id": "21f5a6d8155b",
-      "title": "Data Platform Engineer (Remote)",
-      "company": "Paymentology",
+      "id": "b80f243647ae",
+      "title": "Senior Data Engineer",
+      "company": "Inkomoko",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-platform-engineer-remote-at-paymentology-4437801420",
+      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T09:24:09Z",
       "scraped_at": "2026-07-14T09:24:09Z"
@@ -2566,23 +2808,67 @@
       "scraped_at": "2026-07-14T09:24:09Z"
     },
     {
-      "id": "b80f243647ae",
-      "title": "Senior Data Engineer",
-      "company": "Inkomoko",
+      "id": "21f5a6d8155b",
+      "title": "Data Platform Engineer (Remote)",
+      "company": "Paymentology",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
+      "url": "https://ke.linkedin.com/jobs/view/data-platform-engineer-remote-at-paymentology-4437801420",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T09:24:09Z",
       "scraped_at": "2026-07-14T09:24:09Z"
     },
     {
-      "id": "611b27c9c0fc",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hired",
-      "location": "Kenya",
+      "id": "bfd3bdf532dc",
+      "title": "Machine Learning Engineer",
+      "company": "Corsearch",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4440396327",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T09:24:09Z",
+      "scraped_at": "2026-07-14T09:24:09Z"
+    },
+    {
+      "id": "f089a3ac3fa9",
+      "title": "Software Engineer",
+      "company": "Jobs Opportunity",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T09:24:09Z",
+      "scraped_at": "2026-07-14T09:24:09Z"
+    },
+    {
+      "id": "826a8947c468",
+      "title": "Data Scientist",
+      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T09:24:09Z",
+      "scraped_at": "2026-07-14T09:24:09Z"
+    },
+    {
+      "id": "9a35c8a43f8f",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "DesignX",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
+      "source": "LinkedIn",
+      "posted_date": "2026-07-14T09:24:09Z",
+      "scraped_at": "2026-07-14T09:24:09Z"
+    },
+    {
+      "id": "bc4056300ff3",
+      "title": "Data Scientist",
+      "company": "Andela",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-andela-4434517965",
       "source": "LinkedIn",
       "posted_date": "2026-07-14T09:24:09Z",
       "scraped_at": "2026-07-14T09:24:09Z"
@@ -2665,59 +2951,48 @@
       "scraped_at": "2026-07-14T09:24:02Z"
     },
     {
-      "id": "f575bc518aed",
+      "id": "75b9d2150d21",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=BiDz1th_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=_hS5r6x_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T23:07:52Z"
+      "scraped_at": "2026-07-14T17:51:48Z"
     },
     {
-      "id": "d643b5027c16",
+      "id": "c9809be9de5b",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=nAgo-41_8RGyL6cIuP5hKg&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=ql-XYdB_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T14:12:00Z"
+      "scraped_at": "2026-07-14T22:07:19Z"
     },
     {
-      "id": "9971f66d56e6",
+      "id": "9078b1073a5a",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=2jBcLKR_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=TEf6uZp_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T16:50:52Z"
+      "scraped_at": "2026-07-14T15:43:15Z"
     },
     {
-      "id": "a534b0a13d5c",
+      "id": "6a6ebf5f8bd9",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=zonJmcd_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=YNvk2r5_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T21:04:28Z"
-    },
-    {
-      "id": "494b3302b91f",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Grand Central, Manhattan",
-      "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=nIwPSrV_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T18:53:23Z"
+      "scraped_at": "2026-07-14T20:01:52Z"
     },
     {
       "id": "f29301720773",
@@ -2742,103 +3017,70 @@
       "scraped_at": "2026-07-15T03:16:46Z"
     },
     {
-      "id": "75b9d2150d21",
+      "id": "7459c8902ffb",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=_hS5r6x_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=Iosz7A-A8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T17:51:48Z"
+      "scraped_at": "2026-07-15T05:42:10Z"
     },
     {
-      "id": "c9809be9de5b",
+      "id": "494b3302b91f",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Grand Central, Manhattan",
       "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=ql-XYdB_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=nIwPSrV_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T22:07:19Z"
-    },
-    {
-      "id": "6a6ebf5f8bd9",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Grand Central, Manhattan",
-      "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=YNvk2r5_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T20:01:52Z"
-    },
-    {
-      "id": "9078b1073a5a",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Grand Central, Manhattan",
-      "salary": "$331,250 - $331,250",
-      "url": "https://www.adzuna.com/land/ad/5799915965?se=TEf6uZp_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:25Z",
-      "scraped_at": "2026-07-14T15:43:15Z"
-    },
-    {
-      "id": "0d5f7190ef20",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=zonJmcd_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T21:04:28Z"
-    },
-    {
-      "id": "a1ca2f443c9d",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=nAgo-41_8RGyL6cIuP5hKg&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T14:12:00Z"
-    },
-    {
-      "id": "4cbb0597da29",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=YNvk2r5_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T20:01:52Z"
-    },
-    {
-      "id": "de30c836880a",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=nIwPSrV_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
       "scraped_at": "2026-07-14T18:53:23Z"
     },
     {
-      "id": "58f0140f538d",
+      "id": "9971f66d56e6",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=_hS5r6x_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "location": "Grand Central, Manhattan",
+      "salary": "$331,250 - $331,250",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=2jBcLKR_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
       "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T17:51:48Z"
+      "posted_date": "2026-07-14T08:19:25Z",
+      "scraped_at": "2026-07-14T16:50:52Z"
+    },
+    {
+      "id": "d643b5027c16",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Grand Central, Manhattan",
+      "salary": "$331,250 - $331,250",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=nAgo-41_8RGyL6cIuP5hKg&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:25Z",
+      "scraped_at": "2026-07-14T14:12:00Z"
+    },
+    {
+      "id": "f575bc518aed",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Grand Central, Manhattan",
+      "salary": "$331,250 - $331,250",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=BiDz1th_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:25Z",
+      "scraped_at": "2026-07-14T23:07:52Z"
+    },
+    {
+      "id": "a534b0a13d5c",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Grand Central, Manhattan",
+      "salary": "$331,250 - $331,250",
+      "url": "https://www.adzuna.com/land/ad/5799915965?se=zonJmcd_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=8B53B4CDF6E6B08894D43C3C678590535D0AFE89",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:25Z",
+      "scraped_at": "2026-07-14T21:04:28Z"
     },
     {
       "id": "854597fc423d",
@@ -2852,26 +3094,15 @@
       "scraped_at": "2026-07-15T00:02:55Z"
     },
     {
-      "id": "eb6fb435efcb",
+      "id": "739b6a92a91e",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Schiller Park, Cook County",
       "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=TEf6uZp_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=FPYrnPt_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T15:43:15Z"
-    },
-    {
-      "id": "d3d7b290296b",
-      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-      "company": "Oxford Knight",
-      "location": "Schiller Park, Cook County",
-      "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=BiDz1th_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-14T23:07:52Z"
+      "scraped_at": "2026-07-15T03:16:46Z"
     },
     {
       "id": "a9029f4938e0",
@@ -2885,15 +3116,92 @@
       "scraped_at": "2026-07-14T16:50:52Z"
     },
     {
-      "id": "739b6a92a91e",
+      "id": "d3d7b290296b",
       "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
       "company": "Oxford Knight",
       "location": "Schiller Park, Cook County",
       "salary": "$306,822 - $306,822",
-      "url": "https://www.adzuna.com/land/ad/5799915951?se=FPYrnPt_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=BiDz1th_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
       "source": "Adzuna-US",
       "posted_date": "2026-07-14T08:19:12Z",
-      "scraped_at": "2026-07-15T03:16:46Z"
+      "scraped_at": "2026-07-14T23:07:52Z"
+    },
+    {
+      "id": "eb6fb435efcb",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=TEf6uZp_8RGXptzwgxhogw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T15:43:15Z"
+    },
+    {
+      "id": "4cbb0597da29",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=YNvk2r5_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T20:01:52Z"
+    },
+    {
+      "id": "58f0140f538d",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=_hS5r6x_8RG5MtxbcY8k-A&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T17:51:48Z"
+    },
+    {
+      "id": "de30c836880a",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=nIwPSrV_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T18:53:23Z"
+    },
+    {
+      "id": "a1ca2f443c9d",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=nAgo-41_8RGyL6cIuP5hKg&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T14:12:00Z"
+    },
+    {
+      "id": "0d5f7190ef20",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=zonJmcd_8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-14T21:04:28Z"
+    },
+    {
+      "id": "1e1f05195c79",
+      "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
+      "company": "Oxford Knight",
+      "location": "Schiller Park, Cook County",
+      "salary": "$306,822 - $306,822",
+      "url": "https://www.adzuna.com/land/ad/5799915951?se=Iosz7A-A8RGiaoWouE5fcA&utm_medium=api&utm_source=3f1b011b&v=7FA1F81BE9A58204EDAF079902856737064025DC",
+      "source": "Adzuna-US",
+      "posted_date": "2026-07-14T08:19:12Z",
+      "scraped_at": "2026-07-15T05:42:10Z"
     },
     {
       "id": "0ef3d8789234",
@@ -3103,303 +3411,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-07-14T07:28:33Z",
       "scraped_at": "2026-07-14T07:28:33Z"
-    },
-    {
-      "id": "7d696ebe6fc2",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "9a859f3a5ec3",
-      "title": "Data Platform Engineer (Remote)",
-      "company": "Paymentology",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-platform-engineer-remote-at-paymentology-4437801420",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "c34858232b01",
-      "title": "Lead AI Engineer - Financial Inclusion",
-      "company": "M-KOPA",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/lead-ai-engineer-financial-inclusion-at-m-kopa-4437803350",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "7d518a9b879e",
-      "title": "Machine Learning Engineer",
-      "company": "Corsearch",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "f73192969b53",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Hi5Creations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "997e21241533",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "ab9861489da8",
-      "title": "AI/ML Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4440504211",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:20Z",
-      "scraped_at": "2026-07-14T05:43:20Z"
-    },
-    {
-      "id": "b7458b96f4d5",
-      "title": "Entry-Level Software Engineer | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4427499509",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:17Z",
-      "scraped_at": "2026-07-14T05:43:17Z"
-    },
-    {
-      "id": "8b8d50839a8d",
-      "title": "Junior Business & Data Analyst",
-      "company": "Securitas Security Services Europe",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:15Z",
-      "scraped_at": "2026-07-14T05:43:15Z"
-    },
-    {
-      "id": "5f45e2480861",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T05:43:15Z",
-      "scraped_at": "2026-07-14T05:43:15Z"
-    },
-    {
-      "id": "8dcbd10e992a",
-      "title": "Data Scientist/Engineer - Junior (Remote)",
-      "company": "SynergisticIT",
-      "location": "Boston, Suffolk County",
-      "salary": "$180,209 - $180,209",
-      "url": "https://www.adzuna.com/land/ad/5799701714?se=ALyzLaR_8RGnybZGKZMVYw&utm_medium=api&utm_source=3f1b011b&v=407FA202028144B864165D9E99CC0C956CEFFB23",
-      "source": "Adzuna-US",
-      "posted_date": "2026-07-14T04:38:24Z",
-      "scraped_at": "2026-07-14T16:50:54Z"
-    },
-    {
-      "id": "a41b98a1c06b",
-      "title": "AI/ML Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4439781555",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:29Z",
-      "scraped_at": "2026-07-14T03:23:29Z"
-    },
-    {
-      "id": "02883e248813",
-      "title": "Data Scientist",
-      "company": "Andela",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-andela-4434517965",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "b9a8684b7d33",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4439014752",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "c3141c7d4fcb",
-      "title": "Senior Data Engineer",
-      "company": "Inkomoko",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-inkomoko-4437269427",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "4bcc3a2e0f2d",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "c3170967bf8d",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Hi5Creations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-hi5creations-4439736252",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "67f48a04e115",
-      "title": "Software Engineer",
-      "company": "Jobs Opportunity",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-jobs-opportunity-4439566613",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "920944a235ff",
-      "title": "Machine Learning Engineer",
-      "company": "Corsearch",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-at-corsearch-4420213365",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "d3dcb75c28a8",
-      "title": "Data Platform Engineer (Remote)",
-      "company": "Paymentology",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-platform-engineer-remote-at-paymentology-4437801420",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:28Z",
-      "scraped_at": "2026-07-14T03:23:28Z"
-    },
-    {
-      "id": "6e24079f159b",
-      "title": "C# Software Engineer - Global Hedge Fund - Montreal",
-      "company": "Hunter Bond",
-      "location": "Montreal, Quebec, Canada",
-      "salary": "",
-      "url": "https://ca.linkedin.com/jobs/view/c%23-software-engineer-global-hedge-fund-montreal-at-hunter-bond-4436670366",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:26Z",
-      "scraped_at": "2026-07-14T03:23:26Z"
-    },
-    {
-      "id": "f42f6b8596a9",
-      "title": "Entry-Level Software Engineer | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-remote-at-crossing-hurdles-4427499509",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:25Z",
-      "scraped_at": "2026-07-14T03:23:25Z"
-    },
-    {
-      "id": "ef55f8186092",
-      "title": "Python Developer | $100/hr Remote",
-      "company": "Crossing Hurdles",
-      "location": "United Kingdom",
-      "salary": "",
-      "url": "https://uk.linkedin.com/jobs/view/python-developer-%24100-hr-remote-at-crossing-hurdles-4439197415",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:24Z",
-      "scraped_at": "2026-07-14T03:23:24Z"
-    },
-    {
-      "id": "28866c22d9fb",
-      "title": "Software Engineer, Micro Platforms (Remote)",
-      "company": "Hired",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hired-4439781569",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:23Z",
-      "scraped_at": "2026-07-14T03:23:23Z"
-    },
-    {
-      "id": "c27e41a9e32c",
-      "title": "Senior Frontend Software Engineer (Typescript) (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-hire-feed-4439776857",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:23Z",
-      "scraped_at": "2026-07-14T03:23:23Z"
-    },
-    {
-      "id": "3dd31dd36800",
-      "title": "Junior Business & Data Analyst",
-      "company": "Securitas Security Services Europe",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/junior-business-data-analyst-at-securitas-security-services-europe-4439094540",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:22Z",
-      "scraped_at": "2026-07-14T03:23:22Z"
-    },
-    {
-      "id": "7f8a494fb649",
-      "title": "Data Scientist",
-      "company": "AHADI Applied Health Analytics for Delivery & Innovation",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-ahadi-applied-health-analytics-for-delivery-innovation-4439566591",
-      "source": "LinkedIn",
-      "posted_date": "2026-07-14T03:23:22Z",
-      "scraped_at": "2026-07-14T03:23:22Z"
     }
   ]
 }
