@@ -1,17 +1,699 @@
 {
-  "last_updated": "2026-08-02T23:26:36.180608+00:00",
-  "total_jobs": 375,
+  "last_updated": "2026-08-03T01:03:28.065119+00:00",
+  "total_jobs": 376,
   "jobs": [
     {
-      "id": "71bc8cdfc174",
-      "title": "ML Engineer (Remote)",
+      "id": "b8b0e7e717a2",
+      "title": "AI/ML Engineer (Remote)",
       "company": "Jobs Ai",
       "location": "United Arab Emirates",
       "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "url": "https://ae.linkedin.com/jobs/view/ai-ml-engineer-remote-at-jobs-ai-4447890795",
       "source": "LinkedIn",
-      "posted_date": "2026-08-02T23:24:37Z",
-      "scraped_at": "2026-08-02T23:24:37Z"
+      "posted_date": "2026-08-03T01:01:48Z",
+      "scraped_at": "2026-08-03T01:01:48Z"
+    },
+    {
+      "id": "145a014dc702",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "2c4a51a968f2",
+      "title": "Data Engineer I (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "c3f2a92c34fc",
+      "title": "Machine Learning Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "ab8110c143a5",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "6e58bd01517e",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "c303d12c4166",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "d94041526fd2",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "7d55bce90df9",
+      "title": "Quantitative Researcher",
+      "company": "AAA Global",
+      "location": "New York, United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "9b692575666f",
+      "title": "Quantitative Analyst | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "f64f488d0533",
+      "title": "Senior SDET (Software Development Engineer in Test)",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-sdet-software-development-engineer-in-test-at-ignitetech-4446395767",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:47Z",
+      "scraped_at": "2026-08-03T01:01:47Z"
+    },
+    {
+      "id": "587538e547a7",
+      "title": "Senior C++ Software Engineer - Prop Trading - Europe Remote",
+      "company": "Paragon Alpha - Hedge Fund Talent Business",
+      "location": "United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/senior-c%2B%2B-software-engineer-prop-trading-europe-remote-at-paragon-alpha-hedge-fund-talent-business-4445952407",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:46Z",
+      "scraped_at": "2026-08-03T01:01:46Z"
+    },
+    {
+      "id": "3de4b71ac4ec",
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:42Z",
+      "scraped_at": "2026-08-03T01:01:42Z"
+    },
+    {
+      "id": "38ab6c5e23e6",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:42Z",
+      "scraped_at": "2026-08-03T01:01:42Z"
+    },
+    {
+      "id": "c468484de6b8",
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-03T01:01:42Z",
+      "scraped_at": "2026-08-03T01:01:42Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-03T01:00:31Z",
+      "scraped_at": "2026-08-03T01:00:31Z"
     },
     {
       "id": "4c90230dbefb",
@@ -20,6 +702,17 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T23:24:37Z",
+      "scraped_at": "2026-08-02T23:24:37Z"
+    },
+    {
+      "id": "71bc8cdfc174",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T23:24:37Z",
       "scraped_at": "2026-08-02T23:24:37Z"
@@ -47,6 +740,17 @@
       "scraped_at": "2026-08-02T23:24:33Z"
     },
     {
+      "id": "52135aaada54",
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T23:24:32Z",
+      "scraped_at": "2026-08-02T23:24:32Z"
+    },
+    {
       "id": "1c72eb0c3f39",
       "title": "Software Engineer - E-Commerce (Remote)",
       "company": "Hired",
@@ -64,17 +768,6 @@
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T23:24:32Z",
-      "scraped_at": "2026-08-02T23:24:32Z"
-    },
-    {
-      "id": "52135aaada54",
-      "title": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T23:24:32Z",
       "scraped_at": "2026-08-02T23:24:32Z"
@@ -124,534 +817,6 @@
       "scraped_at": "2026-08-02T23:24:31Z"
     },
     {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
-      "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-02T23:23:59Z",
-      "scraped_at": "2026-08-02T23:23:59Z"
-    },
-    {
       "id": "90ff79353289",
       "title": "AI/ML Engineer (Remote)",
       "company": "Jobs Ai",
@@ -663,23 +828,67 @@
       "scraped_at": "2026-08-02T22:24:14Z"
     },
     {
-      "id": "3b51b358be7f",
-      "title": "Quantitative Analyst | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
+      "id": "b38cb08cd677",
+      "title": "Machine Learning Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T22:24:13Z",
       "scraped_at": "2026-08-02T22:24:13Z"
     },
     {
-      "id": "a52cd539e975",
-      "title": "Quantitative Researcher",
-      "company": "AAA Global",
-      "location": "New York, United States",
+      "id": "e7e1d5ba9be4",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T22:24:13Z",
+      "scraped_at": "2026-08-02T22:24:13Z"
+    },
+    {
+      "id": "8ec14a11c7c3",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T22:24:13Z",
+      "scraped_at": "2026-08-02T22:24:13Z"
+    },
+    {
+      "id": "fd2c0b66da45",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T22:24:13Z",
+      "scraped_at": "2026-08-02T22:24:13Z"
+    },
+    {
+      "id": "6b35052f869d",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T22:24:13Z",
+      "scraped_at": "2026-08-02T22:24:13Z"
+    },
+    {
+      "id": "7ab97c0c94ec",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T22:24:13Z",
       "scraped_at": "2026-08-02T22:24:13Z"
@@ -707,61 +916,6 @@
       "scraped_at": "2026-08-02T22:24:13Z"
     },
     {
-      "id": "7ab97c0c94ec",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T22:24:13Z",
-      "scraped_at": "2026-08-02T22:24:13Z"
-    },
-    {
-      "id": "6b35052f869d",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T22:24:13Z",
-      "scraped_at": "2026-08-02T22:24:13Z"
-    },
-    {
-      "id": "fd2c0b66da45",
-      "title": "Software Engineer Annotator",
-      "company": "Odixcity Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T22:24:13Z",
-      "scraped_at": "2026-08-02T22:24:13Z"
-    },
-    {
-      "id": "8ec14a11c7c3",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T22:24:13Z",
-      "scraped_at": "2026-08-02T22:24:13Z"
-    },
-    {
-      "id": "b38cb08cd677",
-      "title": "Machine Learning Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T22:24:13Z",
-      "scraped_at": "2026-08-02T22:24:13Z"
-    },
-    {
       "id": "82d020a3a444",
       "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
       "company": "UI Operations",
@@ -773,12 +927,23 @@
       "scraped_at": "2026-08-02T22:24:13Z"
     },
     {
-      "id": "e7e1d5ba9be4",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "a52cd539e975",
+      "title": "Quantitative Researcher",
+      "company": "AAA Global",
+      "location": "New York, United States",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T22:24:13Z",
+      "scraped_at": "2026-08-02T22:24:13Z"
+    },
+    {
+      "id": "3b51b358be7f",
+      "title": "Quantitative Analyst | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T22:24:13Z",
       "scraped_at": "2026-08-02T22:24:13Z"
@@ -815,6 +980,50 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-02T22:24:08Z",
       "scraped_at": "2026-08-02T22:24:08Z"
+    },
+    {
+      "id": "8b96c15102a9",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:26:00Z",
+      "scraped_at": "2026-08-02T21:26:00Z"
+    },
+    {
+      "id": "92c591f1f27d",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:26:00Z",
+      "scraped_at": "2026-08-02T21:26:00Z"
+    },
+    {
+      "id": "b380c121f51f",
+      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "UI Operations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:26:00Z",
+      "scraped_at": "2026-08-02T21:26:00Z"
+    },
+    {
+      "id": "760235ed100f",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:26:00Z",
+      "scraped_at": "2026-08-02T21:26:00Z"
     },
     {
       "id": "b9e930ad9dc2",
@@ -883,50 +1092,6 @@
       "scraped_at": "2026-08-02T21:26:00Z"
     },
     {
-      "id": "760235ed100f",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:26:00Z",
-      "scraped_at": "2026-08-02T21:26:00Z"
-    },
-    {
-      "id": "b380c121f51f",
-      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "UI Operations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:26:00Z",
-      "scraped_at": "2026-08-02T21:26:00Z"
-    },
-    {
-      "id": "92c591f1f27d",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:26:00Z",
-      "scraped_at": "2026-08-02T21:26:00Z"
-    },
-    {
-      "id": "8b96c15102a9",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:26:00Z",
-      "scraped_at": "2026-08-02T21:26:00Z"
-    },
-    {
       "id": "cd986fb9d4fb",
       "title": "Python Software Developer - Remote",
       "company": "YO AI Labs",
@@ -936,17 +1101,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-02T21:25:56Z",
       "scraped_at": "2026-08-02T21:25:56Z"
-    },
-    {
-      "id": "0394eca0bee9",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hired",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4447887832",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:25:55Z",
-      "scraped_at": "2026-08-02T21:25:55Z"
     },
     {
       "id": "80c746d9e6f1",
@@ -971,26 +1125,15 @@
       "scraped_at": "2026-08-02T21:25:55Z"
     },
     {
-      "id": "a3d565af2385",
-      "title": "Software Engineer Annotator",
-      "company": "Odixcity Consulting",
-      "location": "Kenya",
+      "id": "0394eca0bee9",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hired",
+      "location": "United Arab Emirates",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hired-4447887832",
       "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:25:54Z",
-      "scraped_at": "2026-08-02T21:25:54Z"
-    },
-    {
-      "id": "4fa82da8b8b8",
-      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "UI Operations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T21:25:54Z",
-      "scraped_at": "2026-08-02T21:25:54Z"
+      "posted_date": "2026-08-02T21:25:55Z",
+      "scraped_at": "2026-08-02T21:25:55Z"
     },
     {
       "id": "c8348ea04c51",
@@ -1010,6 +1153,28 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:25:54Z",
+      "scraped_at": "2026-08-02T21:25:54Z"
+    },
+    {
+      "id": "a3d565af2385",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T21:25:54Z",
+      "scraped_at": "2026-08-02T21:25:54Z"
+    },
+    {
+      "id": "4fa82da8b8b8",
+      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "UI Operations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T21:25:54Z",
       "scraped_at": "2026-08-02T21:25:54Z"
@@ -1037,34 +1202,12 @@
       "scraped_at": "2026-08-02T20:30:58Z"
     },
     {
-      "id": "4b426a03907d",
+      "id": "d6a12eee7ca3",
       "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T20:30:57Z",
-      "scraped_at": "2026-08-02T20:30:57Z"
-    },
-    {
-      "id": "5941bb757bb2",
-      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "UI Operations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T20:30:57Z",
-      "scraped_at": "2026-08-02T20:30:57Z"
-    },
-    {
-      "id": "ae241fa4c18e",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T20:30:57Z",
       "scraped_at": "2026-08-02T20:30:57Z"
@@ -1081,12 +1224,34 @@
       "scraped_at": "2026-08-02T20:30:57Z"
     },
     {
-      "id": "d6a12eee7ca3",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "ae241fa4c18e",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T20:30:57Z",
+      "scraped_at": "2026-08-02T20:30:57Z"
+    },
+    {
+      "id": "5941bb757bb2",
+      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "UI Operations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T20:30:57Z",
+      "scraped_at": "2026-08-02T20:30:57Z"
+    },
+    {
+      "id": "4b426a03907d",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T20:30:57Z",
       "scraped_at": "2026-08-02T20:30:57Z"
@@ -1180,56 +1345,12 @@
       "scraped_at": "2026-08-02T20:30:51Z"
     },
     {
-      "id": "61a8f820507b",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T19:33:04Z",
-      "scraped_at": "2026-08-02T19:33:04Z"
-    },
-    {
-      "id": "5197ba50c02d",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T19:33:04Z",
-      "scraped_at": "2026-08-02T19:33:04Z"
-    },
-    {
-      "id": "d9d937df34d5",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T19:33:04Z",
-      "scraped_at": "2026-08-02T19:33:04Z"
-    },
-    {
       "id": "21a81b2a2db4",
       "title": "Senior SDET (Software Development Engineer in Test)",
       "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-sdet-software-development-engineer-in-test-at-ignitetech-4446395767",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T19:33:04Z",
-      "scraped_at": "2026-08-02T19:33:04Z"
-    },
-    {
-      "id": "6abf990fc79a",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T19:33:04Z",
       "scraped_at": "2026-08-02T19:33:04Z"
@@ -1246,23 +1367,12 @@
       "scraped_at": "2026-08-02T19:33:04Z"
     },
     {
-      "id": "5078ca9eb367",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
+      "id": "35b7b47df301",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T19:33:04Z",
-      "scraped_at": "2026-08-02T19:33:04Z"
-    },
-    {
-      "id": "fe4a5766718c",
-      "title": "Software Engineer",
-      "company": "Story",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-story-4445845617",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T19:33:04Z",
       "scraped_at": "2026-08-02T19:33:04Z"
@@ -1279,12 +1389,67 @@
       "scraped_at": "2026-08-02T19:33:04Z"
     },
     {
-      "id": "35b7b47df301",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
+      "id": "5197ba50c02d",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T19:33:04Z",
+      "scraped_at": "2026-08-02T19:33:04Z"
+    },
+    {
+      "id": "fe4a5766718c",
+      "title": "Software Engineer",
+      "company": "Story",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-at-story-4445845617",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T19:33:04Z",
+      "scraped_at": "2026-08-02T19:33:04Z"
+    },
+    {
+      "id": "5078ca9eb367",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T19:33:04Z",
+      "scraped_at": "2026-08-02T19:33:04Z"
+    },
+    {
+      "id": "d9d937df34d5",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T19:33:04Z",
+      "scraped_at": "2026-08-02T19:33:04Z"
+    },
+    {
+      "id": "6abf990fc79a",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T19:33:04Z",
+      "scraped_at": "2026-08-02T19:33:04Z"
+    },
+    {
+      "id": "61a8f820507b",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T19:33:04Z",
       "scraped_at": "2026-08-02T19:33:04Z"
@@ -1334,28 +1499,6 @@
       "scraped_at": "2026-08-02T19:32:58Z"
     },
     {
-      "id": "d0e557ccb9e1",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "61cd5d4292c8",
-      "title": "Data Engineer I (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
       "id": "21be929735fe",
       "title": "Software Engineer",
       "company": "Story",
@@ -1367,67 +1510,12 @@
       "scraped_at": "2026-08-02T18:13:19Z"
     },
     {
-      "id": "e827755798fd",
-      "title": "Machine Learning Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
+      "id": "f6fe028c9090",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "8a3c24065793",
-      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "UI Operations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "0d777fb29cd4",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "6dbdb6cf914b",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "7c2756cb33de",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T18:13:19Z",
-      "scraped_at": "2026-08-02T18:13:19Z"
-    },
-    {
-      "id": "baa21e9f5001",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T18:13:19Z",
       "scraped_at": "2026-08-02T18:13:19Z"
@@ -1444,12 +1532,89 @@
       "scraped_at": "2026-08-02T18:13:19Z"
     },
     {
-      "id": "f6fe028c9090",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
+      "id": "baa21e9f5001",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "7c2756cb33de",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "6dbdb6cf914b",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "0d777fb29cd4",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "8a3c24065793",
+      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "UI Operations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "e827755798fd",
+      "title": "Machine Learning Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "61cd5d4292c8",
+      "title": "Data Engineer I (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T18:13:19Z",
+      "scraped_at": "2026-08-02T18:13:19Z"
+    },
+    {
+      "id": "d0e557ccb9e1",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T18:13:19Z",
       "scraped_at": "2026-08-02T18:13:19Z"
@@ -1485,7 +1650,7 @@
       "url": "https://www.adzuna.com/details/5825996865?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T17:26:43Z",
-      "scraped_at": "2026-08-02T23:24:14Z"
+      "scraped_at": "2026-08-03T01:01:04Z"
     },
     {
       "id": "ea941f9fb38b",
@@ -1496,40 +1661,7 @@
       "url": "https://www.adzuna.com/details/5825977745?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T17:20:12Z",
-      "scraped_at": "2026-08-02T23:24:14Z"
-    },
-    {
-      "id": "ef70c5ef7b52",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T17:16:57Z",
-      "scraped_at": "2026-08-02T17:16:57Z"
-    },
-    {
-      "id": "e376d522ae9e",
-      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "UI Operations",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T17:16:57Z",
-      "scraped_at": "2026-08-02T17:16:57Z"
-    },
-    {
-      "id": "6fccef399f01",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T17:16:57Z",
-      "scraped_at": "2026-08-02T17:16:57Z"
+      "scraped_at": "2026-08-03T01:01:04Z"
     },
     {
       "id": "05ad4921b520",
@@ -1538,28 +1670,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T17:16:57Z",
-      "scraped_at": "2026-08-02T17:16:57Z"
-    },
-    {
-      "id": "8695911b678d",
-      "title": "Software Engineer Annotator",
-      "company": "Odixcity Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T17:16:57Z",
-      "scraped_at": "2026-08-02T17:16:57Z"
-    },
-    {
-      "id": "4162e30edc92",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T17:16:57Z",
       "scraped_at": "2026-08-02T17:16:57Z"
@@ -1609,6 +1719,61 @@
       "scraped_at": "2026-08-02T17:16:57Z"
     },
     {
+      "id": "4162e30edc92",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T17:16:57Z",
+      "scraped_at": "2026-08-02T17:16:57Z"
+    },
+    {
+      "id": "8695911b678d",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T17:16:57Z",
+      "scraped_at": "2026-08-02T17:16:57Z"
+    },
+    {
+      "id": "e376d522ae9e",
+      "title": "DATA ENGINEER – MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "UI Operations",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-%E2%80%93-machine-learning-and-data-analytics-at-ui-operations-4445848672",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T17:16:57Z",
+      "scraped_at": "2026-08-02T17:16:57Z"
+    },
+    {
+      "id": "6fccef399f01",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T17:16:57Z",
+      "scraped_at": "2026-08-02T17:16:57Z"
+    },
+    {
+      "id": "ef70c5ef7b52",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T17:16:57Z",
+      "scraped_at": "2026-08-02T17:16:57Z"
+    },
+    {
       "id": "941b28088405",
       "title": "Python Software Developer - Remote",
       "company": "YO AI Labs",
@@ -1653,6 +1818,39 @@
       "scraped_at": "2026-08-02T16:15:54Z"
     },
     {
+      "id": "30a436ea18ea",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T16:15:54Z",
+      "scraped_at": "2026-08-02T16:15:54Z"
+    },
+    {
+      "id": "9a174f44ffff",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T16:15:54Z",
+      "scraped_at": "2026-08-02T16:15:54Z"
+    },
+    {
+      "id": "dd79fcacb767",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T16:15:54Z",
+      "scraped_at": "2026-08-02T16:15:54Z"
+    },
+    {
       "id": "750cff83ca66",
       "title": "Data Scientist (Fraud)",
       "company": "Semasocial",
@@ -1670,39 +1868,6 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T16:15:54Z",
-      "scraped_at": "2026-08-02T16:15:54Z"
-    },
-    {
-      "id": "dd79fcacb767",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T16:15:54Z",
-      "scraped_at": "2026-08-02T16:15:54Z"
-    },
-    {
-      "id": "9a174f44ffff",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T16:15:54Z",
-      "scraped_at": "2026-08-02T16:15:54Z"
-    },
-    {
-      "id": "30a436ea18ea",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T16:15:54Z",
       "scraped_at": "2026-08-02T16:15:54Z"
@@ -1774,6 +1939,105 @@
       "scraped_at": "2026-08-02T15:19:05Z"
     },
     {
+      "id": "cbb432c925d3",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "e8820aa5243f",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "ea1b8fd7001b",
+      "title": "Quantitative Analyst | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "a899af09730f",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "6879d8919f0a",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "69e53f8939e6",
+      "title": "Machine Learning Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "138c16d2f7d3",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "a1a190ea2285",
+      "title": "Quantitative Researcher",
+      "company": "AAA Global",
+      "location": "New York, United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
+      "id": "a4d63285c8e6",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T15:19:04Z",
+      "scraped_at": "2026-08-02T15:19:04Z"
+    },
+    {
       "id": "174d28cc966e",
       "title": "Software Engineer Annotator",
       "company": "Odixcity Consulting",
@@ -1791,105 +2055,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "a4d63285c8e6",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "cbb432c925d3",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "138c16d2f7d3",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "69e53f8939e6",
-      "title": "Machine Learning Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "6879d8919f0a",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "a1a190ea2285",
-      "title": "Quantitative Researcher",
-      "company": "AAA Global",
-      "location": "New York, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "a899af09730f",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "ea1b8fd7001b",
-      "title": "Quantitative Analyst | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T15:19:04Z",
-      "scraped_at": "2026-08-02T15:19:04Z"
-    },
-    {
-      "id": "e8820aa5243f",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T15:19:04Z",
       "scraped_at": "2026-08-02T15:19:04Z"
@@ -1950,89 +2115,12 @@
       "scraped_at": "2026-08-02T15:18:59Z"
     },
     {
-      "id": "598dbde89d49",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "3c29573cfbb4",
-      "title": "Data Engineer I (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
       "id": "302a3d562e90",
       "title": "Data Scientist (Fraud)",
       "company": "Moniepoint, BRM",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "183b02ba093c",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "41ec861e82f0",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "73e962d4ccb0",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "ad2efe91e818",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T14:13:03Z",
-      "scraped_at": "2026-08-02T14:13:03Z"
-    },
-    {
-      "id": "b8060e01e982",
-      "title": "Software Engineer Annotator",
-      "company": "Odixcity Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T14:13:03Z",
       "scraped_at": "2026-08-02T14:13:03Z"
@@ -2049,12 +2137,89 @@
       "scraped_at": "2026-08-02T14:13:03Z"
     },
     {
+      "id": "b8060e01e982",
+      "title": "Software Engineer Annotator",
+      "company": "Odixcity Consulting",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "ad2efe91e818",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "73e962d4ccb0",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Jobgether",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "41ec861e82f0",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "183b02ba093c",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
       "id": "9bc2ec243a59",
       "title": "Machine Learning Engineer (Remote)",
       "company": "Hire Feed",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4447874347",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "3c29573cfbb4",
+      "title": "Data Engineer I (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T14:13:03Z",
+      "scraped_at": "2026-08-02T14:13:03Z"
+    },
+    {
+      "id": "598dbde89d49",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T14:13:03Z",
       "scraped_at": "2026-08-02T14:13:03Z"
@@ -2071,28 +2236,6 @@
       "scraped_at": "2026-08-02T14:12:58Z"
     },
     {
-      "id": "632ec23df851",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:40:04Z",
-      "scraped_at": "2026-08-02T12:40:04Z"
-    },
-    {
-      "id": "a989c1326c6a",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:40:04Z",
-      "scraped_at": "2026-08-02T12:40:04Z"
-    },
-    {
       "id": "1dc115f7dc8f",
       "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
       "company": "IgniteTech",
@@ -2104,45 +2247,12 @@
       "scraped_at": "2026-08-02T12:40:04Z"
     },
     {
-      "id": "3fc81a923df2",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
+      "id": "5d31ec4e45fd",
+      "title": "Quantitative Researcher",
+      "company": "AAA Global",
+      "location": "New York, United States",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:40:04Z",
-      "scraped_at": "2026-08-02T12:40:04Z"
-    },
-    {
-      "id": "ab5adf3e27ef",
-      "title": "Quantitative Analyst | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:40:04Z",
-      "scraped_at": "2026-08-02T12:40:04Z"
-    },
-    {
-      "id": "1cc2d24d33d2",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:40:04Z",
-      "scraped_at": "2026-08-02T12:40:04Z"
-    },
-    {
-      "id": "bba2d2ff0d06",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T12:40:04Z",
       "scraped_at": "2026-08-02T12:40:04Z"
@@ -2159,12 +2269,67 @@
       "scraped_at": "2026-08-02T12:40:04Z"
     },
     {
-      "id": "5d31ec4e45fd",
-      "title": "Quantitative Researcher",
-      "company": "AAA Global",
-      "location": "New York, United States",
+      "id": "1cc2d24d33d2",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:40:04Z",
+      "scraped_at": "2026-08-02T12:40:04Z"
+    },
+    {
+      "id": "ab5adf3e27ef",
+      "title": "Quantitative Analyst | Remote",
+      "company": "Crossing Hurdles",
+      "location": "United States",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:40:04Z",
+      "scraped_at": "2026-08-02T12:40:04Z"
+    },
+    {
+      "id": "3fc81a923df2",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:40:04Z",
+      "scraped_at": "2026-08-02T12:40:04Z"
+    },
+    {
+      "id": "bba2d2ff0d06",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:40:04Z",
+      "scraped_at": "2026-08-02T12:40:04Z"
+    },
+    {
+      "id": "a989c1326c6a",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:40:04Z",
+      "scraped_at": "2026-08-02T12:40:04Z"
+    },
+    {
+      "id": "632ec23df851",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T12:40:04Z",
       "scraped_at": "2026-08-02T12:40:04Z"
@@ -2192,23 +2357,23 @@
       "scraped_at": "2026-08-02T12:40:00Z"
     },
     {
-      "id": "19ae9b3a8788",
-      "title": "Quantitative Research Associate, International Development (Nairobi, Kenya)",
-      "company": "American Institutes for Research",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/quantitative-research-associate-international-development-nairobi-kenya-at-american-institutes-for-research-4447723851",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T12:39:58Z",
-      "scraped_at": "2026-08-02T12:39:58Z"
-    },
-    {
       "id": "c4cf814e26bd",
       "title": "EBKL- HR Business & Reporting Analyst",
       "company": "Equity Bank Limited",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ebkl-hr-business-reporting-analyst-at-equity-bank-limited-4445941474",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T12:39:58Z",
+      "scraped_at": "2026-08-02T12:39:58Z"
+    },
+    {
+      "id": "19ae9b3a8788",
+      "title": "Quantitative Research Associate, International Development (Nairobi, Kenya)",
+      "company": "American Institutes for Research",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/quantitative-research-associate-international-development-nairobi-kenya-at-american-institutes-for-research-4447723851",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T12:39:58Z",
       "scraped_at": "2026-08-02T12:39:58Z"
@@ -2280,50 +2445,6 @@
       "scraped_at": "2026-08-02T18:12:58Z"
     },
     {
-      "id": "d72121780b76",
-      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
-      "company": "Sedgwick",
-      "location": "Lexington, Fayette County",
-      "salary": "$291,200 - $416,000",
-      "url": "https://www.adzuna.com/land/ad/5825812114?se=HriUyp2O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T11:51:00Z",
-      "scraped_at": "2026-08-02T18:12:58Z"
-    },
-    {
-      "id": "afe6a57aef41",
-      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
-      "company": "Sedgwick",
-      "location": "Lexington, Fayette County",
-      "salary": "$291,200 - $416,000",
-      "url": "https://www.adzuna.com/land/ad/5825812114?se=EHofALGO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T11:51:00Z",
-      "scraped_at": "2026-08-02T20:30:29Z"
-    },
-    {
-      "id": "463ab9466293",
-      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
-      "company": "Sedgwick",
-      "location": "Lexington, Fayette County",
-      "salary": "$291,200 - $416,000",
-      "url": "https://www.adzuna.com/land/ad/5825812114?se=2Mvb6pWO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T11:51:00Z",
-      "scraped_at": "2026-08-02T17:16:36Z"
-    },
-    {
-      "id": "a27f236e6050",
-      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
-      "company": "Sedgwick",
-      "location": "Lexington, Fayette County",
-      "salary": "$291,200 - $416,000",
-      "url": "https://www.adzuna.com/land/ad/5825812114?se=_idd7JWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T11:51:00Z",
-      "scraped_at": "2026-08-02T17:16:39Z"
-    },
-    {
       "id": "bbf5fc1d26a2",
       "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
       "company": "Sedgwick",
@@ -2368,15 +2489,48 @@
       "scraped_at": "2026-08-02T16:15:29Z"
     },
     {
-      "id": "3280ca2d2a8c",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T11:37:21Z",
-      "scraped_at": "2026-08-02T11:37:21Z"
+      "id": "afe6a57aef41",
+      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
+      "company": "Sedgwick",
+      "location": "Lexington, Fayette County",
+      "salary": "$291,200 - $416,000",
+      "url": "https://www.adzuna.com/land/ad/5825812114?se=EHofALGO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T11:51:00Z",
+      "scraped_at": "2026-08-02T20:30:29Z"
+    },
+    {
+      "id": "463ab9466293",
+      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
+      "company": "Sedgwick",
+      "location": "Lexington, Fayette County",
+      "salary": "$291,200 - $416,000",
+      "url": "https://www.adzuna.com/land/ad/5825812114?se=2Mvb6pWO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T11:51:00Z",
+      "scraped_at": "2026-08-02T17:16:36Z"
+    },
+    {
+      "id": "a27f236e6050",
+      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
+      "company": "Sedgwick",
+      "location": "Lexington, Fayette County",
+      "salary": "$291,200 - $416,000",
+      "url": "https://www.adzuna.com/land/ad/5825812114?se=_idd7JWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T11:51:00Z",
+      "scraped_at": "2026-08-02T17:16:39Z"
+    },
+    {
+      "id": "d72121780b76",
+      "title": "Remote Principal Data Scientist - AI & Risk Modeling Lead (Lexington)",
+      "company": "Sedgwick",
+      "location": "Lexington, Fayette County",
+      "salary": "$291,200 - $416,000",
+      "url": "https://www.adzuna.com/land/ad/5825812114?se=HriUyp2O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=78E51A3BFBBF5BE509C08048DB2170940B77C0FA",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T11:51:00Z",
+      "scraped_at": "2026-08-02T18:12:58Z"
     },
     {
       "id": "3d66f0582505",
@@ -2385,39 +2539,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T11:37:21Z",
-      "scraped_at": "2026-08-02T11:37:21Z"
-    },
-    {
-      "id": "c7cd66ffd8e6",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T11:37:21Z",
-      "scraped_at": "2026-08-02T11:37:21Z"
-    },
-    {
-      "id": "4dc2602531cd",
-      "title": "ML Engineer (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T11:37:21Z",
-      "scraped_at": "2026-08-02T11:37:21Z"
-    },
-    {
-      "id": "c2cc0b72bddc",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T11:37:21Z",
       "scraped_at": "2026-08-02T11:37:21Z"
@@ -2434,12 +2555,56 @@
       "scraped_at": "2026-08-02T11:37:21Z"
     },
     {
+      "id": "c2cc0b72bddc",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T11:37:21Z",
+      "scraped_at": "2026-08-02T11:37:21Z"
+    },
+    {
+      "id": "4dc2602531cd",
+      "title": "ML Engineer (Remote)",
+      "company": "Jobs Ai",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T11:37:21Z",
+      "scraped_at": "2026-08-02T11:37:21Z"
+    },
+    {
+      "id": "c7cd66ffd8e6",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T11:37:21Z",
+      "scraped_at": "2026-08-02T11:37:21Z"
+    },
+    {
       "id": "e4c59c1138fc",
       "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
       "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T11:37:21Z",
+      "scraped_at": "2026-08-02T11:37:21Z"
+    },
+    {
+      "id": "3280ca2d2a8c",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T11:37:21Z",
       "scraped_at": "2026-08-02T11:37:21Z"
@@ -2563,7 +2728,7 @@
       "url": "https://www.adzuna.ca/details/5825758724?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-08-02T11:14:11Z",
-      "scraped_at": "2026-08-02T23:24:23Z"
+      "scraped_at": "2026-08-03T01:01:27Z"
     },
     {
       "id": "af6ffc8fa182",
@@ -2575,6 +2740,61 @@
       "source": "Adzuna-CA",
       "posted_date": "2026-08-02T11:13:58Z",
       "scraped_at": "2026-08-02T21:25:48Z"
+    },
+    {
+      "id": "2031c4faeeab",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:07Z",
+      "scraped_at": "2026-08-02T10:19:07Z"
+    },
+    {
+      "id": "b294ed3d11be",
+      "title": "Data Scientist (Fraud)",
+      "company": "Semasocial",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:07Z",
+      "scraped_at": "2026-08-02T10:19:07Z"
+    },
+    {
+      "id": "3e5a3a754d87",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:07Z",
+      "scraped_at": "2026-08-02T10:19:07Z"
+    },
+    {
+      "id": "2dae610b3db3",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:07Z",
+      "scraped_at": "2026-08-02T10:19:07Z"
+    },
+    {
+      "id": "c3a7742e194e",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:07Z",
+      "scraped_at": "2026-08-02T10:19:07Z"
     },
     {
       "id": "4dab90071b20",
@@ -2594,61 +2814,6 @@
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/ml-engineer-remote-at-jobs-ai-4447872667",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:07Z",
-      "scraped_at": "2026-08-02T10:19:07Z"
-    },
-    {
-      "id": "2031c4faeeab",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:07Z",
-      "scraped_at": "2026-08-02T10:19:07Z"
-    },
-    {
-      "id": "c3a7742e194e",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:07Z",
-      "scraped_at": "2026-08-02T10:19:07Z"
-    },
-    {
-      "id": "2dae610b3db3",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:07Z",
-      "scraped_at": "2026-08-02T10:19:07Z"
-    },
-    {
-      "id": "3e5a3a754d87",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:07Z",
-      "scraped_at": "2026-08-02T10:19:07Z"
-    },
-    {
-      "id": "b294ed3d11be",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T10:19:07Z",
       "scraped_at": "2026-08-02T10:19:07Z"
@@ -2698,23 +2863,23 @@
       "scraped_at": "2026-08-02T10:19:03Z"
     },
     {
-      "id": "11331871e33f",
-      "title": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T10:19:02Z",
-      "scraped_at": "2026-08-02T10:19:02Z"
-    },
-    {
       "id": "ba7dd204eeb5",
       "title": "Frontend Software Engineer - Remote",
       "company": "YO IT Consulting",
       "location": "Dubai, Dubai, United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T10:19:02Z",
+      "scraped_at": "2026-08-02T10:19:02Z"
+    },
+    {
+      "id": "11331871e33f",
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T10:19:02Z",
       "scraped_at": "2026-08-02T10:19:02Z"
@@ -2841,17 +3006,6 @@
       "scraped_at": "2026-08-02T08:40:42Z"
     },
     {
-      "id": "c324d186fabf",
-      "title": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T08:40:41Z",
-      "scraped_at": "2026-08-02T08:40:41Z"
-    },
-    {
       "id": "06e650d45d76",
       "title": "BI Data Analytics Engineer",
       "company": "d.light India",
@@ -2874,23 +3028,34 @@
       "scraped_at": "2026-08-02T08:40:41Z"
     },
     {
-      "id": "29f3db4e7721",
-      "title": "Data Engineer I (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T08:40:41Z",
-      "scraped_at": "2026-08-02T08:40:41Z"
-    },
-    {
       "id": "ab10b8f1ca3f",
       "title": "Frontend Software Engineer - Remote",
       "company": "YO IT Consulting",
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T08:40:41Z",
+      "scraped_at": "2026-08-02T08:40:41Z"
+    },
+    {
+      "id": "c324d186fabf",
+      "title": "Frontend Software Engineer - Remote",
+      "company": "YO IT Consulting",
+      "location": "Dubai, Dubai, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T08:40:41Z",
+      "scraped_at": "2026-08-02T08:40:41Z"
+    },
+    {
+      "id": "29f3db4e7721",
+      "title": "Data Engineer I (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-i-remote-at-hire-feed-4447884234",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T08:40:41Z",
       "scraped_at": "2026-08-02T08:40:41Z"
@@ -2916,6 +3081,28 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-02T06:22:23Z",
       "scraped_at": "2026-08-02T06:22:23Z"
+    },
+    {
+      "id": "cb140f9190e9",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T06:22:22Z",
+      "scraped_at": "2026-08-02T06:22:22Z"
+    },
+    {
+      "id": "4cafd88af076",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T06:22:22Z",
+      "scraped_at": "2026-08-02T06:22:22Z"
     },
     {
       "id": "2858659658ee",
@@ -2962,17 +3149,6 @@
       "scraped_at": "2026-08-02T06:22:22Z"
     },
     {
-      "id": "cb140f9190e9",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T06:22:22Z",
-      "scraped_at": "2026-08-02T06:22:22Z"
-    },
-    {
       "id": "4a61c793f269",
       "title": "Senior Full Stack Software Engineer",
       "company": "Jobgether",
@@ -2990,17 +3166,6 @@
       "location": "Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T06:22:22Z",
-      "scraped_at": "2026-08-02T06:22:22Z"
-    },
-    {
-      "id": "4cafd88af076",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T06:22:22Z",
       "scraped_at": "2026-08-02T06:22:22Z"
@@ -3072,56 +3237,12 @@
       "scraped_at": "2026-08-02T03:48:32Z"
     },
     {
-      "id": "37dd10709d14",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T03:48:31Z",
-      "scraped_at": "2026-08-02T03:48:31Z"
-    },
-    {
-      "id": "0dc46a807c7b",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T03:48:31Z",
-      "scraped_at": "2026-08-02T03:48:31Z"
-    },
-    {
       "id": "e6c1d69f6cfe",
       "title": "Data Scientist (Remote Eligible)",
       "company": "Mathematica",
       "location": "Princeton, NJ",
       "salary": "",
       "url": "https://www.linkedin.com/jobs/view/data-scientist-remote-eligible-at-mathematica-4436618777",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T03:48:31Z",
-      "scraped_at": "2026-08-02T03:48:31Z"
-    },
-    {
-      "id": "e740af2bd219",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T03:48:31Z",
-      "scraped_at": "2026-08-02T03:48:31Z"
-    },
-    {
-      "id": "66cb762f9b19",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T03:48:31Z",
       "scraped_at": "2026-08-02T03:48:31Z"
@@ -3144,6 +3265,50 @@
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T03:48:31Z",
+      "scraped_at": "2026-08-02T03:48:31Z"
+    },
+    {
+      "id": "66cb762f9b19",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T03:48:31Z",
+      "scraped_at": "2026-08-02T03:48:31Z"
+    },
+    {
+      "id": "e740af2bd219",
+      "title": "BI Data Analytics Engineer",
+      "company": "d.light India",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T03:48:31Z",
+      "scraped_at": "2026-08-02T03:48:31Z"
+    },
+    {
+      "id": "37dd10709d14",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-02T03:48:31Z",
+      "scraped_at": "2026-08-02T03:48:31Z"
+    },
+    {
+      "id": "0dc46a807c7b",
+      "title": "Machine Learning Specialist",
+      "company": "Nuru Solutions",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
       "source": "LinkedIn",
       "posted_date": "2026-08-02T03:48:31Z",
       "scraped_at": "2026-08-02T03:48:31Z"
@@ -3226,127 +3391,6 @@
       "scraped_at": "2026-08-02T03:48:26Z"
     },
     {
-      "id": "78e32e92d1bb",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T11:37:03Z"
-    },
-    {
-      "id": "dfd527ab8165",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T10:18:53Z"
-    },
-    {
-      "id": "18e2de250eb8",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T22:23:55Z"
-    },
-    {
-      "id": "e0854dc1fd99",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=xFqZdzqO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T06:21:59Z"
-    },
-    {
-      "id": "634e5880a128",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=rjHxdzqO8RGj5vYShZERXw&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T06:21:59Z"
-    },
-    {
-      "id": "aa19025337ec",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T16:15:37Z"
-    },
-    {
-      "id": "fb3626e8a00a",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T17:16:42Z"
-    },
-    {
-      "id": "57d912f66c43",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T19:32:46Z"
-    },
-    {
-      "id": "d1474856f217",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T08:40:28Z"
-    },
-    {
-      "id": "b431508583f4",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T12:39:46Z"
-    },
-    {
-      "id": "dcab0d07d486",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Tumwater, Thurston County",
-      "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T18:13:04Z"
-    },
-    {
       "id": "b45d17207f50",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
@@ -3369,26 +3413,26 @@
       "scraped_at": "2026-08-02T14:12:46Z"
     },
     {
-      "id": "1edbef93f514",
+      "id": "b431508583f4",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Tumwater, Thurston County",
       "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T20:30:36Z"
+      "scraped_at": "2026-08-02T12:39:46Z"
     },
     {
-      "id": "7103793590f7",
+      "id": "d1474856f217",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Tumwater, Thurston County",
       "salary": "$210,604 - $210,604",
-      "url": "https://www.adzuna.com/land/ad/5825366184?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:31:45Z",
-      "scraped_at": "2026-08-02T15:18:47Z"
+      "scraped_at": "2026-08-02T08:40:28Z"
     },
     {
       "id": "ae1cd0f28ff5",
@@ -3402,6 +3446,39 @@
       "scraped_at": "2026-08-02T06:22:07Z"
     },
     {
+      "id": "1edbef93f514",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T20:30:36Z"
+    },
+    {
+      "id": "fb3626e8a00a",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T17:16:42Z"
+    },
+    {
+      "id": "7103793590f7",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T15:18:47Z"
+    },
+    {
       "id": "a8743b1782a9",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
@@ -3413,81 +3490,103 @@
       "scraped_at": "2026-08-02T23:24:21Z"
     },
     {
-      "id": "73444cdff97b",
+      "id": "57d912f66c43",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=rjHxdzqO8RGj5vYShZERXw&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T06:21:59Z"
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T19:32:46Z"
     },
     {
-      "id": "cc5c90e85b94",
+      "id": "dcab0d07d486",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=mkJSPHyO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T14:12:46Z"
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T18:13:04Z"
     },
     {
-      "id": "b4ecdba8a3c4",
+      "id": "aa19025337ec",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T21:25:43Z"
-    },
-    {
-      "id": "3f848cd481ec",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T11:37:03Z"
-    },
-    {
-      "id": "4edcca88deee",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T20:30:36Z"
-    },
-    {
-      "id": "4c56a2c2279c",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
+      "posted_date": "2026-08-02T01:31:45Z",
       "scraped_at": "2026-08-02T16:15:37Z"
     },
     {
-      "id": "02124fa41f36",
+      "id": "e0854dc1fd99",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=xFqZdzqO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T19:32:46Z"
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T06:21:59Z"
+    },
+    {
+      "id": "18e2de250eb8",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T22:23:55Z"
+    },
+    {
+      "id": "dfd527ab8165",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T10:18:53Z"
+    },
+    {
+      "id": "78e32e92d1bb",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T11:37:03Z"
+    },
+    {
+      "id": "147429ff6136",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=Yjgq2NaO8RGZebTyWXwUAQ&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-03T01:01:23Z"
+    },
+    {
+      "id": "634e5880a128",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Tumwater, Thurston County",
+      "salary": "$210,604 - $210,604",
+      "url": "https://www.adzuna.com/land/ad/5825366184?se=rjHxdzqO8RGj5vYShZERXw&utm_medium=api&utm_source=3f1b011b&v=9FAA5718B6A53A43FDDB0C27C166ED7958FBDB71",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:31:45Z",
+      "scraped_at": "2026-08-02T06:21:59Z"
     },
     {
       "id": "6c6eaf6bf5a3",
@@ -3501,81 +3600,15 @@
       "scraped_at": "2026-08-02T22:23:55Z"
     },
     {
-      "id": "80bb00936327",
+      "id": "7c522a1c6ff5",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Madison, Dane County",
       "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T10:18:53Z"
-    },
-    {
-      "id": "5efc551156b7",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T08:40:28Z"
-    },
-    {
-      "id": "b1f221b850c7",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=xFqZdzqO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T06:21:59Z"
-    },
-    {
-      "id": "6c1b8874eee7",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T17:16:42Z"
-    },
-    {
-      "id": "8d636ef0dd97",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T15:18:47Z"
-    },
-    {
-      "id": "36f3f0e300d3",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=UBZmfDqO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T06:22:07Z"
-    },
-    {
-      "id": "e5475fdf4791",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Madison, Dane County",
-      "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T12:39:46Z"
+      "scraped_at": "2026-08-02T18:13:04Z"
     },
     {
       "id": "2cbf6fd35633",
@@ -3589,70 +3622,257 @@
       "scraped_at": "2026-08-02T23:24:21Z"
     },
     {
-      "id": "7c522a1c6ff5",
+      "id": "36f3f0e300d3",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Madison, Dane County",
       "salary": "$211,571 - $211,571",
-      "url": "https://www.adzuna.com/land/ad/5825365454?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=UBZmfDqO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:30:45Z",
-      "scraped_at": "2026-08-02T18:13:04Z"
+      "scraped_at": "2026-08-02T06:22:07Z"
     },
     {
-      "id": "8efe0df90d6d",
+      "id": "8d636ef0dd97",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T11:37:03Z"
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T15:18:47Z"
     },
     {
-      "id": "a2619f32a436",
+      "id": "6c1b8874eee7",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T22:23:55Z"
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T17:16:42Z"
     },
     {
-      "id": "e18adbf6b95a",
+      "id": "b1f221b850c7",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=xFqZdzqO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T06:21:59Z"
+    },
+    {
+      "id": "5efc551156b7",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T08:40:28Z"
+    },
+    {
+      "id": "80bb00936327",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T10:18:53Z"
+    },
+    {
+      "id": "e5475fdf4791",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T12:39:46Z"
+    },
+    {
+      "id": "02124fa41f36",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T19:32:46Z"
+    },
+    {
+      "id": "4edcca88deee",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
       "scraped_at": "2026-08-02T20:30:36Z"
     },
     {
-      "id": "57c309ca8856",
+      "id": "3f848cd481ec",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T11:37:03Z"
+    },
+    {
+      "id": "b4ecdba8a3c4",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T21:25:43Z"
+    },
+    {
+      "id": "cc5c90e85b94",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=mkJSPHyO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T14:12:46Z"
+    },
+    {
+      "id": "73444cdff97b",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=rjHxdzqO8RGj5vYShZERXw&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-02T06:21:59Z"
+    },
+    {
+      "id": "5e5034ae779f",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=Yjgq2NaO8RGZebTyWXwUAQ&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
+      "scraped_at": "2026-08-03T01:01:23Z"
+    },
+    {
+      "id": "4c56a2c2279c",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Madison, Dane County",
+      "salary": "$211,571 - $211,571",
+      "url": "https://www.adzuna.com/land/ad/5825365454?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=F5FE89252D49F8452E5C9E7FA693D45EC765F36E",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:45Z",
       "scraped_at": "2026-08-02T16:15:37Z"
     },
     {
-      "id": "05a667732c2c",
+      "id": "ad8b8742ce15",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Bonnie, Utah County",
       "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=UBZmfDqO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T15:18:47Z"
+      "scraped_at": "2026-08-02T06:22:07Z"
+    },
+    {
+      "id": "30c562c4c6fa",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=cKEwSsmO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T23:24:21Z"
+    },
+    {
+      "id": "d761f97a78ec",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T17:16:42Z"
+    },
+    {
+      "id": "09ffd4c8799c",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T18:13:04Z"
+    },
+    {
+      "id": "54f2cdffd019",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T21:25:43Z"
+    },
+    {
+      "id": "d179b749cd90",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T08:40:28Z"
+    },
+    {
+      "id": "4e46a8f8975b",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T10:18:53Z"
+    },
+    {
+      "id": "94ce55637368",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T19:32:46Z"
     },
     {
       "id": "a253614b7003",
@@ -3677,169 +3897,70 @@
       "scraped_at": "2026-08-02T12:39:46Z"
     },
     {
-      "id": "ad8b8742ce15",
+      "id": "05a667732c2c",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Bonnie, Utah County",
       "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=UBZmfDqO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T06:22:07Z"
+      "scraped_at": "2026-08-02T15:18:47Z"
     },
     {
-      "id": "94ce55637368",
+      "id": "57c309ca8856",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Bonnie, Utah County",
       "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T19:32:46Z"
-    },
-    {
-      "id": "4e46a8f8975b",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T10:18:53Z"
-    },
-    {
-      "id": "d179b749cd90",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T08:40:28Z"
-    },
-    {
-      "id": "54f2cdffd019",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T21:25:43Z"
-    },
-    {
-      "id": "09ffd4c8799c",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T18:13:04Z"
-    },
-    {
-      "id": "d761f97a78ec",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T17:16:42Z"
-    },
-    {
-      "id": "30c562c4c6fa",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Bonnie, Utah County",
-      "salary": "$213,426 - $213,426",
-      "url": "https://www.adzuna.com/land/ad/5825365179?se=cKEwSsmO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:30:24Z",
-      "scraped_at": "2026-08-02T23:24:21Z"
-    },
-    {
-      "id": "b8c944a907c4",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T18:13:04Z"
-    },
-    {
-      "id": "af410ab73f2f",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
       "scraped_at": "2026-08-02T16:15:37Z"
     },
     {
-      "id": "2607f05a80bd",
+      "id": "e18adbf6b95a",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-02T20:30:36Z"
+    },
+    {
+      "id": "a2619f32a436",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
       "scraped_at": "2026-08-02T22:23:55Z"
     },
     {
-      "id": "2a129113ddeb",
+      "id": "8efe0df90d6d",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
       "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T17:16:42Z"
-    },
-    {
-      "id": "af245062de3b",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T12:39:46Z"
-    },
-    {
-      "id": "f33484fc6bdf",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T19:32:46Z"
-    },
-    {
-      "id": "38b8d3ed9a35",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
+      "posted_date": "2026-08-02T01:30:24Z",
       "scraped_at": "2026-08-02T11:37:03Z"
+    },
+    {
+      "id": "f6d99c6a02db",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Bonnie, Utah County",
+      "salary": "$213,426 - $213,426",
+      "url": "https://www.adzuna.com/land/ad/5825365179?se=Yjgq2NaO8RGZebTyWXwUAQ&utm_medium=api&utm_source=3f1b011b&v=FD937E1A12EA1F275A96CB4CF7B8F9A83E07A0DF",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:30:24Z",
+      "scraped_at": "2026-08-03T01:01:23Z"
     },
     {
       "id": "0db51d0fb329",
@@ -3853,48 +3974,15 @@
       "scraped_at": "2026-08-02T23:24:21Z"
     },
     {
-      "id": "995ce4a150ff",
+      "id": "4a1279a42aa4",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Charleston, Kanawha County",
       "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T20:30:36Z"
-    },
-    {
-      "id": "afd2ed4d3b96",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T08:40:28Z"
-    },
-    {
-      "id": "7d8fe49f4a96",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T21:25:43Z"
-    },
-    {
-      "id": "de8949218c50",
-      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
-      "company": "Capital One",
-      "location": "Charleston, Kanawha County",
-      "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T15:18:47Z"
+      "scraped_at": "2026-08-02T10:18:53Z"
     },
     {
       "id": "f0dd67b3268b",
@@ -3908,15 +3996,136 @@
       "scraped_at": "2026-08-02T06:22:07Z"
     },
     {
-      "id": "4a1279a42aa4",
+      "id": "de8949218c50",
       "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
       "company": "Capital One",
       "location": "Charleston, Kanawha County",
       "salary": "$213,802 - $213,802",
-      "url": "https://www.adzuna.com/land/ad/5825309272?se=zuV1j1uO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=9kjCdIWO8RGH2KHW_IsxMg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:09:41Z",
-      "scraped_at": "2026-08-02T10:18:53Z"
+      "scraped_at": "2026-08-02T15:18:47Z"
+    },
+    {
+      "id": "7d8fe49f4a96",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=5oTjt7iO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T21:25:43Z"
+    },
+    {
+      "id": "afd2ed4d3b96",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=RALyz02O8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T08:40:28Z"
+    },
+    {
+      "id": "995ce4a150ff",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=5ONVBLGO8RGGP5gBdQTSBA&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T20:30:36Z"
+    },
+    {
+      "id": "0a0cd3728118",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=Yjgq2NaO8RGZebTyWXwUAQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-03T01:01:23Z"
+    },
+    {
+      "id": "38b8d3ed9a35",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=Jt_JemaO8RGlkKhvDd47Mg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T11:37:03Z"
+    },
+    {
+      "id": "f33484fc6bdf",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=dldE8KiO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T19:32:46Z"
+    },
+    {
+      "id": "af245062de3b",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=5I4cPm-O8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T12:39:46Z"
+    },
+    {
+      "id": "2a129113ddeb",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=Zppn7pWO8RG_j4xFerU8og&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T17:16:42Z"
+    },
+    {
+      "id": "2607f05a80bd",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=yuAz2cCO8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T22:23:55Z"
+    },
+    {
+      "id": "af410ab73f2f",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=PBeNZY2O8RGN-_bml_JYKg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T16:15:37Z"
+    },
+    {
+      "id": "b8c944a907c4",
+      "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+      "company": "Capital One",
+      "location": "Charleston, Kanawha County",
+      "salary": "$213,802 - $213,802",
+      "url": "https://www.adzuna.com/land/ad/5825309272?se=kC9Dzp2O8RGNzO_fQd9OLg&utm_medium=api&utm_source=3f1b011b&v=7D7949C15E410C40B5F5B926D7C8A0CC185318B2",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-02T01:09:41Z",
+      "scraped_at": "2026-08-02T18:13:04Z"
     },
     {
       "id": "44dd0e5f92b4",
@@ -3928,204 +4137,6 @@
       "source": "Adzuna-US",
       "posted_date": "2026-08-02T01:09:41Z",
       "scraped_at": "2026-08-02T14:12:46Z"
-    },
-    {
-      "id": "98f0bc40c9fb",
-      "title": "Machine Learning Engineer - Computer Vision (Remote)",
-      "company": "Jobs Ai",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-jobs-ai-4447752730",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:48Z",
-      "scraped_at": "2026-08-02T00:09:48Z"
-    },
-    {
-      "id": "8c818f81ce92",
-      "title": "Senior Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-data-engineer-at-cloudfactory-4446835081",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "2c23c16e07b5",
-      "title": "Software Engineer Annotator",
-      "company": "Odixcity Consulting",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/software-engineer-annotator-at-odixcity-consulting-4445656611",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "ed14ee171302",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "61bc19b6f221",
-      "title": "Data Scientist (Fraud)",
-      "company": "Semasocial",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-semasocial-4447844942",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "7346ff923da1",
-      "title": "Quantitative Researcher",
-      "company": "AAA Global",
-      "location": "New York, United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-researcher-at-aaa-global-4446055919",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "d84efdae118f",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "db0848434da9",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "JobScroller",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobscroller-4444106899",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "3655a4eeb7c9",
-      "title": "Senior Full Stack Software Engineer",
-      "company": "Jobgether",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-jobgether-4443277286",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "22c4e5c60def",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-brm-4447218334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "eb8fce7b15de",
-      "title": "Senior SDET (Software Development Engineer in Test)",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-sdet-software-development-engineer-in-test-at-ignitetech-4446395767",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "0ad110dad98b",
-      "title": "Quantitative Analyst | Remote",
-      "company": "Crossing Hurdles",
-      "location": "United States",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/quantitative-analyst-remote-at-crossing-hurdles-4447478135",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "cc5c2610a66e",
-      "title": "Machine Learning Specialist",
-      "company": "Nuru Solutions",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-specialist-at-nuru-solutions-4443674894",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:47Z",
-      "scraped_at": "2026-08-02T00:09:47Z"
-    },
-    {
-      "id": "c6edc174ae05",
-      "title": "Quantitative Developer with MATLAB & Global Asset Management experience",
-      "company": "Zodiac Solutions, Inc",
-      "location": "Toronto, Ontario, Canada",
-      "salary": "",
-      "url": "https://ca.linkedin.com/jobs/view/quantitative-developer-with-matlab-global-asset-management-experience-at-zodiac-solutions-inc-4445058186",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:45Z",
-      "scraped_at": "2026-08-02T00:09:45Z"
-    },
-    {
-      "id": "b612aaff05e5",
-      "title": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445435272",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:43Z",
-      "scraped_at": "2026-08-02T00:09:43Z"
-    },
-    {
-      "id": "e56c0cde3684",
-      "title": "Frontend Software Engineer - Remote",
-      "company": "YO IT Consulting",
-      "location": "Dubai, Dubai, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/frontend-software-engineer-remote-at-yo-it-consulting-4445434303",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:43Z",
-      "scraped_at": "2026-08-02T00:09:43Z"
-    },
-    {
-      "id": "c6be4c886695",
-      "title": "Data Analyst - Impact & Partnership",
-      "company": "Mr. Green Trading Africa Kenya Ltd.",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-impact-partnership-at-mr-green-trading-africa-kenya-ltd-4447050015",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:42Z",
-      "scraped_at": "2026-08-02T00:09:42Z"
-    },
-    {
-      "id": "629d230d2b3f",
-      "title": "BI Data Analytics Engineer",
-      "company": "d.light India",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/bi-data-analytics-engineer-at-d-light-india-4447189698",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-02T00:09:42Z",
-      "scraped_at": "2026-08-02T00:09:42Z"
     }
   ]
 }
