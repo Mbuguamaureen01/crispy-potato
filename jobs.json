@@ -1,7 +1,711 @@
 {
-  "last_updated": "2026-08-11T02:51:29.339117+00:00",
-  "total_jobs": 503,
+  "last_updated": "2026-08-11T04:08:42.728995+00:00",
+  "total_jobs": 519,
   "jobs": [
+    {
+      "id": "69ac9649b04c",
+      "title": "Machine Learning Engineer - Computer Vision (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-hire-feed-4451503364",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:15Z",
+      "scraped_at": "2026-08-11T04:07:15Z"
+    },
+    {
+      "id": "728ae096c9a9",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "5ad5f58f1b16",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "976a34bce0fb",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "6e5f883bddb6",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "2fb1382d6894",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "beecf286af90",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "b5e197d600dc",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "8515f8c1bf81",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "28d7a445017d",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:14Z",
+      "scraped_at": "2026-08-11T04:07:14Z"
+    },
+    {
+      "id": "25b66047233a",
+      "title": "Backend Engineer — Scalable Systems",
+      "company": "Awake Solutions",
+      "location": "Global Village, Dubai, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/backend-engineer-%E2%80%94-scalable-systems-at-awake-solutions-4449621728",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:09Z",
+      "scraped_at": "2026-08-11T04:07:09Z"
+    },
+    {
+      "id": "f8b63c133bcd",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:08Z",
+      "scraped_at": "2026-08-11T04:07:08Z"
+    },
+    {
+      "id": "f40c0c1b4004",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:08Z",
+      "scraped_at": "2026-08-11T04:07:08Z"
+    },
+    {
+      "id": "0a0dc747b4b3",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:08Z",
+      "scraped_at": "2026-08-11T04:07:08Z"
+    },
+    {
+      "id": "e9cd27603934",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:08Z",
+      "scraped_at": "2026-08-11T04:07:08Z"
+    },
+    {
+      "id": "adf55702960b",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T04:07:08Z",
+      "scraped_at": "2026-08-11T04:07:08Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-11T04:06:31Z",
+      "scraped_at": "2026-08-11T04:06:31Z"
+    },
     {
       "id": "208c330109f0",
       "title": "Machine Learning Engineer - Computer Vision (Remote)",
@@ -14,45 +718,12 @@
       "scraped_at": "2026-08-11T02:49:37Z"
     },
     {
-      "id": "ec56651606ef",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "79cec3652a61",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T02:49:36Z",
-      "scraped_at": "2026-08-11T02:49:36Z"
-    },
-    {
-      "id": "28f14b8eb2d1",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T02:49:36Z",
-      "scraped_at": "2026-08-11T02:49:36Z"
-    },
-    {
-      "id": "19197d7597ce",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T02:49:36Z",
-      "scraped_at": "2026-08-11T02:49:36Z"
-    },
-    {
-      "id": "1a206d1ef97d",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:36Z",
       "scraped_at": "2026-08-11T02:49:36Z"
@@ -69,34 +740,45 @@
       "scraped_at": "2026-08-11T02:49:36Z"
     },
     {
-      "id": "5ea38d35f870",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "1a206d1ef97d",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:36Z",
       "scraped_at": "2026-08-11T02:49:36Z"
     },
     {
-      "id": "79cec3652a61",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "19197d7597ce",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:36Z",
       "scraped_at": "2026-08-11T02:49:36Z"
     },
     {
-      "id": "9fa5b371179b",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "28f14b8eb2d1",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T02:49:36Z",
+      "scraped_at": "2026-08-11T02:49:36Z"
+    },
+    {
+      "id": "ec56651606ef",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:36Z",
       "scraped_at": "2026-08-11T02:49:36Z"
@@ -113,6 +795,28 @@
       "scraped_at": "2026-08-11T02:49:36Z"
     },
     {
+      "id": "9fa5b371179b",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T02:49:36Z",
+      "scraped_at": "2026-08-11T02:49:36Z"
+    },
+    {
+      "id": "5ea38d35f870",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T02:49:36Z",
+      "scraped_at": "2026-08-11T02:49:36Z"
+    },
+    {
       "id": "5f09187d5210",
       "title": "Backend Engineer — Scalable Systems",
       "company": "Awake Solutions",
@@ -124,23 +828,23 @@
       "scraped_at": "2026-08-11T02:49:31Z"
     },
     {
+      "id": "3aa14d02898b",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T02:49:30Z",
+      "scraped_at": "2026-08-11T02:49:30Z"
+    },
+    {
       "id": "38b468ca1469",
       "title": "Business Intelligence Specialist",
       "company": "Ezra",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T02:49:30Z",
-      "scraped_at": "2026-08-11T02:49:30Z"
-    },
-    {
-      "id": "d82a5a5a96de",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:30Z",
       "scraped_at": "2026-08-11T02:49:30Z"
@@ -168,543 +872,15 @@
       "scraped_at": "2026-08-11T02:49:30Z"
     },
     {
-      "id": "3aa14d02898b",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "d82a5a5a96de",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T02:49:30Z",
       "scraped_at": "2026-08-11T02:49:30Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
-      "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-11T02:48:51Z",
-      "scraped_at": "2026-08-11T02:48:51Z"
     },
     {
       "id": "e6706ae62a65",
@@ -716,6 +892,50 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-11T00:41:15Z",
       "scraped_at": "2026-08-11T00:41:15Z"
+    },
+    {
+      "id": "4dfee83935e9",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:14Z",
+      "scraped_at": "2026-08-11T00:41:14Z"
+    },
+    {
+      "id": "ec9aabf64d21",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:14Z",
+      "scraped_at": "2026-08-11T00:41:14Z"
+    },
+    {
+      "id": "3cfd1ae83350",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:14Z",
+      "scraped_at": "2026-08-11T00:41:14Z"
+    },
+    {
+      "id": "e05f8a45574f",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:14Z",
+      "scraped_at": "2026-08-11T00:41:14Z"
     },
     {
       "id": "57add7efc803",
@@ -773,78 +993,12 @@
       "scraped_at": "2026-08-11T00:41:14Z"
     },
     {
-      "id": "4dfee83935e9",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "b65ce3804d5d",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:14Z",
-      "scraped_at": "2026-08-11T00:41:14Z"
-    },
-    {
-      "id": "e05f8a45574f",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:14Z",
-      "scraped_at": "2026-08-11T00:41:14Z"
-    },
-    {
-      "id": "3cfd1ae83350",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:14Z",
-      "scraped_at": "2026-08-11T00:41:14Z"
-    },
-    {
-      "id": "ec9aabf64d21",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:14Z",
-      "scraped_at": "2026-08-11T00:41:14Z"
-    },
-    {
-      "id": "4bafede8f9eb",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:08Z",
-      "scraped_at": "2026-08-11T00:41:08Z"
-    },
-    {
-      "id": "17e48756e9b0",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-11T00:41:08Z",
-      "scraped_at": "2026-08-11T00:41:08Z"
-    },
-    {
-      "id": "af0efa838f8c",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T00:41:08Z",
       "scraped_at": "2026-08-11T00:41:08Z"
@@ -861,12 +1015,34 @@
       "scraped_at": "2026-08-11T00:41:08Z"
     },
     {
-      "id": "b65ce3804d5d",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
+      "id": "af0efa838f8c",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:08Z",
+      "scraped_at": "2026-08-11T00:41:08Z"
+    },
+    {
+      "id": "17e48756e9b0",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-11T00:41:08Z",
+      "scraped_at": "2026-08-11T00:41:08Z"
+    },
+    {
+      "id": "4bafede8f9eb",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-11T00:41:08Z",
       "scraped_at": "2026-08-11T00:41:08Z"
@@ -883,34 +1059,12 @@
       "scraped_at": "2026-08-10T23:54:07Z"
     },
     {
-      "id": "da2ba7a6b8a1",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:06Z",
-      "scraped_at": "2026-08-10T23:54:06Z"
-    },
-    {
       "id": "4d99c290612b",
       "title": "Forward Deployed AI Engineer",
       "company": "NestAI",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:06Z",
-      "scraped_at": "2026-08-10T23:54:06Z"
-    },
-    {
-      "id": "1a34c8a8a7c8",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:54:06Z",
       "scraped_at": "2026-08-10T23:54:06Z"
@@ -927,34 +1081,12 @@
       "scraped_at": "2026-08-10T23:54:06Z"
     },
     {
-      "id": "8bf7c92cf36c",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "4c43e64f3b1f",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:06Z",
-      "scraped_at": "2026-08-10T23:54:06Z"
-    },
-    {
-      "id": "18cea2d6b4ba",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:06Z",
-      "scraped_at": "2026-08-10T23:54:06Z"
-    },
-    {
-      "id": "92552ad16b92",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:54:06Z",
       "scraped_at": "2026-08-10T23:54:06Z"
@@ -971,26 +1103,59 @@
       "scraped_at": "2026-08-10T23:54:06Z"
     },
     {
-      "id": "4c43e64f3b1f",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "92552ad16b92",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:54:06Z",
       "scraped_at": "2026-08-10T23:54:06Z"
     },
     {
-      "id": "5d1a3c789bcc",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
+      "id": "18cea2d6b4ba",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:00Z",
-      "scraped_at": "2026-08-10T23:54:00Z"
+      "posted_date": "2026-08-10T23:54:06Z",
+      "scraped_at": "2026-08-10T23:54:06Z"
+    },
+    {
+      "id": "da2ba7a6b8a1",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:54:06Z",
+      "scraped_at": "2026-08-10T23:54:06Z"
+    },
+    {
+      "id": "8bf7c92cf36c",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:54:06Z",
+      "scraped_at": "2026-08-10T23:54:06Z"
+    },
+    {
+      "id": "1a34c8a8a7c8",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:54:06Z",
+      "scraped_at": "2026-08-10T23:54:06Z"
     },
     {
       "id": "fdb4078512c9",
@@ -999,6 +1164,17 @@
       "location": "Mombasa, Mombasa County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:54:00Z",
+      "scraped_at": "2026-08-10T23:54:00Z"
+    },
+    {
+      "id": "5d1a3c789bcc",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:54:00Z",
       "scraped_at": "2026-08-10T23:54:00Z"
@@ -1015,23 +1191,23 @@
       "scraped_at": "2026-08-10T23:54:00Z"
     },
     {
-      "id": "dd011d5418ab",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:54:00Z",
-      "scraped_at": "2026-08-10T23:54:00Z"
-    },
-    {
       "id": "0c44d8dbf710",
       "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:54:00Z",
+      "scraped_at": "2026-08-10T23:54:00Z"
+    },
+    {
+      "id": "dd011d5418ab",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:54:00Z",
       "scraped_at": "2026-08-10T23:54:00Z"
@@ -1059,23 +1235,12 @@
       "scraped_at": "2026-08-10T23:20:44Z"
     },
     {
-      "id": "4e2426fa3961",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "3b2cd4b4e81e",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:20:44Z",
-      "scraped_at": "2026-08-10T23:20:44Z"
-    },
-    {
-      "id": "123a3076d5f1",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:20:44Z",
       "scraped_at": "2026-08-10T23:20:44Z"
@@ -1092,12 +1257,23 @@
       "scraped_at": "2026-08-10T23:20:44Z"
     },
     {
-      "id": "3b2cd4b4e81e",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "123a3076d5f1",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:20:44Z",
+      "scraped_at": "2026-08-10T23:20:44Z"
+    },
+    {
+      "id": "4e2426fa3961",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:20:44Z",
       "scraped_at": "2026-08-10T23:20:44Z"
@@ -1158,6 +1334,17 @@
       "scraped_at": "2026-08-10T23:20:38Z"
     },
     {
+      "id": "13977f404c04",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:20:36Z",
+      "scraped_at": "2026-08-10T23:20:36Z"
+    },
+    {
       "id": "48634470d6b4",
       "title": "Business Intelligence Specialist",
       "company": "Ezra",
@@ -1180,34 +1367,23 @@
       "scraped_at": "2026-08-10T23:20:36Z"
     },
     {
-      "id": "8089667a4267",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:20:36Z",
-      "scraped_at": "2026-08-10T23:20:36Z"
-    },
-    {
-      "id": "13977f404c04",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T23:20:36Z",
-      "scraped_at": "2026-08-10T23:20:36Z"
-    },
-    {
       "id": "73d674c32606",
       "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T23:20:36Z",
+      "scraped_at": "2026-08-10T23:20:36Z"
+    },
+    {
+      "id": "8089667a4267",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T23:20:36Z",
       "scraped_at": "2026-08-10T23:20:36Z"
@@ -1222,6 +1398,50 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:49:43Z",
       "scraped_at": "2026-08-10T22:49:43Z"
+    },
+    {
+      "id": "a344544679fa",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:49:42Z",
+      "scraped_at": "2026-08-10T22:49:42Z"
+    },
+    {
+      "id": "6574f45105cd",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:49:42Z",
+      "scraped_at": "2026-08-10T22:49:42Z"
+    },
+    {
+      "id": "8c7c7063dbaa",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:49:42Z",
+      "scraped_at": "2026-08-10T22:49:42Z"
+    },
+    {
+      "id": "80a81ee61840",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:49:42Z",
+      "scraped_at": "2026-08-10T22:49:42Z"
     },
     {
       "id": "e5b39788914d",
@@ -1257,12 +1477,12 @@
       "scraped_at": "2026-08-10T22:49:42Z"
     },
     {
-      "id": "a344544679fa",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "1d6c09554716",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:49:42Z",
       "scraped_at": "2026-08-10T22:49:42Z"
@@ -1279,50 +1499,6 @@
       "scraped_at": "2026-08-10T22:49:42Z"
     },
     {
-      "id": "6574f45105cd",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:49:42Z",
-      "scraped_at": "2026-08-10T22:49:42Z"
-    },
-    {
-      "id": "1d6c09554716",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:49:42Z",
-      "scraped_at": "2026-08-10T22:49:42Z"
-    },
-    {
-      "id": "80a81ee61840",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:49:42Z",
-      "scraped_at": "2026-08-10T22:49:42Z"
-    },
-    {
-      "id": "8c7c7063dbaa",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:49:42Z",
-      "scraped_at": "2026-08-10T22:49:42Z"
-    },
-    {
       "id": "b7de80f7ffb8",
       "title": "Backend Engineer — Scalable Systems",
       "company": "Awake Solutions",
@@ -1334,12 +1510,12 @@
       "scraped_at": "2026-08-10T22:49:38Z"
     },
     {
-      "id": "238f325a0381",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
+      "id": "a6fa22005ce2",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:49:37Z",
       "scraped_at": "2026-08-10T22:49:37Z"
@@ -1356,23 +1532,23 @@
       "scraped_at": "2026-08-10T22:49:37Z"
     },
     {
+      "id": "238f325a0381",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:49:37Z",
+      "scraped_at": "2026-08-10T22:49:37Z"
+    },
+    {
       "id": "46cf03e33c8b",
       "title": "Business Intelligence Specialist",
       "company": "Ezra",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:49:37Z",
-      "scraped_at": "2026-08-10T22:49:37Z"
-    },
-    {
-      "id": "a6fa22005ce2",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:49:37Z",
       "scraped_at": "2026-08-10T22:49:37Z"
@@ -1389,34 +1565,12 @@
       "scraped_at": "2026-08-10T22:49:37Z"
     },
     {
-      "id": "8828c316b03b",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:04:19Z",
-      "scraped_at": "2026-08-10T22:04:19Z"
-    },
-    {
       "id": "f11e403c8a85",
       "title": "Machine Learning Engineer - Computer Vision (Remote)",
       "company": "Hire Feed",
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-hire-feed-4451503364",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:04:19Z",
-      "scraped_at": "2026-08-10T22:04:19Z"
-    },
-    {
-      "id": "cb880368b1dd",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:04:19Z",
       "scraped_at": "2026-08-10T22:04:19Z"
@@ -1455,17 +1609,6 @@
       "scraped_at": "2026-08-10T22:04:19Z"
     },
     {
-      "id": "2de4ff43f750",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:04:19Z",
-      "scraped_at": "2026-08-10T22:04:19Z"
-    },
-    {
       "id": "6b519d25e04b",
       "title": "Tupande AI Engineering Lead (Fixed-term)",
       "company": "One Acre Fund",
@@ -1488,12 +1631,45 @@
       "scraped_at": "2026-08-10T22:04:19Z"
     },
     {
+      "id": "cb880368b1dd",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:04:19Z",
+      "scraped_at": "2026-08-10T22:04:19Z"
+    },
+    {
       "id": "deb123571f02",
       "title": "Machine Learning Engineer Resume",
       "company": "growmyresume",
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:04:19Z",
+      "scraped_at": "2026-08-10T22:04:19Z"
+    },
+    {
+      "id": "2de4ff43f750",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:04:19Z",
+      "scraped_at": "2026-08-10T22:04:19Z"
+    },
+    {
+      "id": "8828c316b03b",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:04:19Z",
       "scraped_at": "2026-08-10T22:04:19Z"
@@ -1510,34 +1686,12 @@
       "scraped_at": "2026-08-10T22:04:14Z"
     },
     {
-      "id": "5b043f628112",
-      "title": "Data Engineer",
+      "id": "74965bb90179",
+      "title": "Data Scientist",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:04:14Z",
-      "scraped_at": "2026-08-10T22:04:14Z"
-    },
-    {
-      "id": "e4839b33a77e",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T22:04:14Z",
-      "scraped_at": "2026-08-10T22:04:14Z"
-    },
-    {
-      "id": "d43eef91c90a",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:04:14Z",
       "scraped_at": "2026-08-10T22:04:14Z"
@@ -1554,12 +1708,34 @@
       "scraped_at": "2026-08-10T22:04:14Z"
     },
     {
-      "id": "74965bb90179",
-      "title": "Data Scientist",
+      "id": "d43eef91c90a",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:04:14Z",
+      "scraped_at": "2026-08-10T22:04:14Z"
+    },
+    {
+      "id": "e4839b33a77e",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T22:04:14Z",
+      "scraped_at": "2026-08-10T22:04:14Z"
+    },
+    {
+      "id": "5b043f628112",
+      "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T22:04:14Z",
       "scraped_at": "2026-08-10T22:04:14Z"
@@ -1598,45 +1774,12 @@
       "scraped_at": "2026-08-10T21:25:45Z"
     },
     {
-      "id": "06b821868802",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T21:25:45Z",
-      "scraped_at": "2026-08-10T21:25:45Z"
-    },
-    {
-      "id": "9a0c98d0b4d3",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T21:25:45Z",
-      "scraped_at": "2026-08-10T21:25:45Z"
-    },
-    {
-      "id": "9ddf0326bad1",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T21:25:45Z",
-      "scraped_at": "2026-08-10T21:25:45Z"
-    },
-    {
-      "id": "bc06e21d672f",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
+      "id": "03a1ee3397b0",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T21:25:45Z",
       "scraped_at": "2026-08-10T21:25:45Z"
@@ -1653,12 +1796,45 @@
       "scraped_at": "2026-08-10T21:25:45Z"
     },
     {
-      "id": "03a1ee3397b0",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
+      "id": "06b821868802",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T21:25:45Z",
+      "scraped_at": "2026-08-10T21:25:45Z"
+    },
+    {
+      "id": "bc06e21d672f",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T21:25:45Z",
+      "scraped_at": "2026-08-10T21:25:45Z"
+    },
+    {
+      "id": "9ddf0326bad1",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T21:25:45Z",
+      "scraped_at": "2026-08-10T21:25:45Z"
+    },
+    {
+      "id": "9a0c98d0b4d3",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T21:25:45Z",
       "scraped_at": "2026-08-10T21:25:45Z"
@@ -1708,23 +1884,12 @@
       "scraped_at": "2026-08-10T21:25:40Z"
     },
     {
-      "id": "6d0850e4b945",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "5776f72c64c5",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T21:25:40Z",
-      "scraped_at": "2026-08-10T21:25:40Z"
-    },
-    {
-      "id": "6f9936a0d903",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T21:25:40Z",
       "scraped_at": "2026-08-10T21:25:40Z"
@@ -1741,12 +1906,23 @@
       "scraped_at": "2026-08-10T21:25:40Z"
     },
     {
-      "id": "5776f72c64c5",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "6f9936a0d903",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T21:25:40Z",
+      "scraped_at": "2026-08-10T21:25:40Z"
+    },
+    {
+      "id": "6d0850e4b945",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T21:25:40Z",
       "scraped_at": "2026-08-10T21:25:40Z"
@@ -1774,34 +1950,12 @@
       "scraped_at": "2026-08-10T20:43:23Z"
     },
     {
-      "id": "4f62f046ce89",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:43:22Z",
-      "scraped_at": "2026-08-10T20:43:22Z"
-    },
-    {
       "id": "f4bceae7726e",
       "title": "Forward Deployed AI Engineer",
       "company": "NestAI",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:43:22Z",
-      "scraped_at": "2026-08-10T20:43:22Z"
-    },
-    {
-      "id": "93aef1769740",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:43:22Z",
       "scraped_at": "2026-08-10T20:43:22Z"
@@ -1818,34 +1972,23 @@
       "scraped_at": "2026-08-10T20:43:22Z"
     },
     {
-      "id": "64f7797ae3e7",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "93aef1769740",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:43:22Z",
       "scraped_at": "2026-08-10T20:43:22Z"
     },
     {
-      "id": "cb64cd68382a",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
+      "id": "3f4224e77f56",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:43:22Z",
-      "scraped_at": "2026-08-10T20:43:22Z"
-    },
-    {
-      "id": "c124cf0bf87e",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:43:22Z",
       "scraped_at": "2026-08-10T20:43:22Z"
@@ -1862,12 +2005,45 @@
       "scraped_at": "2026-08-10T20:43:22Z"
     },
     {
-      "id": "3f4224e77f56",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "c124cf0bf87e",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:43:22Z",
+      "scraped_at": "2026-08-10T20:43:22Z"
+    },
+    {
+      "id": "cb64cd68382a",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:43:22Z",
+      "scraped_at": "2026-08-10T20:43:22Z"
+    },
+    {
+      "id": "64f7797ae3e7",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:43:22Z",
+      "scraped_at": "2026-08-10T20:43:22Z"
+    },
+    {
+      "id": "4f62f046ce89",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:43:22Z",
       "scraped_at": "2026-08-10T20:43:22Z"
@@ -1950,12 +2126,78 @@
       "scraped_at": "2026-08-10T20:00:25Z"
     },
     {
+      "id": "3f47d1def3b5",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
       "id": "db1988308fa1",
       "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
+      "id": "dd786c5b41b2",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
+      "id": "f40481fc9b36",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
+      "id": "bca32b9b31d9",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
+      "id": "0bde9e043d60",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:24Z",
+      "scraped_at": "2026-08-10T20:00:24Z"
+    },
+    {
+      "id": "fd086769319e",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:00:24Z",
       "scraped_at": "2026-08-10T20:00:24Z"
@@ -1983,89 +2225,12 @@
       "scraped_at": "2026-08-10T20:00:24Z"
     },
     {
-      "id": "fd086769319e",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
-      "id": "0bde9e043d60",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
-      "id": "bca32b9b31d9",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
-      "id": "3f47d1def3b5",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
-      "id": "f40481fc9b36",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
-      "id": "dd786c5b41b2",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:24Z",
-      "scraped_at": "2026-08-10T20:00:24Z"
-    },
-    {
       "id": "93715db18747",
       "title": "Business Intelligence Specialist",
       "company": "Ezra",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T20:00:20Z",
-      "scraped_at": "2026-08-10T20:00:20Z"
-    },
-    {
-      "id": "063d59239c36",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:00:20Z",
       "scraped_at": "2026-08-10T20:00:20Z"
@@ -2082,12 +2247,12 @@
       "scraped_at": "2026-08-10T20:00:20Z"
     },
     {
-      "id": "2aa1a37bcd80",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "ea2588478b05",
+      "title": "Backend Engineer — Scalable Systems",
+      "company": "Awake Solutions",
+      "location": "Global Village, Dubai, United Arab Emirates",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ae.linkedin.com/jobs/view/backend-engineer-%E2%80%94-scalable-systems-at-awake-solutions-4449621728",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:00:20Z",
       "scraped_at": "2026-08-10T20:00:20Z"
@@ -2104,12 +2269,23 @@
       "scraped_at": "2026-08-10T20:00:20Z"
     },
     {
-      "id": "ea2588478b05",
-      "title": "Backend Engineer — Scalable Systems",
-      "company": "Awake Solutions",
-      "location": "Global Village, Dubai, United Arab Emirates",
+      "id": "2aa1a37bcd80",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/backend-engineer-%E2%80%94-scalable-systems-at-awake-solutions-4449621728",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T20:00:20Z",
+      "scraped_at": "2026-08-10T20:00:20Z"
+    },
+    {
+      "id": "063d59239c36",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T20:00:20Z",
       "scraped_at": "2026-08-10T20:00:20Z"
@@ -2134,7 +2310,7 @@
       "url": "https://www.adzuna.ca/details/5836075814?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-08-10T19:14:49Z",
-      "scraped_at": "2026-08-11T02:49:22Z"
+      "scraped_at": "2026-08-11T04:06:58Z"
     },
     {
       "id": "b72111ac3878",
@@ -2145,7 +2321,7 @@
       "url": "https://www.adzuna.ca/details/5836075812?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-08-10T19:14:49Z",
-      "scraped_at": "2026-08-11T02:49:23Z"
+      "scraped_at": "2026-08-11T04:06:59Z"
     },
     {
       "id": "8c9ff87ae5e4",
@@ -2159,12 +2335,12 @@
       "scraped_at": "2026-08-10T19:12:11Z"
     },
     {
-      "id": "fbf6d2161a82",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "41cc759cff2b",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T19:12:10Z",
       "scraped_at": "2026-08-10T19:12:10Z"
@@ -2181,45 +2357,12 @@
       "scraped_at": "2026-08-10T19:12:10Z"
     },
     {
-      "id": "2cf3d9cf50db",
-      "title": "Data Engineer",
+      "id": "2c77e94eb523",
+      "title": "Data Scientist",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T19:12:10Z",
-      "scraped_at": "2026-08-10T19:12:10Z"
-    },
-    {
-      "id": "3059b650b56e",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T19:12:10Z",
-      "scraped_at": "2026-08-10T19:12:10Z"
-    },
-    {
-      "id": "41cc759cff2b",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T19:12:10Z",
-      "scraped_at": "2026-08-10T19:12:10Z"
-    },
-    {
-      "id": "d7fdb68954ae",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T19:12:10Z",
       "scraped_at": "2026-08-10T19:12:10Z"
@@ -2236,12 +2379,34 @@
       "scraped_at": "2026-08-10T19:12:10Z"
     },
     {
-      "id": "2c77e94eb523",
-      "title": "Data Scientist",
+      "id": "3059b650b56e",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T19:12:10Z",
+      "scraped_at": "2026-08-10T19:12:10Z"
+    },
+    {
+      "id": "d7fdb68954ae",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T19:12:10Z",
+      "scraped_at": "2026-08-10T19:12:10Z"
+    },
+    {
+      "id": "2cf3d9cf50db",
+      "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T19:12:10Z",
       "scraped_at": "2026-08-10T19:12:10Z"
@@ -2258,6 +2423,17 @@
       "scraped_at": "2026-08-10T19:12:10Z"
     },
     {
+      "id": "fbf6d2161a82",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T19:12:10Z",
+      "scraped_at": "2026-08-10T19:12:10Z"
+    },
+    {
       "id": "c05e031de21b",
       "title": "Backend Engineer — Scalable Systems",
       "company": "Awake Solutions",
@@ -2267,17 +2443,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-10T19:12:05Z",
       "scraped_at": "2026-08-10T19:12:05Z"
-    },
-    {
-      "id": "44d0b3ef2d76",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T19:12:04Z",
-      "scraped_at": "2026-08-10T19:12:04Z"
     },
     {
       "id": "5cf0aa9bdf39",
@@ -2291,23 +2456,12 @@
       "scraped_at": "2026-08-10T19:12:04Z"
     },
     {
-      "id": "26ac06c9dae6",
-      "title": "Data Scientist",
+      "id": "44d0b3ef2d76",
+      "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T19:12:04Z",
-      "scraped_at": "2026-08-10T19:12:04Z"
-    },
-    {
-      "id": "b076f121f714",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T19:12:04Z",
       "scraped_at": "2026-08-10T19:12:04Z"
@@ -2324,6 +2478,28 @@
       "scraped_at": "2026-08-10T19:12:04Z"
     },
     {
+      "id": "b076f121f714",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T19:12:04Z",
+      "scraped_at": "2026-08-10T19:12:04Z"
+    },
+    {
+      "id": "26ac06c9dae6",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T19:12:04Z",
+      "scraped_at": "2026-08-10T19:12:04Z"
+    },
+    {
       "id": "d042007d27d1",
       "title": "Senior Machine Learning Engineer - Image Design Generation (AU remote)",
       "company": "Canva",
@@ -2332,7 +2508,7 @@
       "url": "https://www.adzuna.com.au/details/5835389052?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-AU",
       "posted_date": "2026-08-10T18:22:56Z",
-      "scraped_at": "2026-08-11T02:49:09Z"
+      "scraped_at": "2026-08-11T04:06:41Z"
     },
     {
       "id": "c9f628eed163",
@@ -2343,7 +2519,7 @@
       "url": "https://www.adzuna.com.au/details/5835370944?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-AU",
       "posted_date": "2026-08-10T18:19:57Z",
-      "scraped_at": "2026-08-11T02:49:09Z"
+      "scraped_at": "2026-08-11T04:06:41Z"
     },
     {
       "id": "f105709a5718",
@@ -2354,7 +2530,7 @@
       "url": "https://www.adzuna.com.au/details/5835370927?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-AU",
       "posted_date": "2026-08-10T18:19:56Z",
-      "scraped_at": "2026-08-11T02:49:09Z"
+      "scraped_at": "2026-08-11T04:06:41Z"
     },
     {
       "id": "976aa22761bd",
@@ -2366,6 +2542,17 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-10T18:09:44Z",
       "scraped_at": "2026-08-10T18:09:44Z"
+    },
+    {
+      "id": "065c18e6c56c",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T18:09:43Z",
+      "scraped_at": "2026-08-10T18:09:43Z"
     },
     {
       "id": "42282a50d25e",
@@ -2451,17 +2638,6 @@
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T18:09:43Z",
-      "scraped_at": "2026-08-10T18:09:43Z"
-    },
-    {
-      "id": "065c18e6c56c",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T18:09:43Z",
       "scraped_at": "2026-08-10T18:09:43Z"
@@ -2555,17 +2731,6 @@
       "scraped_at": "2026-08-10T18:09:38Z"
     },
     {
-      "id": "ef566cd4281b",
-      "title": "Senior Lead AI Engineer (AI Foundations/Remote",
-      "company": "Apetan Consulting",
-      "location": "US",
-      "salary": "$117,861 - $117,861",
-      "url": "https://www.adzuna.com/land/ad/5836061392?se=ohugtg2V8RG7ILaWj3cC-A&utm_medium=api&utm_source=3f1b011b&v=AEBCF21EFDCEE93C492FAB8E9FB5A0983631FF22",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-10T17:58:55Z",
-      "scraped_at": "2026-08-10T22:49:15Z"
-    },
-    {
       "id": "49406f007f6b",
       "title": "Senior Database Engineer/Remote",
       "company": "Apetan Consulting",
@@ -2575,6 +2740,17 @@
       "source": "Adzuna-US",
       "posted_date": "2026-08-10T17:58:55Z",
       "scraped_at": "2026-08-10T23:53:47Z"
+    },
+    {
+      "id": "ef566cd4281b",
+      "title": "Senior Lead AI Engineer (AI Foundations/Remote",
+      "company": "Apetan Consulting",
+      "location": "US",
+      "salary": "$117,861 - $117,861",
+      "url": "https://www.adzuna.com/land/ad/5836061392?se=ohugtg2V8RG7ILaWj3cC-A&utm_medium=api&utm_source=3f1b011b&v=AEBCF21EFDCEE93C492FAB8E9FB5A0983631FF22",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-10T17:58:55Z",
+      "scraped_at": "2026-08-10T22:49:15Z"
     },
     {
       "id": "6c88a77c1163",
@@ -2643,34 +2819,23 @@
       "scraped_at": "2026-08-10T17:25:53Z"
     },
     {
-      "id": "28c48cedb814",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
+      "id": "ecaf2421516d",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T17:25:51Z",
       "scraped_at": "2026-08-10T17:25:51Z"
     },
     {
-      "id": "cb017a3bbd16",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "e3b6e1c281fe",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T17:25:51Z",
-      "scraped_at": "2026-08-10T17:25:51Z"
-    },
-    {
-      "id": "4707475db7af",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T17:25:51Z",
       "scraped_at": "2026-08-10T17:25:51Z"
@@ -2682,28 +2847,6 @@
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T17:25:51Z",
-      "scraped_at": "2026-08-10T17:25:51Z"
-    },
-    {
-      "id": "1f9b883931ab",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T17:25:51Z",
-      "scraped_at": "2026-08-10T17:25:51Z"
-    },
-    {
-      "id": "ecaf2421516d",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T17:25:51Z",
       "scraped_at": "2026-08-10T17:25:51Z"
@@ -2731,12 +2874,45 @@
       "scraped_at": "2026-08-10T17:25:51Z"
     },
     {
-      "id": "e3b6e1c281fe",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "1f9b883931ab",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T17:25:51Z",
+      "scraped_at": "2026-08-10T17:25:51Z"
+    },
+    {
+      "id": "28c48cedb814",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T17:25:51Z",
+      "scraped_at": "2026-08-10T17:25:51Z"
+    },
+    {
+      "id": "4707475db7af",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T17:25:51Z",
+      "scraped_at": "2026-08-10T17:25:51Z"
+    },
+    {
+      "id": "cb017a3bbd16",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T17:25:51Z",
       "scraped_at": "2026-08-10T17:25:51Z"
@@ -2852,17 +3028,6 @@
       "scraped_at": "2026-08-10T16:29:09Z"
     },
     {
-      "id": "a7d8cc376f62",
-      "title": "Data Engineer",
-      "company": "Abacus",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-abacus-4448221820",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T16:29:08Z",
-      "scraped_at": "2026-08-10T16:29:08Z"
-    },
-    {
       "id": "1c0cfc175487",
       "title": "Tupande AI Engineering Lead (Fixed-term)",
       "company": "One Acre Fund",
@@ -2874,23 +3039,12 @@
       "scraped_at": "2026-08-10T16:29:08Z"
     },
     {
-      "id": "b1c364b39324",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "039d3d6f41af",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T16:29:08Z",
-      "scraped_at": "2026-08-10T16:29:08Z"
-    },
-    {
-      "id": "7dc1f7de45d0",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4449552308",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T16:29:08Z",
       "scraped_at": "2026-08-10T16:29:08Z"
@@ -2907,12 +3061,34 @@
       "scraped_at": "2026-08-10T16:29:08Z"
     },
     {
-      "id": "039d3d6f41af",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "7dc1f7de45d0",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4449552308",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T16:29:08Z",
+      "scraped_at": "2026-08-10T16:29:08Z"
+    },
+    {
+      "id": "b1c364b39324",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T16:29:08Z",
+      "scraped_at": "2026-08-10T16:29:08Z"
+    },
+    {
+      "id": "a7d8cc376f62",
+      "title": "Data Engineer",
+      "company": "Abacus",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-abacus-4448221820",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T16:29:08Z",
       "scraped_at": "2026-08-10T16:29:08Z"
@@ -2951,6 +3127,39 @@
       "scraped_at": "2026-08-10T16:29:04Z"
     },
     {
+      "id": "7c320c2a1b87",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T16:29:03Z",
+      "scraped_at": "2026-08-10T16:29:03Z"
+    },
+    {
+      "id": "bcbdc8fcf23b",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T16:29:03Z",
+      "scraped_at": "2026-08-10T16:29:03Z"
+    },
+    {
+      "id": "9e8d891df7c3",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T16:29:03Z",
+      "scraped_at": "2026-08-10T16:29:03Z"
+    },
+    {
       "id": "0aaec752a8df",
       "title": "Data Engineer",
       "company": "Modal Rakyat",
@@ -2973,37 +3182,15 @@
       "scraped_at": "2026-08-10T16:29:03Z"
     },
     {
-      "id": "bcbdc8fcf23b",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T16:29:03Z",
-      "scraped_at": "2026-08-10T16:29:03Z"
-    },
-    {
-      "id": "7c320c2a1b87",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T16:29:03Z",
-      "scraped_at": "2026-08-10T16:29:03Z"
-    },
-    {
-      "id": "9e8d891df7c3",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T16:29:03Z",
-      "scraped_at": "2026-08-10T16:29:03Z"
+      "id": "3c4e5c8fc865",
+      "title": "Remote Software Developer – AI Research & Evaluation",
+      "company": "Turing",
+      "location": "North York, Toronto",
+      "salary": "$416,000 - $624,000",
+      "url": "https://www.adzuna.ca/details/5835929873?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-CA",
+      "posted_date": "2026-08-10T16:25:57Z",
+      "scraped_at": "2026-08-11T04:06:59Z"
     },
     {
       "id": "5da6fdbed1ba",
@@ -3014,18 +3201,7 @@
       "url": "https://www.adzuna.ca/details/5835929871?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-08-10T16:25:57Z",
-      "scraped_at": "2026-08-11T02:49:23Z"
-    },
-    {
-      "id": "3c4e5c8fc865",
-      "title": "Remote Software Developer – AI Research & Evaluation",
-      "company": "Turing",
-      "location": "North York, Toronto",
-      "salary": "$416,000 - $624,000",
-      "url": "https://www.adzuna.ca/details/5835929873?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-CA",
-      "posted_date": "2026-08-10T16:25:57Z",
-      "scraped_at": "2026-08-11T02:49:23Z"
+      "scraped_at": "2026-08-11T04:06:59Z"
     },
     {
       "id": "d2c4fc5c3848",
@@ -3061,17 +3237,6 @@
       "scraped_at": "2026-08-10T19:59:51Z"
     },
     {
-      "id": "4928431820ad",
-      "title": "Data Engineer (Python) - Remote",
-      "company": "AmeriLife",
-      "location": "Louisiana, US",
-      "salary": "$108,161 - $108,161",
-      "url": "https://www.adzuna.com/land/ad/5835912045?se=IgPXDPaU8RGNtb1lvyYpAg&utm_medium=api&utm_source=3f1b011b&v=551FA8A706EC6E77D2CB91C56DD81C46BC9D2EB0",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-10T15:44:55Z",
-      "scraped_at": "2026-08-10T19:59:52Z"
-    },
-    {
       "id": "a3494ba52819",
       "title": "Data Engineer (Python) - Remote",
       "company": "AmeriLife",
@@ -3089,6 +3254,17 @@
       "location": "Louisiana, US",
       "salary": "$108,161 - $108,161",
       "url": "https://www.adzuna.com/land/ad/5835912045?se=mBeEDPaU8RG7ILaWj3cC-A&utm_medium=api&utm_source=3f1b011b&v=551FA8A706EC6E77D2CB91C56DD81C46BC9D2EB0",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-10T15:44:55Z",
+      "scraped_at": "2026-08-10T19:59:52Z"
+    },
+    {
+      "id": "4928431820ad",
+      "title": "Data Engineer (Python) - Remote",
+      "company": "AmeriLife",
+      "location": "Louisiana, US",
+      "salary": "$108,161 - $108,161",
+      "url": "https://www.adzuna.com/land/ad/5835912045?se=IgPXDPaU8RGNtb1lvyYpAg&utm_medium=api&utm_source=3f1b011b&v=551FA8A706EC6E77D2CB91C56DD81C46BC9D2EB0",
       "source": "Adzuna-US",
       "posted_date": "2026-08-10T15:44:55Z",
       "scraped_at": "2026-08-10T19:59:52Z"
@@ -3380,17 +3556,6 @@
       "scraped_at": "2026-08-10T19:11:51Z"
     },
     {
-      "id": "9b4e1590e9c2",
-      "title": "Machine Learning Engineer- Cloud Deployment (Remote)",
-      "company": "Warner Bros. Discovery",
-      "location": "US",
-      "salary": "$251,543 - $251,543",
-      "url": "https://www.adzuna.com/land/ad/5835877668?se=MIGGVe-U8RG1LuL09AY9wQ&utm_medium=api&utm_source=3f1b011b&v=F94EB5440B4607B7E99322E9F5628649A6631A6F",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-10T15:09:21Z",
-      "scraped_at": "2026-08-10T19:11:48Z"
-    },
-    {
       "id": "cac1d11ed81a",
       "title": "Machine Learning Engineer- Cloud Deployment (Remote)",
       "company": "Warner Bros. Discovery",
@@ -3400,6 +3565,17 @@
       "source": "Adzuna-US",
       "posted_date": "2026-08-10T15:09:21Z",
       "scraped_at": "2026-08-10T19:11:56Z"
+    },
+    {
+      "id": "9b4e1590e9c2",
+      "title": "Machine Learning Engineer- Cloud Deployment (Remote)",
+      "company": "Warner Bros. Discovery",
+      "location": "US",
+      "salary": "$251,543 - $251,543",
+      "url": "https://www.adzuna.com/land/ad/5835877668?se=MIGGVe-U8RG1LuL09AY9wQ&utm_medium=api&utm_source=3f1b011b&v=F94EB5440B4607B7E99322E9F5628649A6631A6F",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-10T15:09:21Z",
+      "scraped_at": "2026-08-10T19:11:48Z"
     },
     {
       "id": "6637b2d10fb1",
@@ -3545,12 +3721,12 @@
       "scraped_at": "2026-08-10T14:46:52Z"
     },
     {
-      "id": "14d6926f10b7",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
+      "id": "76ed664db822",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T14:46:51Z",
       "scraped_at": "2026-08-10T14:46:51Z"
@@ -3567,12 +3743,12 @@
       "scraped_at": "2026-08-10T14:46:51Z"
     },
     {
-      "id": "76ed664db822",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "14d6926f10b7",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T14:46:51Z",
       "scraped_at": "2026-08-10T14:46:51Z"
@@ -3688,50 +3864,6 @@
       "scraped_at": "2026-08-10T13:53:14Z"
     },
     {
-      "id": "3084f60f97b0",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T13:53:13Z",
-      "scraped_at": "2026-08-10T13:53:13Z"
-    },
-    {
-      "id": "10d8686853f5",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T13:53:13Z",
-      "scraped_at": "2026-08-10T13:53:13Z"
-    },
-    {
-      "id": "b8cde3d4e142",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T13:53:13Z",
-      "scraped_at": "2026-08-10T13:53:13Z"
-    },
-    {
-      "id": "2480fd59f757",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T13:53:13Z",
-      "scraped_at": "2026-08-10T13:53:13Z"
-    },
-    {
       "id": "6abd96c2a4a7",
       "title": "Machine Learning Engineer Resume",
       "company": "growmyresume",
@@ -3743,23 +3875,12 @@
       "scraped_at": "2026-08-10T13:53:13Z"
     },
     {
-      "id": "0334ee49d44e",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "a40f9f790a2f",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T13:53:13Z",
-      "scraped_at": "2026-08-10T13:53:13Z"
-    },
-    {
-      "id": "dc252ac4e7a0",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T13:53:13Z",
       "scraped_at": "2026-08-10T13:53:13Z"
@@ -3776,12 +3897,67 @@
       "scraped_at": "2026-08-10T13:53:13Z"
     },
     {
-      "id": "a40f9f790a2f",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "dc252ac4e7a0",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T13:53:13Z",
+      "scraped_at": "2026-08-10T13:53:13Z"
+    },
+    {
+      "id": "0334ee49d44e",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T13:53:13Z",
+      "scraped_at": "2026-08-10T13:53:13Z"
+    },
+    {
+      "id": "2480fd59f757",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T13:53:13Z",
+      "scraped_at": "2026-08-10T13:53:13Z"
+    },
+    {
+      "id": "b8cde3d4e142",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T13:53:13Z",
+      "scraped_at": "2026-08-10T13:53:13Z"
+    },
+    {
+      "id": "10d8686853f5",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T13:53:13Z",
+      "scraped_at": "2026-08-10T13:53:13Z"
+    },
+    {
+      "id": "3084f60f97b0",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T13:53:13Z",
       "scraped_at": "2026-08-10T13:53:13Z"
@@ -3861,7 +4037,7 @@
       "url": "https://www.adzuna.ca/details/5835818481?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-CA",
       "posted_date": "2026-08-10T13:20:23Z",
-      "scraped_at": "2026-08-11T02:49:23Z"
+      "scraped_at": "2026-08-11T04:06:59Z"
     },
     {
       "id": "7253ccd838fd",
@@ -3875,67 +4051,12 @@
       "scraped_at": "2026-08-10T12:27:46Z"
     },
     {
-      "id": "19de1b6fef19",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
+      "id": "2d106a302f93",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:45Z",
-      "scraped_at": "2026-08-10T12:27:45Z"
-    },
-    {
-      "id": "d1d8edc2f668",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:45Z",
-      "scraped_at": "2026-08-10T12:27:45Z"
-    },
-    {
-      "id": "af7cd1d8f7f4",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:45Z",
-      "scraped_at": "2026-08-10T12:27:45Z"
-    },
-    {
-      "id": "beb41a7c40a7",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:45Z",
-      "scraped_at": "2026-08-10T12:27:45Z"
-    },
-    {
-      "id": "ff87da4f83e1",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:45Z",
-      "scraped_at": "2026-08-10T12:27:45Z"
-    },
-    {
-      "id": "8cd3dd5a6d96",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T12:27:45Z",
       "scraped_at": "2026-08-10T12:27:45Z"
@@ -3952,12 +4073,67 @@
       "scraped_at": "2026-08-10T12:27:45Z"
     },
     {
-      "id": "2d106a302f93",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
+      "id": "8cd3dd5a6d96",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:45Z",
+      "scraped_at": "2026-08-10T12:27:45Z"
+    },
+    {
+      "id": "ff87da4f83e1",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:45Z",
+      "scraped_at": "2026-08-10T12:27:45Z"
+    },
+    {
+      "id": "beb41a7c40a7",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:45Z",
+      "scraped_at": "2026-08-10T12:27:45Z"
+    },
+    {
+      "id": "d1d8edc2f668",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:45Z",
+      "scraped_at": "2026-08-10T12:27:45Z"
+    },
+    {
+      "id": "19de1b6fef19",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:45Z",
+      "scraped_at": "2026-08-10T12:27:45Z"
+    },
+    {
+      "id": "af7cd1d8f7f4",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T12:27:45Z",
       "scraped_at": "2026-08-10T12:27:45Z"
@@ -3996,67 +4172,12 @@
       "scraped_at": "2026-08-10T12:27:41Z"
     },
     {
-      "id": "f3a49acbd87d",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:40Z",
-      "scraped_at": "2026-08-10T12:27:40Z"
-    },
-    {
-      "id": "5da40d4dc516",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:40Z",
-      "scraped_at": "2026-08-10T12:27:40Z"
-    },
-    {
-      "id": "a569efceff29",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:40Z",
-      "scraped_at": "2026-08-10T12:27:40Z"
-    },
-    {
-      "id": "08dbc025abdd",
-      "title": "AI & Business Intelligence Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Mombasa, Mombasa County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:40Z",
-      "scraped_at": "2026-08-10T12:27:40Z"
-    },
-    {
       "id": "c46c3ed0d95e",
       "title": "Business Intelligence Specialist",
       "company": "Ezra",
       "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T12:27:40Z",
-      "scraped_at": "2026-08-10T12:27:40Z"
-    },
-    {
-      "id": "1c3b9002f043",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T12:27:40Z",
       "scraped_at": "2026-08-10T12:27:40Z"
@@ -4073,45 +4194,78 @@
       "scraped_at": "2026-08-10T12:27:40Z"
     },
     {
-      "id": "9f4ea9a174bd",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T11:37:43Z",
-      "scraped_at": "2026-08-10T11:37:43Z"
-    },
-    {
-      "id": "d2af68913fae",
-      "title": "AI/ML Engineer (Remote)",
-      "company": "Hire Feed",
+      "id": "1c3b9002f043",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4451500337",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
       "source": "LinkedIn",
-      "posted_date": "2026-08-10T11:37:43Z",
-      "scraped_at": "2026-08-10T11:37:43Z"
+      "posted_date": "2026-08-10T12:27:40Z",
+      "scraped_at": "2026-08-10T12:27:40Z"
     },
     {
-      "id": "a14a1a67425b",
-      "title": "Machine Learning Engineer - Computer Vision (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
+      "id": "5da40d4dc516",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-hire-feed-4451503364",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
-      "posted_date": "2026-08-10T11:37:43Z",
-      "scraped_at": "2026-08-10T11:37:43Z"
+      "posted_date": "2026-08-10T12:27:40Z",
+      "scraped_at": "2026-08-10T12:27:40Z"
     },
     {
-      "id": "a7e3617d1c5e",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
+      "id": "08dbc025abdd",
+      "title": "AI & Business Intelligence Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Mombasa, Mombasa County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-business-intelligence-analyst-at-fuzu-nigeria-4451144951",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:40Z",
+      "scraped_at": "2026-08-10T12:27:40Z"
+    },
+    {
+      "id": "a569efceff29",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:40Z",
+      "scraped_at": "2026-08-10T12:27:40Z"
+    },
+    {
+      "id": "f3a49acbd87d",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint, BRM",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T12:27:40Z",
+      "scraped_at": "2026-08-10T12:27:40Z"
+    },
+    {
+      "id": "f50de747d7c7",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T11:37:43Z",
+      "scraped_at": "2026-08-10T11:37:43Z"
+    },
+    {
+      "id": "7df4e1a3a5c0",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T11:37:43Z",
       "scraped_at": "2026-08-10T11:37:43Z"
@@ -4139,23 +4293,45 @@
       "scraped_at": "2026-08-10T11:37:43Z"
     },
     {
-      "id": "7df4e1a3a5c0",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "a7e3617d1c5e",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T11:37:43Z",
       "scraped_at": "2026-08-10T11:37:43Z"
     },
     {
-      "id": "f50de747d7c7",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "9f4ea9a174bd",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T11:37:43Z",
+      "scraped_at": "2026-08-10T11:37:43Z"
+    },
+    {
+      "id": "a14a1a67425b",
+      "title": "Machine Learning Engineer - Computer Vision (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-computer-vision-remote-at-hire-feed-4451503364",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T11:37:43Z",
+      "scraped_at": "2026-08-10T11:37:43Z"
+    },
+    {
+      "id": "d2af68913fae",
+      "title": "AI/ML Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4451500337",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T11:37:43Z",
       "scraped_at": "2026-08-10T11:37:43Z"
@@ -4205,17 +4381,6 @@
       "scraped_at": "2026-08-10T11:37:38Z"
     },
     {
-      "id": "f3f39d73a96b",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T11:37:38Z",
-      "scraped_at": "2026-08-10T11:37:38Z"
-    },
-    {
       "id": "aae88e6f38dc",
       "title": "Insights & Reporting Analyst",
       "company": "Stanbic Bank Kenya",
@@ -4260,6 +4425,17 @@
       "scraped_at": "2026-08-10T11:37:38Z"
     },
     {
+      "id": "f3f39d73a96b",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T11:37:38Z",
+      "scraped_at": "2026-08-10T11:37:38Z"
+    },
+    {
       "id": "dd64df93373c",
       "title": "Machine Learning Engineer - Computer Vision (Remote)",
       "company": "Hire Feed",
@@ -4271,45 +4447,23 @@
       "scraped_at": "2026-08-10T10:52:29Z"
     },
     {
-      "id": "6b74695dcfca",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "DesignX",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4449040960",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T10:52:28Z",
-      "scraped_at": "2026-08-10T10:52:28Z"
-    },
-    {
-      "id": "52942f5fac4f",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T10:52:28Z",
-      "scraped_at": "2026-08-10T10:52:28Z"
-    },
-    {
-      "id": "f92dd9159e07",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T10:52:28Z",
-      "scraped_at": "2026-08-10T10:52:28Z"
-    },
-    {
       "id": "e5d7b6f3233f",
       "title": "AI/ML Engineer (Remote)",
       "company": "Hire Feed",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4451500337",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T10:52:28Z",
+      "scraped_at": "2026-08-10T10:52:28Z"
+    },
+    {
+      "id": "f90a39266884",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T10:52:28Z",
       "scraped_at": "2026-08-10T10:52:28Z"
@@ -4326,12 +4480,34 @@
       "scraped_at": "2026-08-10T10:52:28Z"
     },
     {
-      "id": "f90a39266884",
+      "id": "f92dd9159e07",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T10:52:28Z",
+      "scraped_at": "2026-08-10T10:52:28Z"
+    },
+    {
+      "id": "52942f5fac4f",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T10:52:28Z",
+      "scraped_at": "2026-08-10T10:52:28Z"
+    },
+    {
+      "id": "6b74695dcfca",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
+      "company": "DesignX",
       "location": "Customer, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-designx-4449040960",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T10:52:28Z",
       "scraped_at": "2026-08-10T10:52:28Z"
@@ -4601,39 +4777,6 @@
       "scraped_at": "2026-08-10T09:52:25Z"
     },
     {
-      "id": "ad6c6dab44ea",
-      "title": "CRRD Data Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/crrd-data-analyst-at-fuzu-nigeria-4450975812",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T09:52:24Z",
-      "scraped_at": "2026-08-10T09:52:24Z"
-    },
-    {
-      "id": "12966e91a001",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T09:52:24Z",
-      "scraped_at": "2026-08-10T09:52:24Z"
-    },
-    {
-      "id": "3be35e63db1a",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T09:52:24Z",
-      "scraped_at": "2026-08-10T09:52:24Z"
-    },
-    {
       "id": "5e9109437930",
       "title": "Data Scientist",
       "company": "Modal Rakyat",
@@ -4645,12 +4788,12 @@
       "scraped_at": "2026-08-10T09:52:24Z"
     },
     {
-      "id": "d25d2be94a0f",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
+      "id": "5eb7a4c8ed5c",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T09:52:24Z",
       "scraped_at": "2026-08-10T09:52:24Z"
@@ -4667,12 +4810,45 @@
       "scraped_at": "2026-08-10T09:52:24Z"
     },
     {
-      "id": "5eb7a4c8ed5c",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
+      "id": "d25d2be94a0f",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T09:52:24Z",
+      "scraped_at": "2026-08-10T09:52:24Z"
+    },
+    {
+      "id": "3be35e63db1a",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T09:52:24Z",
+      "scraped_at": "2026-08-10T09:52:24Z"
+    },
+    {
+      "id": "12966e91a001",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T09:52:24Z",
+      "scraped_at": "2026-08-10T09:52:24Z"
+    },
+    {
+      "id": "ad6c6dab44ea",
+      "title": "CRRD Data Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/crrd-data-analyst-at-fuzu-nigeria-4450975812",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T09:52:24Z",
       "scraped_at": "2026-08-10T09:52:24Z"
@@ -4788,6 +4964,61 @@
       "scraped_at": "2026-08-10T08:20:41Z"
     },
     {
+      "id": "da2cbb9d66bf",
+      "title": "Insights & Reporting Analyst",
+      "company": "Stanbic Bank Kenya",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T08:20:40Z",
+      "scraped_at": "2026-08-10T08:20:40Z"
+    },
+    {
+      "id": "6d80172aa0fc",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T08:20:40Z",
+      "scraped_at": "2026-08-10T08:20:40Z"
+    },
+    {
+      "id": "09ba1ca5b0f5",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T08:20:40Z",
+      "scraped_at": "2026-08-10T08:20:40Z"
+    },
+    {
+      "id": "f795d3a5e0a4",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T08:20:40Z",
+      "scraped_at": "2026-08-10T08:20:40Z"
+    },
+    {
+      "id": "a60bdcc78c6b",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T08:20:40Z",
+      "scraped_at": "2026-08-10T08:20:40Z"
+    },
+    {
       "id": "a7792141b4fa",
       "title": "CRRD Data Analyst",
       "company": "Fuzu Nigeria",
@@ -4805,61 +5036,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T08:20:40Z",
-      "scraped_at": "2026-08-10T08:20:40Z"
-    },
-    {
-      "id": "a60bdcc78c6b",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T08:20:40Z",
-      "scraped_at": "2026-08-10T08:20:40Z"
-    },
-    {
-      "id": "f795d3a5e0a4",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T08:20:40Z",
-      "scraped_at": "2026-08-10T08:20:40Z"
-    },
-    {
-      "id": "09ba1ca5b0f5",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T08:20:40Z",
-      "scraped_at": "2026-08-10T08:20:40Z"
-    },
-    {
-      "id": "6d80172aa0fc",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T08:20:40Z",
-      "scraped_at": "2026-08-10T08:20:40Z"
-    },
-    {
-      "id": "da2cbb9d66bf",
-      "title": "Insights & Reporting Analyst",
-      "company": "Stanbic Bank Kenya",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/insights-reporting-analyst-at-stanbic-bank-kenya-4448838441",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T08:20:40Z",
       "scraped_at": "2026-08-10T08:20:40Z"
@@ -4942,6 +5118,61 @@
       "scraped_at": "2026-08-10T06:56:02Z"
     },
     {
+      "id": "a1339c95e047",
+      "title": "AI/ML Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4451500337",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:56:01Z",
+      "scraped_at": "2026-08-10T06:56:01Z"
+    },
+    {
+      "id": "868ad47e6ead",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:56:01Z",
+      "scraped_at": "2026-08-10T06:56:01Z"
+    },
+    {
+      "id": "690d42a6940b",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:56:01Z",
+      "scraped_at": "2026-08-10T06:56:01Z"
+    },
+    {
+      "id": "982a928794d8",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:56:01Z",
+      "scraped_at": "2026-08-10T06:56:01Z"
+    },
+    {
+      "id": "ca1f7ceede3e",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:56:01Z",
+      "scraped_at": "2026-08-10T06:56:01Z"
+    },
+    {
       "id": "2e948e6c1a43",
       "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
       "company": "Afkar Advanced Advisory Group",
@@ -4959,61 +5190,6 @@
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:56:01Z",
-      "scraped_at": "2026-08-10T06:56:01Z"
-    },
-    {
-      "id": "ca1f7ceede3e",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:56:01Z",
-      "scraped_at": "2026-08-10T06:56:01Z"
-    },
-    {
-      "id": "a1339c95e047",
-      "title": "AI/ML Engineer (Remote)",
-      "company": "Hire Feed",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-ml-engineer-remote-at-hire-feed-4451500337",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:56:01Z",
-      "scraped_at": "2026-08-10T06:56:01Z"
-    },
-    {
-      "id": "690d42a6940b",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:56:01Z",
-      "scraped_at": "2026-08-10T06:56:01Z"
-    },
-    {
-      "id": "868ad47e6ead",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:56:01Z",
-      "scraped_at": "2026-08-10T06:56:01Z"
-    },
-    {
-      "id": "982a928794d8",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T06:56:01Z",
       "scraped_at": "2026-08-10T06:56:01Z"
@@ -5041,39 +5217,6 @@
       "scraped_at": "2026-08-10T06:55:57Z"
     },
     {
-      "id": "9c0c5929beef",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:55:56Z",
-      "scraped_at": "2026-08-10T06:55:56Z"
-    },
-    {
-      "id": "7f16dff4cbe1",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:55:56Z",
-      "scraped_at": "2026-08-10T06:55:56Z"
-    },
-    {
-      "id": "7927201ad606",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T06:55:56Z",
-      "scraped_at": "2026-08-10T06:55:56Z"
-    },
-    {
       "id": "065e2b5e8592",
       "title": "Insights & Reporting Analyst",
       "company": "Stanbic Bank Kenya",
@@ -5085,12 +5228,12 @@
       "scraped_at": "2026-08-10T06:55:56Z"
     },
     {
-      "id": "a3f34b0992b5",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
+      "id": "5d9cae62bb44",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T06:55:56Z",
       "scraped_at": "2026-08-10T06:55:56Z"
@@ -5107,12 +5250,45 @@
       "scraped_at": "2026-08-10T06:55:56Z"
     },
     {
-      "id": "5d9cae62bb44",
+      "id": "a3f34b0992b5",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:55:56Z",
+      "scraped_at": "2026-08-10T06:55:56Z"
+    },
+    {
+      "id": "7927201ad606",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:55:56Z",
+      "scraped_at": "2026-08-10T06:55:56Z"
+    },
+    {
+      "id": "7f16dff4cbe1",
       "title": "Data Analyst - Fraud",
-      "company": "Moniepoint, BRM",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T06:55:56Z",
+      "scraped_at": "2026-08-10T06:55:56Z"
+    },
+    {
+      "id": "9c0c5929beef",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T06:55:56Z",
       "scraped_at": "2026-08-10T06:55:56Z"
@@ -5151,6 +5327,61 @@
       "scraped_at": "2026-08-10T05:42:55Z"
     },
     {
+      "id": "853e1fda395e",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:54Z",
+      "scraped_at": "2026-08-10T05:42:54Z"
+    },
+    {
+      "id": "10e29b4e0ccd",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:54Z",
+      "scraped_at": "2026-08-10T05:42:54Z"
+    },
+    {
+      "id": "c416877dd0ff",
+      "title": "Data Engineer",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:54Z",
+      "scraped_at": "2026-08-10T05:42:54Z"
+    },
+    {
+      "id": "257c8094f23b",
+      "title": "AI Engineer",
+      "company": "Ease Entertainment Services, LLC",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:54Z",
+      "scraped_at": "2026-08-10T05:42:54Z"
+    },
+    {
+      "id": "3f900a14dcb7",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:54Z",
+      "scraped_at": "2026-08-10T05:42:54Z"
+    },
+    {
       "id": "ce76dcf9d140",
       "title": "Data Scientist",
       "company": "Modal Rakyat",
@@ -5168,61 +5399,6 @@
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:54Z",
-      "scraped_at": "2026-08-10T05:42:54Z"
-    },
-    {
-      "id": "3f900a14dcb7",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:54Z",
-      "scraped_at": "2026-08-10T05:42:54Z"
-    },
-    {
-      "id": "257c8094f23b",
-      "title": "AI Engineer",
-      "company": "Ease Entertainment Services, LLC",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-at-ease-entertainment-services-llc-4450585829",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:54Z",
-      "scraped_at": "2026-08-10T05:42:54Z"
-    },
-    {
-      "id": "c416877dd0ff",
-      "title": "Data Engineer",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:54Z",
-      "scraped_at": "2026-08-10T05:42:54Z"
-    },
-    {
-      "id": "10e29b4e0ccd",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:54Z",
-      "scraped_at": "2026-08-10T05:42:54Z"
-    },
-    {
-      "id": "853e1fda395e",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T05:42:54Z",
       "scraped_at": "2026-08-10T05:42:54Z"
@@ -5250,67 +5426,12 @@
       "scraped_at": "2026-08-10T05:42:51Z"
     },
     {
-      "id": "991e4e8f41f3",
-      "title": "CRRD Data Analyst",
-      "company": "Fuzu Nigeria",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/crrd-data-analyst-at-fuzu-nigeria-4450975812",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:49Z",
-      "scraped_at": "2026-08-10T05:42:49Z"
-    },
-    {
-      "id": "3fff10610c2c",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:49Z",
-      "scraped_at": "2026-08-10T05:42:49Z"
-    },
-    {
-      "id": "4f51cdbb3b6f",
-      "title": "Business Intelligence Specialist",
-      "company": "Ezra",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:49Z",
-      "scraped_at": "2026-08-10T05:42:49Z"
-    },
-    {
-      "id": "fef12b268a04",
-      "title": "Data Analyst - Fraud",
-      "company": "Moniepoint, BRM",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:49Z",
-      "scraped_at": "2026-08-10T05:42:49Z"
-    },
-    {
       "id": "eab063ed39ee",
       "title": "Data Engineer",
       "company": "Modal Rakyat",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-modal-rakyat-4450053090",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T05:42:49Z",
-      "scraped_at": "2026-08-10T05:42:49Z"
-    },
-    {
-      "id": "6d7a8adc2800",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T05:42:49Z",
       "scraped_at": "2026-08-10T05:42:49Z"
@@ -5327,6 +5448,61 @@
       "scraped_at": "2026-08-10T05:42:49Z"
     },
     {
+      "id": "6d7a8adc2800",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:49Z",
+      "scraped_at": "2026-08-10T05:42:49Z"
+    },
+    {
+      "id": "fef12b268a04",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint, BRM",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-brm-4446206607",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:49Z",
+      "scraped_at": "2026-08-10T05:42:49Z"
+    },
+    {
+      "id": "4f51cdbb3b6f",
+      "title": "Business Intelligence Specialist",
+      "company": "Ezra",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/business-intelligence-specialist-at-ezra-4414549697",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:49Z",
+      "scraped_at": "2026-08-10T05:42:49Z"
+    },
+    {
+      "id": "3fff10610c2c",
+      "title": "Data Analyst - Fraud",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-analyst-fraud-at-moniepoint-group-4447988771",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:49Z",
+      "scraped_at": "2026-08-10T05:42:49Z"
+    },
+    {
+      "id": "991e4e8f41f3",
+      "title": "CRRD Data Analyst",
+      "company": "Fuzu Nigeria",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/crrd-data-analyst-at-fuzu-nigeria-4450975812",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T05:42:49Z",
+      "scraped_at": "2026-08-10T05:42:49Z"
+    },
+    {
       "id": "3d0207bd3769",
       "title": "Machine Learning Engineer - Computer Vision (Remote)",
       "company": "Hire Feed",
@@ -5336,61 +5512,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-10T04:11:45Z",
       "scraped_at": "2026-08-10T04:11:45Z"
-    },
-    {
-      "id": "7950eddda9e0",
-      "title": "Tupande AI Engineering Lead (Fixed-term)",
-      "company": "One Acre Fund",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T04:11:44Z",
-      "scraped_at": "2026-08-10T04:11:44Z"
-    },
-    {
-      "id": "553a5e50b88f",
-      "title": "Machine Learning Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T04:11:44Z",
-      "scraped_at": "2026-08-10T04:11:44Z"
-    },
-    {
-      "id": "8fad5f131d0b",
-      "title": "AI Engineer Resume",
-      "company": "growmyresume",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T04:11:44Z",
-      "scraped_at": "2026-08-10T04:11:44Z"
-    },
-    {
-      "id": "974b2b4e360c",
-      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
-      "company": "Afkar Advanced Advisory Group",
-      "location": "Customer, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T04:11:44Z",
-      "scraped_at": "2026-08-10T04:11:44Z"
-    },
-    {
-      "id": "0f1a2736c3cd",
-      "title": "BACKEND ENGINEER",
-      "company": "Tsukumo",
-      "location": "Oserian Engineering, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-10T04:11:44Z",
-      "scraped_at": "2026-08-10T04:11:44Z"
     },
     {
       "id": "491bde3cf51b",
@@ -5404,12 +5525,12 @@
       "scraped_at": "2026-08-10T04:11:44Z"
     },
     {
-      "id": "9cbd467ec24e",
-      "title": "Forward Deployed AI Engineer",
-      "company": "NestAI",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "id": "fa09cf53f134",
+      "title": "Data Scientist",
+      "company": "Modal Rakyat",
+      "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T04:11:44Z",
       "scraped_at": "2026-08-10T04:11:44Z"
@@ -5426,12 +5547,67 @@
       "scraped_at": "2026-08-10T04:11:44Z"
     },
     {
-      "id": "fa09cf53f134",
-      "title": "Data Scientist",
-      "company": "Modal Rakyat",
+      "id": "9cbd467ec24e",
+      "title": "Forward Deployed AI Engineer",
+      "company": "NestAI",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/forward-deployed-ai-engineer-at-nestai-4449228782",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T04:11:44Z",
+      "scraped_at": "2026-08-10T04:11:44Z"
+    },
+    {
+      "id": "8fad5f131d0b",
+      "title": "AI Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-resume-at-growmyresume-4449162381",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T04:11:44Z",
+      "scraped_at": "2026-08-10T04:11:44Z"
+    },
+    {
+      "id": "0f1a2736c3cd",
+      "title": "BACKEND ENGINEER",
+      "company": "Tsukumo",
       "location": "Oserian Engineering, Nakuru, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-at-modal-rakyat-4450042326",
+      "url": "https://ke.linkedin.com/jobs/view/backend-engineer-at-tsukumo-4448983839",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T04:11:44Z",
+      "scraped_at": "2026-08-10T04:11:44Z"
+    },
+    {
+      "id": "974b2b4e360c",
+      "title": "DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS",
+      "company": "Afkar Advanced Advisory Group",
+      "location": "Customer, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-machine-learning-and-data-analytics-at-afkar-advanced-advisory-group-4449436287",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T04:11:44Z",
+      "scraped_at": "2026-08-10T04:11:44Z"
+    },
+    {
+      "id": "553a5e50b88f",
+      "title": "Machine Learning Engineer Resume",
+      "company": "growmyresume",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/machine-learning-engineer-resume-at-growmyresume-4449179051",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-10T04:11:44Z",
+      "scraped_at": "2026-08-10T04:11:44Z"
+    },
+    {
+      "id": "7950eddda9e0",
+      "title": "Tupande AI Engineering Lead (Fixed-term)",
+      "company": "One Acre Fund",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/tupande-ai-engineering-lead-fixed-term-at-one-acre-fund-4433658741",
       "source": "LinkedIn",
       "posted_date": "2026-08-10T04:11:44Z",
       "scraped_at": "2026-08-10T04:11:44Z"
