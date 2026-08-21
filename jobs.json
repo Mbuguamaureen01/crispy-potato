@@ -1,7 +1,634 @@
 {
-  "last_updated": "2026-08-21T17:40:33.982686+00:00",
+  "last_updated": "2026-08-21T18:03:13.511556+00:00",
   "total_jobs": 563,
   "jobs": [
+    {
+      "id": "1c58aee49892",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "6e7bdf2f839e",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "1153878d8fa2",
+      "title": "Risk & Analytics Quantitative Analyst",
+      "company": "BBVA Global Wealth Advisors",
+      "location": "Miami, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "08e39853f1aa",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "78d0057500f8",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "4c63d83fb359",
+      "title": "AI Engineering Lead",
+      "company": "OnHires",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineering-lead-at-onhires-4457376590",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:21Z",
+      "scraped_at": "2026-08-21T18:01:21Z"
+    },
+    {
+      "id": "a6889a02602a",
+      "title": "Quantitative Developer",
+      "company": "NJF Global Holdings Ltd",
+      "location": "London Area, United Kingdom",
+      "salary": "",
+      "url": "https://uk.linkedin.com/jobs/view/quantitative-developer-at-njf-global-holdings-ltd-4444940384",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:20Z",
+      "scraped_at": "2026-08-21T18:01:20Z"
+    },
+    {
+      "id": "ed01f3cd3008",
+      "title": "Software Engineer Graduate (Global CRM) - 2027 Start",
+      "company": "TikTok",
+      "location": "San Jose, CA",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-graduate-global-crm-2027-start-at-tiktok-4449977510",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T18:01:19Z",
+      "scraped_at": "2026-08-21T18:01:19Z"
+    },
+    {
+      "id": "f54dbb7c007d",
+      "title": "Software Engineering Intern",
+      "company": "Freelancer.com",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "8a2fedcee834",
+      "title": "Summer Internship",
+      "company": "ResMed",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "dcf36f7a7fed",
+      "title": "STEM Cadetship",
+      "company": "Defence Science & Technology Group",
+      "location": "Major Cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "f8a9770f4a3e",
+      "title": "Data & Digital Cadetship",
+      "company": "Australian Government",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "495b793948e5",
+      "title": "SWE Intern",
+      "company": "Rheinmetall",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "0eb3d05d1013",
+      "title": "Internship Program",
+      "company": "Philip Morris International (PMI)",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.inkompass.global/australia-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "4ada621b48e4",
+      "title": "SWE Intern",
+      "company": "CSG",
+      "location": "Brisbane",
+      "salary": "",
+      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "2d534fd1a220",
+      "title": "Vacation Studentship",
+      "company": "CSIRO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "7edf0e64b9af",
+      "title": "SWE Intern (Rolling application)",
+      "company": "CalcTree",
+      "location": "Sydney (possibly other locations remote)",
+      "salary": "",
+      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "916c1374c3ae",
+      "title": "Software Engineer Intern",
+      "company": "Resonate CX",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "4710a02652d3",
+      "title": "Summer Intern",
+      "company": "NAB",
+      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "d8e6adbb9e64",
+      "title": "Summer Intern (Cyber, Data Science + more)",
+      "company": "CommBank",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "55f8351e4a1d",
+      "title": "Engineering Intern",
+      "company": "GHD",
+      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
+      "salary": "",
+      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "8526e0aa4193",
+      "title": "Career Start Program (Network Engineering/SWE)",
+      "company": "Telstra",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "ac5196fe4d1e",
+      "title": "Summer Vacationer",
+      "company": "ARUP",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "1ad2b7dee56c",
+      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
+      "company": "BDO",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.bdo.com.au/en-au/about/student-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "09c9f504717b",
+      "title": "Vacationer",
+      "company": "Deloitte",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "59b9a9c0f481",
+      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
+      "company": "EY",
+      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
+      "salary": "",
+      "url": "https://www.ey.com/en_au/careers/students-apply-here",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "87e4924e73e1",
+      "title": "Engineering Vacationer",
+      "company": "KPMG",
+      "location": "National",
+      "salary": "",
+      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "54f010eae96c",
+      "title": "SWE Intern",
+      "company": "Airwallex",
+      "location": "Melbourne, Sydney",
+      "salary": "",
+      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "13b08107fcec",
+      "title": "STEM Summer Vacation Placement",
+      "company": "Defence Science & Technology Group",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "e9f2efe2fa19",
+      "title": "Site Reliability Co-Op",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "39fffd291a13",
+      "title": "Network Support Engineer Intern",
+      "company": "CISCO",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "843a800c1d91",
+      "title": "Summer Intern (Technology stream)",
+      "company": "ANZ",
+      "location": "Major cities",
+      "salary": "",
+      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "677faf0a5a02",
+      "title": "Internship",
+      "company": "Optiver",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://optiver.com/working-at-optiver/internships/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "88a02831edaa",
+      "title": "Summer Intern",
+      "company": "Macquarie",
+      "location": "Melbourne, Sydney, Perth, Brisbane",
+      "salary": "",
+      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "39fa055f44a5",
+      "title": "Summer Intern",
+      "company": "UBS",
+      "location": "Sydney, Melbourne, Perth",
+      "salary": "",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "f5a4815355b8",
+      "title": "Careers page",
+      "company": "",
+      "location": "Fivecast",
+      "salary": "",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "4c3d33c0a284",
+      "title": "Student opportunities",
+      "company": "",
+      "location": "Akuna Capital",
+      "salary": "",
+      "url": "https://careers.imc.com/us/en/students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "a35088c522a0",
+      "title": "Careers page",
+      "company": "",
+      "location": "IMC Trading",
+      "salary": "",
+      "url": "https://www.palantir.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "eb595c67d240",
+      "title": "Careers page",
+      "company": "",
+      "location": "Palantir",
+      "salary": "",
+      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "6cde2e546e84",
+      "title": "Careers page",
+      "company": "",
+      "location": "Atlassian",
+      "salary": "",
+      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "11f970b57c6e",
+      "title": "Careers page",
+      "company": "",
+      "location": "Australiance - Healthtech Startup",
+      "salary": "",
+      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "4dcec0c71028",
+      "title": "Students@Work",
+      "company": "UniMelb",
+      "location": "Melbourne",
+      "salary": "",
+      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "529aa568addd",
+      "title": "Summer Intern",
+      "company": "Westpac",
+      "location": "Sydney, Melbourne",
+      "salary": "",
+      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "b8ebb3fae61d",
+      "title": "IT Summer Intern",
+      "company": "Boeing",
+      "location": "Melbourne, Brisbane, Adelaide",
+      "salary": "",
+      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "1787bb4051a6",
+      "title": "SWE Intern",
+      "company": "Aurecon",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "a74618122a75",
+      "title": "Careers page",
+      "company": "",
+      "location": "CISCO",
+      "salary": "",
+      "url": "https://www.jumptrading.com/careers/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "dfc6a3e153ec",
+      "title": "Summer Intern (SWE, Data Science, Security)",
+      "company": "Canva",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "50927d937b0b",
+      "title": "SWE Intern",
+      "company": "theTradeDesk",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://careers.thetradedesk.com/early-careers",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "c1b473c4518c",
+      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
+      "company": "Melbourne",
+      "location": "Must complete StarCamp to access Tech Talent Internship",
+      "salary": "",
+      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "b66910af4b19",
+      "title": "Intern Software Engineer (Testing)",
+      "company": "swipejobs",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "8a1fcfcc54c5",
+      "title": "APAC Intern",
+      "company": "Wellington Management",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "ea85bc14c857",
+      "title": "Summer Student Program (Data Analytics Stream)",
+      "company": "Cochlear",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "62b63d9881b5",
+      "title": "Summer internship",
+      "company": "BAE Systems",
+      "location": "Australia-wide",
+      "salary": "",
+      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "dd5935b0607d",
+      "title": "Intern (Data Science, Software, Computing, Robotics)",
+      "company": "RioTinto",
+      "location": "Australia",
+      "salary": "",
+      "url": "https://www.riotinto.com/careers/graduates-students",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "5da24ccf7d2c",
+      "title": "Summer Vacationer",
+      "company": "McGrathNichol",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://www.mcgrathnicol.com/students/",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "cd0882f9c19c",
+      "title": "SWE Intern",
+      "company": "Resonate Solutions",
+      "location": "Sydney",
+      "salary": "",
+      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
+      "source": "GitHub-AusJobs",
+      "posted_date": "2026-08-21T18:00:15Z",
+      "scraped_at": "2026-08-21T18:00:15Z"
+    },
+    {
+      "id": "5c6209ffb050",
+      "title": "AI Engineering Lead",
+      "company": "OnHires",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineering-lead-at-onhires-4457376590",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T17:38:46Z",
+      "scraped_at": "2026-08-21T17:38:46Z"
+    },
     {
       "id": "c4f1c067aabb",
       "title": "Senior Team Lead, AI Engineering",
@@ -42,17 +669,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T17:38:46Z",
-      "scraped_at": "2026-08-21T17:38:46Z"
-    },
-    {
-      "id": "5c6209ffb050",
-      "title": "AI Engineering Lead",
-      "company": "OnHires",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineering-lead-at-onhires-4457376590",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T17:38:46Z",
       "scraped_at": "2026-08-21T17:38:46Z"
@@ -113,562 +729,23 @@
       "scraped_at": "2026-08-21T17:38:42Z"
     },
     {
-      "id": "8a2fedcee834",
-      "title": "Summer Internship",
-      "company": "ResMed",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Expression-of-Interest---Summer-Internship-2024-25_JR_032438?q=auearlycareers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "495b793948e5",
-      "title": "SWE Intern",
-      "company": "Rheinmetall",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://www.rheinmetall.com/en/job/eoi_engineering_internship_program_/612891",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "f8a9770f4a3e",
-      "title": "Data & Digital Cadetship",
-      "company": "Australian Government",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.digitalprofession.gov.au/career-development/digital-supported-pathway-programs/data-and-digital-cadet-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "dcf36f7a7fed",
-      "title": "STEM Cadetship",
-      "company": "Defence Science & Technology Group",
-      "location": "Major Cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/stem-cadetship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "677faf0a5a02",
-      "title": "Internship",
-      "company": "Optiver",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://optiver.com/working-at-optiver/internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "88a02831edaa",
-      "title": "Summer Intern",
-      "company": "Macquarie",
-      "location": "Melbourne, Sydney, Perth, Brisbane",
-      "salary": "",
-      "url": "https://www.macquarie.com/au/en/careers/graduates-and-interns.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "843a800c1d91",
-      "title": "Summer Intern (Technology stream)",
-      "company": "ANZ",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.anz.com.au/careers/programs/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "8526e0aa4193",
-      "title": "Career Start Program (Network Engineering/SWE)",
-      "company": "Telstra",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.telstra.com.au/careers/students-and-graduates/career-start-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "4ada621b48e4",
-      "title": "SWE Intern",
-      "company": "CSG",
-      "location": "Brisbane",
-      "salary": "",
-      "url": "https://pages.csgi.com/brisbane-graduate-roles-internships/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "4dcec0c71028",
-      "title": "Students@Work",
-      "company": "UniMelb",
-      "location": "Melbourne",
-      "salary": "",
-      "url": "https://students.unimelb.edu.au/careers/find-a-job/working-on-campus/students@work-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "5da24ccf7d2c",
-      "title": "Summer Vacationer",
-      "company": "McGrathNichol",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.mcgrathnicol.com/students/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "0eb3d05d1013",
-      "title": "Internship Program",
-      "company": "Philip Morris International (PMI)",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.inkompass.global/australia-internship-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "916c1374c3ae",
-      "title": "Software Engineer Intern",
-      "company": "Resonate CX",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates?src=Linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "2d534fd1a220",
-      "title": "Vacation Studentship",
-      "company": "CSIRO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-vacation-studentships",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "7edf0e64b9af",
-      "title": "SWE Intern (Rolling application)",
-      "company": "CalcTree",
-      "location": "Sydney (possibly other locations remote)",
-      "salary": "",
-      "url": "https://app.calctree.com/public/Engineering-Internships-Rolling-basis-wUhzYCtxLj6Ag5PBjC8d66",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "62b63d9881b5",
-      "title": "Summer internship",
-      "company": "BAE Systems",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.baesystems.com/en-aus/careers/graduate-and-early-careers#1573679801007",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "4710a02652d3",
-      "title": "Summer Intern",
-      "company": "NAB",
-      "location": "Sydney, Melbourne, Brisbane & Perth (only certain streams)",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/summer-intern-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "f54dbb7c007d",
-      "title": "Software Engineering Intern",
-      "company": "Freelancer.com",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://apply.workable.com/freelancer/j/6FF7D94E6E/?utm_source=linkedin.com&src=LinkedIn&src=LinkedIn&utm_source=linkedin.com&gh_src=i5qg2y1&utm_source=linkedin.com",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "55f8351e4a1d",
-      "title": "Engineering Intern",
-      "company": "GHD",
-      "location": "Canberra, NSW (Bega, Nowra, Wagga Wagga & Wollongong)",
-      "salary": "",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16000?utm_medium=jobboard&utm_source=linkedin",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "d8e6adbb9e64",
-      "title": "Summer Intern (Cyber, Data Science + more)",
-      "company": "CommBank",
-      "location": "Australia-wide",
-      "salary": "",
-      "url": "https://www.commbank.com.au/about-us/careers/graduate-intern-programs.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "ac5196fe4d1e",
-      "title": "Summer Vacationer",
-      "company": "ARUP",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.arup.com/careers/early-careers/internships/australasia/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "1ad2b7dee56c",
-      "title": "Advisory Vacationer (Digital & Tech Advisory, Cyber, Risk Advisory)",
-      "company": "BDO",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.bdo.com.au/en-au/about/student-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "09c9f504717b",
-      "title": "Vacationer",
-      "company": "Deloitte",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.deloitte.com/au/en/careers/students/summer-vacation-program-careers.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "59b9a9c0f481",
-      "title": "Tech Consulting Vacationer (AI, Cybersec, SWE, Platforms etc)",
-      "company": "EY",
-      "location": "Sydney, Melbourne, Canberra, Brisbane, Adelaide, Perth",
-      "salary": "",
-      "url": "https://www.ey.com/en_au/careers/students-apply-here",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "dd5935b0607d",
-      "title": "Intern (Data Science, Software, Computing, Robotics)",
-      "company": "RioTinto",
-      "location": "Australia",
-      "salary": "",
-      "url": "https://www.riotinto.com/careers/graduates-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "b66910af4b19",
-      "title": "Intern Software Engineer (Testing)",
-      "company": "swipejobs",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://swipejobs.breezy.hr/p/07fe79726f76-intern-software-engineer-testing",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "ea85bc14c857",
-      "title": "Summer Student Program (Data Analytics Stream)",
-      "company": "Cochlear",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.cochlear.com/au/en/corporate/careers/jobs-at-cochlear/graduates-and-students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "a74618122a75",
-      "title": "Careers page",
-      "company": "",
-      "location": "CISCO",
-      "salary": "",
-      "url": "https://www.jumptrading.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "39fffd291a13",
-      "title": "Network Support Engineer Intern",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Fall-2024-ETR-Sydney-Meraki/1422337",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "e9f2efe2fa19",
-      "title": "Site Reliability Co-Op",
-      "company": "CISCO",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/ProjectDetail/Site-Reliability-Co-Op-Emerging-Talent-Meraki-APJC/1425346",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "13b08107fcec",
-      "title": "STEM Summer Vacation Placement",
-      "company": "Defence Science & Technology Group",
-      "location": "Major cities",
-      "salary": "",
-      "url": "https://www.dst.defence.gov.au/careers/student-opportunities/summer-vacation-placement-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "f5a4815355b8",
-      "title": "Careers page",
-      "company": "",
-      "location": "Fivecast",
-      "salary": "",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&employment_type=PART_TIME&employment_type=INTERN&location=Australia",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "4c3d33c0a284",
-      "title": "Student opportunities",
-      "company": "",
-      "location": "Akuna Capital",
-      "salary": "",
-      "url": "https://careers.imc.com/us/en/students",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "a35088c522a0",
-      "title": "Careers page",
-      "company": "",
-      "location": "IMC Trading",
-      "salary": "",
-      "url": "https://www.palantir.com/careers/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "eb595c67d240",
-      "title": "Careers page",
-      "company": "",
-      "location": "Palantir",
-      "salary": "",
-      "url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=Australia&search=",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "8a1fcfcc54c5",
-      "title": "APAC Intern",
-      "company": "Wellington Management",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/intern-client-group-apac-at-wellington-management-3871933188/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=au",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "11f970b57c6e",
-      "title": "Careers page",
-      "company": "",
-      "location": "Australiance - Healthtech Startup",
-      "salary": "",
-      "url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B214420%5D&21178_format=6020&listFilterMode=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "6cde2e546e84",
-      "title": "Careers page",
-      "company": "",
-      "location": "Atlassian",
-      "salary": "",
-      "url": "https://australiance.vincere.io/careers/?unit=km&radius=100&page=1&search=1",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "529aa568addd",
-      "title": "Summer Intern",
-      "company": "Westpac",
-      "location": "Sydney, Melbourne",
-      "salary": "",
-      "url": "https://www.westpac.com.au/about-westpac/careers/pathways/grad-program/summer-intern/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "b8ebb3fae61d",
-      "title": "IT Summer Intern",
-      "company": "Boeing",
-      "location": "Melbourne, Brisbane, Adelaide",
-      "salary": "",
-      "url": "https://au.prosple.com/graduate-employers/boeing-australia/jobs-internships/it-university-summer-internship",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "1787bb4051a6",
-      "title": "SWE Intern",
-      "company": "Aurecon",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.aurecongroup.com/careers/early-careers/intern-programme",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "39fa055f44a5",
-      "title": "Summer Intern",
-      "company": "UBS",
-      "location": "Sydney, Melbourne, Perth",
-      "salary": "",
-      "url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/summer-internship.html",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "dfc6a3e153ec",
-      "title": "Summer Intern (SWE, Data Science, Security)",
-      "company": "Canva",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://www.canva.com/newsroom/news/a-look-into-early-talent-at-canva/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "cd0882f9c19c",
-      "title": "SWE Intern",
-      "company": "Resonate Solutions",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://jobs.swagapp.com/AU/jobs/resonate-solutions-pty-limited-software-engineer-intern-open-to-both-part-time-and-full-time-candidates",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "50927d937b0b",
-      "title": "SWE Intern",
-      "company": "theTradeDesk",
-      "location": "Sydney",
-      "salary": "",
-      "url": "https://careers.thetradedesk.com/early-careers",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "c1b473c4518c",
-      "title": "NAB StarCamp (Bootcamp) & Emerging Tech Talent (Internship Rotations)",
-      "company": "Melbourne",
-      "location": "Must complete StarCamp to access Tech Talent Internship",
-      "salary": "",
-      "url": "https://www.nab.com.au/about-us/careers/early-careers/technology-talent-program",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "54f010eae96c",
-      "title": "SWE Intern",
-      "company": "Airwallex",
-      "location": "Melbourne, Sydney",
-      "salary": "",
-      "url": "https://careers.airwallex.com/job/5af58cf9-341b-4f29-bbf4-2623409d7640/2024-25-software-engineer-intern-program/",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "87e4924e73e1",
-      "title": "Engineering Vacationer",
-      "company": "KPMG",
-      "location": "National",
-      "salary": "",
-      "url": "https://jobs.smartrecruiters.com/ni/KPMGAustralia1/020188bd-86c7-457f-89b1-b086b90057ce-2025-technology-digital-engineering-campaign-vacationer?trid=28eb2d6d-65a4-43a6-82d0-20e7caa7ef29",
-      "source": "GitHub-AusJobs",
-      "posted_date": "2026-08-21T17:38:08Z",
-      "scraped_at": "2026-08-21T17:38:08Z"
-    },
-    {
-      "id": "e49746099e44",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T17:06:34Z",
-      "scraped_at": "2026-08-21T17:06:34Z"
-    },
-    {
-      "id": "1de9a5ab5f1a",
-      "title": "AI Engineering Lead",
-      "company": "OnHires",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineering-lead-at-onhires-4457376590",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T17:06:34Z",
-      "scraped_at": "2026-08-21T17:06:34Z"
-    },
-    {
       "id": "d9f0fc1cd963",
       "title": "AI Engineer (India, China)",
       "company": "Standard Chartered",
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T17:06:34Z",
+      "scraped_at": "2026-08-21T17:06:34Z"
+    },
+    {
+      "id": "71d2af4f6768",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T17:06:34Z",
       "scraped_at": "2026-08-21T17:06:34Z"
@@ -685,12 +762,23 @@
       "scraped_at": "2026-08-21T17:06:34Z"
     },
     {
-      "id": "71d2af4f6768",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "1de9a5ab5f1a",
+      "title": "AI Engineering Lead",
+      "company": "OnHires",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineering-lead-at-onhires-4457376590",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T17:06:34Z",
+      "scraped_at": "2026-08-21T17:06:34Z"
+    },
+    {
+      "id": "e49746099e44",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T17:06:34Z",
       "scraped_at": "2026-08-21T17:06:34Z"
@@ -806,12 +894,45 @@
       "scraped_at": "2026-08-21T16:44:06Z"
     },
     {
-      "id": "f45dc5e9f22c",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "089c527af1b8",
+      "title": "Risk & Analytics Quantitative Analyst",
+      "company": "BBVA Global Wealth Advisors",
+      "location": "Miami, FL",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T16:04:38Z",
+      "scraped_at": "2026-08-21T16:04:38Z"
+    },
+    {
+      "id": "6de947b5dc05",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T16:04:38Z",
+      "scraped_at": "2026-08-21T16:04:38Z"
+    },
+    {
+      "id": "2058046ce686",
+      "title": "Data Engineer - 6 month contract (remote)",
+      "company": "Print On Demand",
+      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-6-month-contract-remote-at-print-on-demand-4456387503",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T16:04:38Z",
+      "scraped_at": "2026-08-21T16:04:38Z"
+    },
+    {
+      "id": "e32b56fbf83d",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T16:04:38Z",
       "scraped_at": "2026-08-21T16:04:38Z"
@@ -839,45 +960,12 @@
       "scraped_at": "2026-08-21T16:04:38Z"
     },
     {
-      "id": "089c527af1b8",
-      "title": "Risk & Analytics Quantitative Analyst",
-      "company": "BBVA Global Wealth Advisors",
-      "location": "Miami, FL",
+      "id": "f45dc5e9f22c",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T16:04:38Z",
-      "scraped_at": "2026-08-21T16:04:38Z"
-    },
-    {
-      "id": "e32b56fbf83d",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T16:04:38Z",
-      "scraped_at": "2026-08-21T16:04:38Z"
-    },
-    {
-      "id": "2058046ce686",
-      "title": "Data Engineer - 6 month contract (remote)",
-      "company": "Print On Demand",
-      "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-6-month-contract-remote-at-print-on-demand-4456387503",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T16:04:38Z",
-      "scraped_at": "2026-08-21T16:04:38Z"
-    },
-    {
-      "id": "6de947b5dc05",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T16:04:38Z",
       "scraped_at": "2026-08-21T16:04:38Z"
@@ -993,17 +1081,6 @@
       "scraped_at": "2026-08-21T15:42:54Z"
     },
     {
-      "id": "6755bed0c8a2",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T15:05:33Z",
-      "scraped_at": "2026-08-21T15:05:33Z"
-    },
-    {
       "id": "8b7a8b3d69e0",
       "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
       "company": "IgniteTech",
@@ -1032,6 +1109,17 @@
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T15:05:33Z",
+      "scraped_at": "2026-08-21T15:05:33Z"
+    },
+    {
+      "id": "6755bed0c8a2",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T15:05:33Z",
       "scraped_at": "2026-08-21T15:05:33Z"
@@ -1147,45 +1235,12 @@
       "scraped_at": "2026-08-21T14:32:57Z"
     },
     {
-      "id": "d4fb2d0e26c5",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T13:59:07Z",
-      "scraped_at": "2026-08-21T13:59:07Z"
-    },
-    {
-      "id": "ae366f84f808",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T13:59:07Z",
-      "scraped_at": "2026-08-21T13:59:07Z"
-    },
-    {
       "id": "c2411f521b15",
       "title": "Data Engineer - 6 month contract (remote)",
       "company": "Print On Demand",
       "location": "Nzalae/ Nzawa locations, Kitui County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-engineer-6-month-contract-remote-at-print-on-demand-4456387503",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T13:59:07Z",
-      "scraped_at": "2026-08-21T13:59:07Z"
-    },
-    {
-      "id": "95c33c317153",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T13:59:07Z",
       "scraped_at": "2026-08-21T13:59:07Z"
@@ -1202,12 +1257,45 @@
       "scraped_at": "2026-08-21T13:59:07Z"
     },
     {
+      "id": "95c33c317153",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T13:59:07Z",
+      "scraped_at": "2026-08-21T13:59:07Z"
+    },
+    {
       "id": "15d2431557dd",
       "title": "AI Engineer (India, China)",
       "company": "Standard Chartered",
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T13:59:07Z",
+      "scraped_at": "2026-08-21T13:59:07Z"
+    },
+    {
+      "id": "ae366f84f808",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T13:59:07Z",
+      "scraped_at": "2026-08-21T13:59:07Z"
+    },
+    {
+      "id": "d4fb2d0e26c5",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T13:59:07Z",
       "scraped_at": "2026-08-21T13:59:07Z"
@@ -1222,6 +1310,28 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-21T13:59:06Z",
       "scraped_at": "2026-08-21T13:59:06Z"
+    },
+    {
+      "id": "612d9e3a6559",
+      "title": "Front Office Applied AI Engineer – Global Markets Distribution",
+      "company": "Ruri Software Technologies LLC",
+      "location": "Grand Central, Manhattan",
+      "salary": "$167,886 - $167,886",
+      "url": "https://www.adzuna.com/land/ad/5851396011?se=cmZSN4qd8RGU6LIjyaRnwA&utm_medium=api&utm_source=3f1b011b&v=CC8E6F6AEBE71C6D1D9D0E91C29847F525F5E1C3",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T13:43:24Z",
+      "scraped_at": "2026-08-21T18:00:40Z"
+    },
+    {
+      "id": "1eb77b1958c6",
+      "title": "Front Office Applied AI Engineer – Global Markets Distribution",
+      "company": "Ruri Software Technologies LLC",
+      "location": "Grand Central, Manhattan",
+      "salary": "$167,886 - $167,886",
+      "url": "https://www.adzuna.com/land/ad/5851396011?se=ChdTOYqd8RGU6LIjyaRnwA&utm_medium=api&utm_source=3f1b011b&v=CC8E6F6AEBE71C6D1D9D0E91C29847F525F5E1C3",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T13:43:24Z",
+      "scraped_at": "2026-08-21T18:00:43Z"
     },
     {
       "id": "294272dd157a",
@@ -1290,23 +1400,23 @@
       "scraped_at": "2026-08-21T13:15:31Z"
     },
     {
-      "id": "ccb312c16574",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T13:15:30Z",
-      "scraped_at": "2026-08-21T13:15:30Z"
-    },
-    {
       "id": "0aff36199029",
       "title": "Software Engineer, Micro Platforms (Remote)",
       "company": "Hire Feed",
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hire-feed-4457054498",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T13:15:30Z",
+      "scraped_at": "2026-08-21T13:15:30Z"
+    },
+    {
+      "id": "ccb312c16574",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T13:15:30Z",
       "scraped_at": "2026-08-21T13:15:30Z"
@@ -1400,6 +1510,28 @@
       "scraped_at": "2026-08-21T12:20:18Z"
     },
     {
+      "id": "6c83c24b880f",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T11:55:24Z",
+      "scraped_at": "2026-08-21T11:55:24Z"
+    },
+    {
+      "id": "e43a48f5ad5c",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T11:55:24Z",
+      "scraped_at": "2026-08-21T11:55:24Z"
+    },
+    {
       "id": "7f088b391af4",
       "title": "Data Scientist (Fraud)",
       "company": "Moniepoint Group",
@@ -1417,28 +1549,6 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T11:55:24Z",
-      "scraped_at": "2026-08-21T11:55:24Z"
-    },
-    {
-      "id": "e43a48f5ad5c",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T11:55:24Z",
-      "scraped_at": "2026-08-21T11:55:24Z"
-    },
-    {
-      "id": "6c83c24b880f",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T11:55:24Z",
       "scraped_at": "2026-08-21T11:55:24Z"
@@ -1587,26 +1697,15 @@
       "scraped_at": "2026-08-21T17:38:23Z"
     },
     {
-      "id": "ebdb0414a1f9",
+      "id": "75ca1498e611",
       "title": "100% REMOTE: Site Reliability Engineer (SRE) Observability & Monitoring",
       "company": "Parmesoft Inc.",
       "location": "US",
       "salary": "$122,673 - $122,673",
-      "url": "https://www.adzuna.com/land/ad/5851234074?se=pDNSmoKd8RGfQpohglHoaw&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
+      "url": "https://www.adzuna.com/land/ad/5851234074?se=wpgDfX-d8RGSb8VpDRDiVA&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
       "source": "Adzuna-US",
       "posted_date": "2026-08-21T11:44:43Z",
-      "scraped_at": "2026-08-21T17:06:08Z"
-    },
-    {
-      "id": "f4cf47297f75",
-      "title": "100% REMOTE: Site Reliability Engineer (SRE) Observability & Monitoring",
-      "company": "Parmesoft Inc.",
-      "location": "US",
-      "salary": "$122,673 - $122,673",
-      "url": "https://www.adzuna.com/land/ad/5851234074?se=6ID9HIed8RG_iPUM3zOH1A&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T11:44:43Z",
-      "scraped_at": "2026-08-21T17:38:26Z"
+      "scraped_at": "2026-08-21T16:43:51Z"
     },
     {
       "id": "8329dab31c5d",
@@ -1620,15 +1719,26 @@
       "scraped_at": "2026-08-21T16:03:56Z"
     },
     {
-      "id": "75ca1498e611",
+      "id": "f4cf47297f75",
       "title": "100% REMOTE: Site Reliability Engineer (SRE) Observability & Monitoring",
       "company": "Parmesoft Inc.",
       "location": "US",
       "salary": "$122,673 - $122,673",
-      "url": "https://www.adzuna.com/land/ad/5851234074?se=wpgDfX-d8RGSb8VpDRDiVA&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
+      "url": "https://www.adzuna.com/land/ad/5851234074?se=6ID9HIed8RG_iPUM3zOH1A&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
       "source": "Adzuna-US",
       "posted_date": "2026-08-21T11:44:43Z",
-      "scraped_at": "2026-08-21T16:43:51Z"
+      "scraped_at": "2026-08-21T17:38:26Z"
+    },
+    {
+      "id": "ebdb0414a1f9",
+      "title": "100% REMOTE: Site Reliability Engineer (SRE) Observability & Monitoring",
+      "company": "Parmesoft Inc.",
+      "location": "US",
+      "salary": "$122,673 - $122,673",
+      "url": "https://www.adzuna.com/land/ad/5851234074?se=pDNSmoKd8RGfQpohglHoaw&utm_medium=api&utm_source=3f1b011b&v=2B04E07A1FB4BB67014D0C53BDCD34EC048E0844",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T11:44:43Z",
+      "scraped_at": "2026-08-21T17:06:08Z"
     },
     {
       "id": "3d1255d8bf20",
@@ -1994,23 +2104,23 @@
       "scraped_at": "2026-08-21T11:03:50Z"
     },
     {
-      "id": "2b35545f25df",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T11:03:48Z",
-      "scraped_at": "2026-08-21T11:03:48Z"
-    },
-    {
       "id": "f0beca560be9",
       "title": "Software Engineer, Micro Platforms (Remote)",
       "company": "Hire Feed",
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hire-feed-4457054498",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T11:03:48Z",
+      "scraped_at": "2026-08-21T11:03:48Z"
+    },
+    {
+      "id": "2b35545f25df",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T11:03:48Z",
       "scraped_at": "2026-08-21T11:03:48Z"
@@ -2093,23 +2203,23 @@
       "scraped_at": "2026-08-21T10:42:17Z"
     },
     {
-      "id": "001bd3fca4f8",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T10:42:16Z",
-      "scraped_at": "2026-08-21T10:42:16Z"
-    },
-    {
       "id": "78a2c5e902c2",
       "title": "Software Engineer, Micro Platforms (Remote)",
       "company": "Hire Feed",
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hire-feed-4457054498",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T10:42:16Z",
+      "scraped_at": "2026-08-21T10:42:16Z"
+    },
+    {
+      "id": "001bd3fca4f8",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T10:42:16Z",
       "scraped_at": "2026-08-21T10:42:16Z"
@@ -2709,188 +2819,12 @@
       "scraped_at": "2026-08-21T12:20:05Z"
     },
     {
-      "id": "a1dcdc4e27f9",
+      "id": "29d652b18750",
       "title": "Recent Graduates – Remote Sales Opportunity",
       "company": "Reid Agency",
-      "location": "Fresno, Fresno County",
-      "salary": "$149,098 - $149,098",
-      "url": "https://www.adzuna.com/details/5850959607?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "e1d64e9676d6",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Manhattan, Will County",
-      "salary": "$138,090 - $138,090",
-      "url": "https://www.adzuna.com/details/5850959637?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "f5352c4d9610",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Auburn, Lee County",
-      "salary": "$140,385 - $140,385",
-      "url": "https://www.adzuna.com/details/5850959658?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "da3c4e4925b8",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Corvallis, Ravalli County",
-      "salary": "$150,976 - $150,976",
-      "url": "https://www.adzuna.com/details/5850959600?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "f1297374cc0f",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Denton, Denton County",
-      "salary": "$142,097 - $142,097",
-      "url": "https://www.adzuna.com/details/5850959638?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "c301020f299d",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Bowling Green, Hardee County",
-      "salary": "$138,877 - $138,877",
-      "url": "https://www.adzuna.com/details/5850959690?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:33:18Z"
-    },
-    {
-      "id": "9650377d6a1b",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Fayetteville, Washington County",
-      "salary": "$141,893 - $141,893",
-      "url": "https://www.adzuna.com/details/5850959622?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:33:18Z"
-    },
-    {
-      "id": "7c306c17b34a",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "San Luis Obispo, San Luis Obispo County",
-      "salary": "$147,524 - $147,524",
-      "url": "https://www.adzuna.com/details/5850959612?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T12:20:05Z"
-    },
-    {
-      "id": "ed9dc558f8f9",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Stillwater, Washington County",
-      "salary": "$144,361 - $144,361",
-      "url": "https://www.adzuna.com/details/5850959625?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T12:20:05Z"
-    },
-    {
-      "id": "f63fdf35c5ca",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Moscow, Latah County",
-      "salary": "$138,116 - $138,116",
-      "url": "https://www.adzuna.com/details/5850959630?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "af1182741ffe",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Hattiesburg, Forrest County",
-      "salary": "$141,881 - $141,881",
-      "url": "https://www.adzuna.com/details/5850959648?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "4ff907027552",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Tempe, Maricopa County",
-      "salary": "$154,316 - $154,316",
-      "url": "https://www.adzuna.com/details/5850959663?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T12:20:05Z"
-    },
-    {
-      "id": "293c29af3866",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Santa Barbara, Santa Barbara County",
-      "salary": "$147,200 - $147,200",
-      "url": "https://www.adzuna.com/details/5850959608?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "ab07eef3c2b0",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Charlottesville, Hancock County",
-      "salary": "$136,163 - $136,163",
-      "url": "https://www.adzuna.com/details/5850959666?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:33:18Z"
-    },
-    {
-      "id": "3ad9655f3793",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Athens, Athens County",
-      "salary": "$137,965 - $137,965",
-      "url": "https://www.adzuna.com/details/5850959645?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "1774668fc72a",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Blacksburg, Cherokee County",
-      "salary": "$134,425 - $134,425",
-      "url": "https://www.adzuna.com/details/5850959656?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-21T07:19:47Z",
-      "scraped_at": "2026-08-21T11:54:55Z"
-    },
-    {
-      "id": "2f29cbd03fbc",
-      "title": "Recent Graduates – Remote Sales Opportunity",
-      "company": "Reid Agency",
-      "location": "Reno, Clark County",
-      "salary": "$133,109 - $133,109",
-      "url": "https://www.adzuna.com/details/5850959643?utm_medium=api&utm_source=3f1b011b",
+      "location": "Laramie, Albany County",
+      "salary": "$123,141 - $123,141",
+      "url": "https://www.adzuna.com/details/5850959606?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-08-21T07:19:47Z",
       "scraped_at": "2026-08-21T11:33:18Z"
@@ -2907,15 +2841,191 @@
       "scraped_at": "2026-08-21T11:54:55Z"
     },
     {
-      "id": "29d652b18750",
+      "id": "2f29cbd03fbc",
       "title": "Recent Graduates – Remote Sales Opportunity",
       "company": "Reid Agency",
-      "location": "Laramie, Albany County",
-      "salary": "$123,141 - $123,141",
-      "url": "https://www.adzuna.com/details/5850959606?utm_medium=api&utm_source=3f1b011b",
+      "location": "Reno, Clark County",
+      "salary": "$133,109 - $133,109",
+      "url": "https://www.adzuna.com/details/5850959643?utm_medium=api&utm_source=3f1b011b",
       "source": "Adzuna-US",
       "posted_date": "2026-08-21T07:19:47Z",
       "scraped_at": "2026-08-21T11:33:18Z"
+    },
+    {
+      "id": "1774668fc72a",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Blacksburg, Cherokee County",
+      "salary": "$134,425 - $134,425",
+      "url": "https://www.adzuna.com/details/5850959656?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "af1182741ffe",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Hattiesburg, Forrest County",
+      "salary": "$141,881 - $141,881",
+      "url": "https://www.adzuna.com/details/5850959648?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "3ad9655f3793",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Athens, Athens County",
+      "salary": "$137,965 - $137,965",
+      "url": "https://www.adzuna.com/details/5850959645?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "ab07eef3c2b0",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Charlottesville, Hancock County",
+      "salary": "$136,163 - $136,163",
+      "url": "https://www.adzuna.com/details/5850959666?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:33:18Z"
+    },
+    {
+      "id": "293c29af3866",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Santa Barbara, Santa Barbara County",
+      "salary": "$147,200 - $147,200",
+      "url": "https://www.adzuna.com/details/5850959608?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "4ff907027552",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Tempe, Maricopa County",
+      "salary": "$154,316 - $154,316",
+      "url": "https://www.adzuna.com/details/5850959663?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T12:20:05Z"
+    },
+    {
+      "id": "f1297374cc0f",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Denton, Denton County",
+      "salary": "$142,097 - $142,097",
+      "url": "https://www.adzuna.com/details/5850959638?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "f63fdf35c5ca",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Moscow, Latah County",
+      "salary": "$138,116 - $138,116",
+      "url": "https://www.adzuna.com/details/5850959630?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "ed9dc558f8f9",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Stillwater, Washington County",
+      "salary": "$144,361 - $144,361",
+      "url": "https://www.adzuna.com/details/5850959625?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T12:20:05Z"
+    },
+    {
+      "id": "7c306c17b34a",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "San Luis Obispo, San Luis Obispo County",
+      "salary": "$147,524 - $147,524",
+      "url": "https://www.adzuna.com/details/5850959612?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T12:20:05Z"
+    },
+    {
+      "id": "9650377d6a1b",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Fayetteville, Washington County",
+      "salary": "$141,893 - $141,893",
+      "url": "https://www.adzuna.com/details/5850959622?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:33:18Z"
+    },
+    {
+      "id": "c301020f299d",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Bowling Green, Hardee County",
+      "salary": "$138,877 - $138,877",
+      "url": "https://www.adzuna.com/details/5850959690?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:33:18Z"
+    },
+    {
+      "id": "da3c4e4925b8",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Corvallis, Ravalli County",
+      "salary": "$150,976 - $150,976",
+      "url": "https://www.adzuna.com/details/5850959600?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "f5352c4d9610",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Auburn, Lee County",
+      "salary": "$140,385 - $140,385",
+      "url": "https://www.adzuna.com/details/5850959658?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "e1d64e9676d6",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Manhattan, Will County",
+      "salary": "$138,090 - $138,090",
+      "url": "https://www.adzuna.com/details/5850959637?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
+    },
+    {
+      "id": "a1dcdc4e27f9",
+      "title": "Recent Graduates – Remote Sales Opportunity",
+      "company": "Reid Agency",
+      "location": "Fresno, Fresno County",
+      "salary": "$149,098 - $149,098",
+      "url": "https://www.adzuna.com/details/5850959607?utm_medium=api&utm_source=3f1b011b",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-21T07:19:47Z",
+      "scraped_at": "2026-08-21T11:54:55Z"
     },
     {
       "id": "0421cc973604",
@@ -2938,28 +3048,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-21T07:02:48Z",
       "scraped_at": "2026-08-21T07:02:48Z"
-    },
-    {
-      "id": "52ea97f7d18e",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T07:02:47Z",
-      "scraped_at": "2026-08-21T07:02:47Z"
-    },
-    {
-      "id": "c3d2fe518ac7",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T07:02:47Z",
-      "scraped_at": "2026-08-21T07:02:47Z"
     },
     {
       "id": "43e3d669ba09",
@@ -2990,6 +3078,28 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T07:02:47Z",
+      "scraped_at": "2026-08-21T07:02:47Z"
+    },
+    {
+      "id": "c3d2fe518ac7",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T07:02:47Z",
+      "scraped_at": "2026-08-21T07:02:47Z"
+    },
+    {
+      "id": "52ea97f7d18e",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T07:02:47Z",
       "scraped_at": "2026-08-21T07:02:47Z"
@@ -3072,12 +3182,34 @@
       "scraped_at": "2026-08-21T06:06:33Z"
     },
     {
-      "id": "a0ae3dd8bb72",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
+      "id": "24007c2076c4",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T06:06:32Z",
+      "scraped_at": "2026-08-21T06:06:32Z"
+    },
+    {
+      "id": "b6e050e8830d",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T06:06:32Z",
+      "scraped_at": "2026-08-21T06:06:32Z"
+    },
+    {
+      "id": "3d0d51c5febf",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T06:06:32Z",
       "scraped_at": "2026-08-21T06:06:32Z"
@@ -3105,34 +3237,12 @@
       "scraped_at": "2026-08-21T06:06:32Z"
     },
     {
-      "id": "24007c2076c4",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
+      "id": "a0ae3dd8bb72",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T06:06:32Z",
-      "scraped_at": "2026-08-21T06:06:32Z"
-    },
-    {
-      "id": "3d0d51c5febf",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T06:06:32Z",
-      "scraped_at": "2026-08-21T06:06:32Z"
-    },
-    {
-      "id": "b6e050e8830d",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T06:06:32Z",
       "scraped_at": "2026-08-21T06:06:32Z"
@@ -3171,23 +3281,23 @@
       "scraped_at": "2026-08-21T06:06:28Z"
     },
     {
-      "id": "6705427e7040",
-      "title": "Software Engineer - E-Commerce (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T06:06:27Z",
-      "scraped_at": "2026-08-21T06:06:27Z"
-    },
-    {
       "id": "c9b290bfddc9",
       "title": "Software Engineer, Micro Platforms (Remote)",
       "company": "Hire Feed",
       "location": "United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/software-engineer-micro-platforms-remote-at-hire-feed-4457054498",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T06:06:27Z",
+      "scraped_at": "2026-08-21T06:06:27Z"
+    },
+    {
+      "id": "6705427e7040",
+      "title": "Software Engineer - E-Commerce (Remote)",
+      "company": "Hire Feed",
+      "location": "United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4457054435",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T06:06:27Z",
       "scraped_at": "2026-08-21T06:06:27Z"
@@ -3226,39 +3336,6 @@
       "scraped_at": "2026-08-21T05:45:15Z"
     },
     {
-      "id": "c548e3b94383",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T05:45:14Z",
-      "scraped_at": "2026-08-21T05:45:14Z"
-    },
-    {
-      "id": "d034446a51db",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T05:45:14Z",
-      "scraped_at": "2026-08-21T05:45:14Z"
-    },
-    {
-      "id": "5f7fea089f97",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T05:45:14Z",
-      "scraped_at": "2026-08-21T05:45:14Z"
-    },
-    {
       "id": "11709688ebca",
       "title": "AI Engineer (India, China)",
       "company": "Standard Chartered",
@@ -3287,6 +3364,39 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T05:45:14Z",
+      "scraped_at": "2026-08-21T05:45:14Z"
+    },
+    {
+      "id": "5f7fea089f97",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T05:45:14Z",
+      "scraped_at": "2026-08-21T05:45:14Z"
+    },
+    {
+      "id": "d034446a51db",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T05:45:14Z",
+      "scraped_at": "2026-08-21T05:45:14Z"
+    },
+    {
+      "id": "c548e3b94383",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T05:45:14Z",
       "scraped_at": "2026-08-21T05:45:14Z"
@@ -3347,34 +3457,12 @@
       "scraped_at": "2026-08-21T05:08:35Z"
     },
     {
-      "id": "83b4191a2e49",
-      "title": "Risk & Analytics Quantitative Analyst",
-      "company": "BBVA Global Wealth Advisors",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T05:08:34Z",
-      "scraped_at": "2026-08-21T05:08:34Z"
-    },
-    {
-      "id": "2a3c5cd2b835",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T05:08:34Z",
-      "scraped_at": "2026-08-21T05:08:34Z"
-    },
-    {
-      "id": "c86ff3d72581",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
+      "id": "9ad5e56c74ea",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T05:08:34Z",
       "scraped_at": "2026-08-21T05:08:34Z"
@@ -3402,12 +3490,34 @@
       "scraped_at": "2026-08-21T05:08:34Z"
     },
     {
-      "id": "9ad5e56c74ea",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
+      "id": "2a3c5cd2b835",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T05:08:34Z",
+      "scraped_at": "2026-08-21T05:08:34Z"
+    },
+    {
+      "id": "c86ff3d72581",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T05:08:34Z",
+      "scraped_at": "2026-08-21T05:08:34Z"
+    },
+    {
+      "id": "83b4191a2e49",
+      "title": "Risk & Analytics Quantitative Analyst",
+      "company": "BBVA Global Wealth Advisors",
+      "location": "Miami, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T05:08:34Z",
       "scraped_at": "2026-08-21T05:08:34Z"
@@ -3479,12 +3589,34 @@
       "scraped_at": "2026-08-21T09:44:23Z"
     },
     {
-      "id": "b14da99a02f6",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
+      "id": "63465b42e1f6",
+      "title": "Machine Learning Engineer",
+      "company": "CSI GLOBAL LTD",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T04:39:00Z",
+      "scraped_at": "2026-08-21T04:39:00Z"
+    },
+    {
+      "id": "1b90ebf8d4ee",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T04:39:00Z",
+      "scraped_at": "2026-08-21T04:39:00Z"
+    },
+    {
+      "id": "ed2e1735a8fd",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T04:39:00Z",
       "scraped_at": "2026-08-21T04:39:00Z"
@@ -3512,34 +3644,12 @@
       "scraped_at": "2026-08-21T04:39:00Z"
     },
     {
-      "id": "63465b42e1f6",
-      "title": "Machine Learning Engineer",
-      "company": "CSI GLOBAL LTD",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T04:39:00Z",
-      "scraped_at": "2026-08-21T04:39:00Z"
-    },
-    {
-      "id": "ed2e1735a8fd",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "b14da99a02f6",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T04:39:00Z",
-      "scraped_at": "2026-08-21T04:39:00Z"
-    },
-    {
-      "id": "1b90ebf8d4ee",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T04:39:00Z",
       "scraped_at": "2026-08-21T04:39:00Z"
@@ -3567,45 +3677,23 @@
       "scraped_at": "2026-08-21T04:38:56Z"
     },
     {
-      "id": "bde19b22b9ed",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T04:00:57Z",
-      "scraped_at": "2026-08-21T04:00:57Z"
-    },
-    {
-      "id": "63866d20a390",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T04:00:57Z",
-      "scraped_at": "2026-08-21T04:00:57Z"
-    },
-    {
-      "id": "1c8872ba9cae",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T04:00:57Z",
-      "scraped_at": "2026-08-21T04:00:57Z"
-    },
-    {
       "id": "7d5b13b1d65e",
       "title": "Data Scientist (Fraud)",
       "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T04:00:57Z",
+      "scraped_at": "2026-08-21T04:00:57Z"
+    },
+    {
+      "id": "25bfbb3a84ef",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T04:00:57Z",
       "scraped_at": "2026-08-21T04:00:57Z"
@@ -3622,12 +3710,34 @@
       "scraped_at": "2026-08-21T04:00:57Z"
     },
     {
-      "id": "25bfbb3a84ef",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
+      "id": "bde19b22b9ed",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T04:00:57Z",
+      "scraped_at": "2026-08-21T04:00:57Z"
+    },
+    {
+      "id": "1c8872ba9cae",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T04:00:57Z",
+      "scraped_at": "2026-08-21T04:00:57Z"
+    },
+    {
+      "id": "63866d20a390",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T04:00:57Z",
       "scraped_at": "2026-08-21T04:00:57Z"
@@ -3831,34 +3941,12 @@
       "scraped_at": "2026-08-21T02:10:58Z"
     },
     {
-      "id": "db87271acc25",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T02:10:57Z",
-      "scraped_at": "2026-08-21T02:10:57Z"
-    },
-    {
-      "id": "55ebefb900c1",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "59d9c7935bc9",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T02:10:57Z",
-      "scraped_at": "2026-08-21T02:10:57Z"
-    },
-    {
-      "id": "174cbbd0bd1c",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T02:10:57Z",
       "scraped_at": "2026-08-21T02:10:57Z"
@@ -3875,12 +3963,34 @@
       "scraped_at": "2026-08-21T02:10:57Z"
     },
     {
-      "id": "59d9c7935bc9",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
+      "id": "174cbbd0bd1c",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T02:10:57Z",
+      "scraped_at": "2026-08-21T02:10:57Z"
+    },
+    {
+      "id": "55ebefb900c1",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T02:10:57Z",
+      "scraped_at": "2026-08-21T02:10:57Z"
+    },
+    {
+      "id": "db87271acc25",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T02:10:57Z",
       "scraped_at": "2026-08-21T02:10:57Z"
@@ -4018,45 +4128,12 @@
       "scraped_at": "2026-08-21T00:35:35Z"
     },
     {
-      "id": "fb137fe5e8c6",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
+      "id": "d2a7c7aa7af4",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T00:35:34Z",
-      "scraped_at": "2026-08-21T00:35:34Z"
-    },
-    {
-      "id": "663088b23920",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T00:35:34Z",
-      "scraped_at": "2026-08-21T00:35:34Z"
-    },
-    {
-      "id": "3cd3ec0f687b",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-21T00:35:34Z",
-      "scraped_at": "2026-08-21T00:35:34Z"
-    },
-    {
-      "id": "145ba0bf8f74",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T00:35:34Z",
       "scraped_at": "2026-08-21T00:35:34Z"
@@ -4073,12 +4150,45 @@
       "scraped_at": "2026-08-21T00:35:34Z"
     },
     {
-      "id": "d2a7c7aa7af4",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
+      "id": "145ba0bf8f74",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T00:35:34Z",
+      "scraped_at": "2026-08-21T00:35:34Z"
+    },
+    {
+      "id": "3cd3ec0f687b",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T00:35:34Z",
+      "scraped_at": "2026-08-21T00:35:34Z"
+    },
+    {
+      "id": "663088b23920",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-21T00:35:34Z",
+      "scraped_at": "2026-08-21T00:35:34Z"
+    },
+    {
+      "id": "fb137fe5e8c6",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-21T00:35:34Z",
       "scraped_at": "2026-08-21T00:35:34Z"
@@ -4117,6 +4227,61 @@
       "scraped_at": "2026-08-21T05:08:11Z"
     },
     {
+      "id": "ea4c0a558a9b",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:55:34Z",
+      "scraped_at": "2026-08-20T23:55:34Z"
+    },
+    {
+      "id": "8420e0e209fe",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:55:34Z",
+      "scraped_at": "2026-08-20T23:55:34Z"
+    },
+    {
+      "id": "55d4e49484cb",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:55:34Z",
+      "scraped_at": "2026-08-20T23:55:34Z"
+    },
+    {
+      "id": "38a1f240c9f5",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:55:34Z",
+      "scraped_at": "2026-08-20T23:55:34Z"
+    },
+    {
+      "id": "eb1f7ec29800",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:55:34Z",
+      "scraped_at": "2026-08-20T23:55:34Z"
+    },
+    {
       "id": "9befeaf4ab0b",
       "title": "Data Engineer",
       "company": "CloudFactory",
@@ -4134,61 +4299,6 @@
       "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
       "salary": "",
       "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:55:34Z",
-      "scraped_at": "2026-08-20T23:55:34Z"
-    },
-    {
-      "id": "eb1f7ec29800",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:55:34Z",
-      "scraped_at": "2026-08-20T23:55:34Z"
-    },
-    {
-      "id": "38a1f240c9f5",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:55:34Z",
-      "scraped_at": "2026-08-20T23:55:34Z"
-    },
-    {
-      "id": "55d4e49484cb",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:55:34Z",
-      "scraped_at": "2026-08-20T23:55:34Z"
-    },
-    {
-      "id": "8420e0e209fe",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:55:34Z",
-      "scraped_at": "2026-08-20T23:55:34Z"
-    },
-    {
-      "id": "ea4c0a558a9b",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T23:55:34Z",
       "scraped_at": "2026-08-20T23:55:34Z"
@@ -4249,17 +4359,6 @@
       "scraped_at": "2026-08-20T23:55:29Z"
     },
     {
-      "id": "67020e0042ed",
-      "title": "Principal Application Software Engineer (Oracle Health REMOTE)",
-      "company": "Oracle",
-      "location": "Cedar, Cole County",
-      "salary": "$182,718 - $182,718",
-      "url": "https://www.adzuna.com/land/ad/5850466344?se=cgJoMhqd8RGxXYNxRrq1QQ&utm_medium=api&utm_source=3f1b011b&v=FB546F6B6A2E4D85F38D0D01854F78615F435198",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-20T23:41:08Z",
-      "scraped_at": "2026-08-21T04:38:46Z"
-    },
-    {
       "id": "7a9bdcb028b1",
       "title": "Principal Application Software Engineer (Oracle Health REMOTE)",
       "company": "Oracle",
@@ -4269,6 +4368,17 @@
       "source": "Adzuna-US",
       "posted_date": "2026-08-20T23:41:08Z",
       "scraped_at": "2026-08-21T05:08:16Z"
+    },
+    {
+      "id": "67020e0042ed",
+      "title": "Principal Application Software Engineer (Oracle Health REMOTE)",
+      "company": "Oracle",
+      "location": "Cedar, Cole County",
+      "salary": "$182,718 - $182,718",
+      "url": "https://www.adzuna.com/land/ad/5850466344?se=cgJoMhqd8RGxXYNxRrq1QQ&utm_medium=api&utm_source=3f1b011b&v=FB546F6B6A2E4D85F38D0D01854F78615F435198",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-20T23:41:08Z",
+      "scraped_at": "2026-08-21T04:38:46Z"
     },
     {
       "id": "343222156cfd",
@@ -4326,34 +4436,12 @@
       "scraped_at": "2026-08-20T23:37:29Z"
     },
     {
-      "id": "5a1da9ae4072",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
+      "id": "b8593bdae917",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:37:28Z",
-      "scraped_at": "2026-08-20T23:37:28Z"
-    },
-    {
-      "id": "219f58c7096b",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:37:28Z",
-      "scraped_at": "2026-08-20T23:37:28Z"
-    },
-    {
-      "id": "842d21b0a399",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T23:37:28Z",
       "scraped_at": "2026-08-20T23:37:28Z"
@@ -4370,12 +4458,34 @@
       "scraped_at": "2026-08-20T23:37:28Z"
     },
     {
-      "id": "b8593bdae917",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "842d21b0a399",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:37:28Z",
+      "scraped_at": "2026-08-20T23:37:28Z"
+    },
+    {
+      "id": "219f58c7096b",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:37:28Z",
+      "scraped_at": "2026-08-20T23:37:28Z"
+    },
+    {
+      "id": "5a1da9ae4072",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T23:37:28Z",
       "scraped_at": "2026-08-20T23:37:28Z"
@@ -4524,39 +4634,6 @@
       "scraped_at": "2026-08-20T23:10:50Z"
     },
     {
-      "id": "982a177dfed2",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:10:49Z",
-      "scraped_at": "2026-08-20T23:10:49Z"
-    },
-    {
-      "id": "36ae5f1351c5",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:10:49Z",
-      "scraped_at": "2026-08-20T23:10:49Z"
-    },
-    {
-      "id": "12ebccf124cc",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T23:10:49Z",
-      "scraped_at": "2026-08-20T23:10:49Z"
-    },
-    {
       "id": "8b9980bf9194",
       "title": "AI Engineer (2+ years of Experience)",
       "company": "RocketDevs",
@@ -4574,6 +4651,39 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:10:49Z",
+      "scraped_at": "2026-08-20T23:10:49Z"
+    },
+    {
+      "id": "982a177dfed2",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:10:49Z",
+      "scraped_at": "2026-08-20T23:10:49Z"
+    },
+    {
+      "id": "12ebccf124cc",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T23:10:49Z",
+      "scraped_at": "2026-08-20T23:10:49Z"
+    },
+    {
+      "id": "36ae5f1351c5",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T23:10:49Z",
       "scraped_at": "2026-08-20T23:10:49Z"
@@ -4722,45 +4832,12 @@
       "scraped_at": "2026-08-20T22:49:19Z"
     },
     {
-      "id": "394b215cb486",
-      "title": "Risk & Analytics Quantitative Analyst",
-      "company": "BBVA Global Wealth Advisors",
-      "location": "Miami, FL",
+      "id": "86164988e37b",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
       "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T22:49:18Z",
-      "scraped_at": "2026-08-20T22:49:18Z"
-    },
-    {
-      "id": "48d47a5e8c20",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T22:49:18Z",
-      "scraped_at": "2026-08-20T22:49:18Z"
-    },
-    {
-      "id": "866fd5750a6b",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T22:49:18Z",
-      "scraped_at": "2026-08-20T22:49:18Z"
-    },
-    {
-      "id": "0221c9b74f12",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T22:49:18Z",
       "scraped_at": "2026-08-20T22:49:18Z"
@@ -4777,12 +4854,45 @@
       "scraped_at": "2026-08-20T22:49:18Z"
     },
     {
-      "id": "86164988e37b",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
+      "id": "0221c9b74f12",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T22:49:18Z",
+      "scraped_at": "2026-08-20T22:49:18Z"
+    },
+    {
+      "id": "866fd5750a6b",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T22:49:18Z",
+      "scraped_at": "2026-08-20T22:49:18Z"
+    },
+    {
+      "id": "48d47a5e8c20",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T22:49:18Z",
+      "scraped_at": "2026-08-20T22:49:18Z"
+    },
+    {
+      "id": "394b215cb486",
+      "title": "Risk & Analytics Quantitative Analyst",
+      "company": "BBVA Global Wealth Advisors",
+      "location": "Miami, FL",
+      "salary": "",
+      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T22:49:18Z",
       "scraped_at": "2026-08-20T22:49:18Z"
@@ -5074,45 +5184,23 @@
       "scraped_at": "2026-08-20T21:37:03Z"
     },
     {
-      "id": "1852b48e1a2f",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:37:02Z",
-      "scraped_at": "2026-08-20T21:37:02Z"
-    },
-    {
-      "id": "c9800c63d944",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:37:02Z",
-      "scraped_at": "2026-08-20T21:37:02Z"
-    },
-    {
-      "id": "a3a19b11e9f2",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:37:02Z",
-      "scraped_at": "2026-08-20T21:37:02Z"
-    },
-    {
       "id": "9d23904da294",
       "title": "AI Engineer (India, China)",
       "company": "Standard Chartered",
       "location": "Technology, Nakuru, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:37:02Z",
+      "scraped_at": "2026-08-20T21:37:02Z"
+    },
+    {
+      "id": "f474630912e3",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T21:37:02Z",
       "scraped_at": "2026-08-20T21:37:02Z"
@@ -5129,12 +5217,34 @@
       "scraped_at": "2026-08-20T21:37:02Z"
     },
     {
-      "id": "f474630912e3",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
+      "id": "a3a19b11e9f2",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:37:02Z",
+      "scraped_at": "2026-08-20T21:37:02Z"
+    },
+    {
+      "id": "c9800c63d944",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:37:02Z",
+      "scraped_at": "2026-08-20T21:37:02Z"
+    },
+    {
+      "id": "1852b48e1a2f",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T21:37:02Z",
       "scraped_at": "2026-08-20T21:37:02Z"
@@ -5173,45 +5283,12 @@
       "scraped_at": "2026-08-20T21:04:41Z"
     },
     {
-      "id": "c21db66e5533",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
+      "id": "a9f42a437e5a",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:04:40Z",
-      "scraped_at": "2026-08-20T21:04:40Z"
-    },
-    {
-      "id": "53bfb3bb1118",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:04:40Z",
-      "scraped_at": "2026-08-20T21:04:40Z"
-    },
-    {
-      "id": "a01adb681181",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T21:04:40Z",
-      "scraped_at": "2026-08-20T21:04:40Z"
-    },
-    {
-      "id": "ad0ebeb4710d",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T21:04:40Z",
       "scraped_at": "2026-08-20T21:04:40Z"
@@ -5228,12 +5305,45 @@
       "scraped_at": "2026-08-20T21:04:40Z"
     },
     {
-      "id": "a9f42a437e5a",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
+      "id": "ad0ebeb4710d",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:04:40Z",
+      "scraped_at": "2026-08-20T21:04:40Z"
+    },
+    {
+      "id": "a01adb681181",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:04:40Z",
+      "scraped_at": "2026-08-20T21:04:40Z"
+    },
+    {
+      "id": "53bfb3bb1118",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T21:04:40Z",
+      "scraped_at": "2026-08-20T21:04:40Z"
+    },
+    {
+      "id": "c21db66e5533",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T21:04:40Z",
       "scraped_at": "2026-08-20T21:04:40Z"
@@ -5283,23 +5393,12 @@
       "scraped_at": "2026-08-20T20:44:24Z"
     },
     {
-      "id": "06738fdf6c37",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T20:44:23Z",
-      "scraped_at": "2026-08-20T20:44:23Z"
-    },
-    {
-      "id": "6200c85eaae1",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
+      "id": "996a5f37a654",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T20:44:23Z",
       "scraped_at": "2026-08-20T20:44:23Z"
@@ -5327,12 +5426,23 @@
       "scraped_at": "2026-08-20T20:44:23Z"
     },
     {
-      "id": "996a5f37a654",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
+      "id": "6200c85eaae1",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
       "location": "Kenya",
       "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T20:44:23Z",
+      "scraped_at": "2026-08-20T20:44:23Z"
+    },
+    {
+      "id": "06738fdf6c37",
+      "title": "AI Engineer (2+ years of Experience)",
+      "company": "RocketDevs",
+      "location": "Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T20:44:23Z",
       "scraped_at": "2026-08-20T20:44:23Z"
@@ -5514,17 +5624,6 @@
       "scraped_at": "2026-08-20T19:49:35Z"
     },
     {
-      "id": "d33eeab5570e",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T19:49:34Z",
-      "scraped_at": "2026-08-20T19:49:34Z"
-    },
-    {
       "id": "79a4ead5ba57",
       "title": "Data Scientist (Fraud)",
       "company": "Moniepoint Group",
@@ -5575,6 +5674,17 @@
       "location": "Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T19:49:34Z",
+      "scraped_at": "2026-08-20T19:49:34Z"
+    },
+    {
+      "id": "d33eeab5570e",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T19:49:34Z",
       "scraped_at": "2026-08-20T19:49:34Z"
@@ -5679,17 +5789,6 @@
       "scraped_at": "2026-08-20T23:37:07Z"
     },
     {
-      "id": "502681af3e14",
-      "title": "Entry Level DevOps Engineer (Remote)",
-      "company": "Cognizant",
-      "location": "La Cienga, Santa Fe County",
-      "salary": "$114,484 - $114,484",
-      "url": "https://www.adzuna.com/land/ad/5850172005?se=tGK_Lfic8RGhArhxtbtVlg&utm_medium=api&utm_source=3f1b011b&v=11079A67FDA5447E35C66048BD51EB9586FD0567",
-      "source": "Adzuna-US",
-      "posted_date": "2026-08-20T19:28:29Z",
-      "scraped_at": "2026-08-21T00:35:16Z"
-    },
-    {
       "id": "bd0eb1b9559e",
       "title": "Entry Level DevOps Engineer (Remote)",
       "company": "Cognizant",
@@ -5710,6 +5809,17 @@
       "source": "Adzuna-US",
       "posted_date": "2026-08-20T19:28:29Z",
       "scraped_at": "2026-08-20T23:55:11Z"
+    },
+    {
+      "id": "502681af3e14",
+      "title": "Entry Level DevOps Engineer (Remote)",
+      "company": "Cognizant",
+      "location": "La Cienga, Santa Fe County",
+      "salary": "$114,484 - $114,484",
+      "url": "https://www.adzuna.com/land/ad/5850172005?se=tGK_Lfic8RGhArhxtbtVlg&utm_medium=api&utm_source=3f1b011b&v=11079A67FDA5447E35C66048BD51EB9586FD0567",
+      "source": "Adzuna-US",
+      "posted_date": "2026-08-20T19:28:29Z",
+      "scraped_at": "2026-08-21T00:35:16Z"
     },
     {
       "id": "c4495c26f652",
@@ -5844,28 +5954,6 @@
       "scraped_at": "2026-08-20T18:52:17Z"
     },
     {
-      "id": "13634a873f4d",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:52:16Z",
-      "scraped_at": "2026-08-20T18:52:16Z"
-    },
-    {
-      "id": "76f271067379",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:52:16Z",
-      "scraped_at": "2026-08-20T18:52:16Z"
-    },
-    {
       "id": "72620c5798a6",
       "title": "AI Engineer (2+ years of Experience)",
       "company": "RocketDevs",
@@ -5894,6 +5982,28 @@
       "location": "Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:52:16Z",
+      "scraped_at": "2026-08-20T18:52:16Z"
+    },
+    {
+      "id": "76f271067379",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:52:16Z",
+      "scraped_at": "2026-08-20T18:52:16Z"
+    },
+    {
+      "id": "13634a873f4d",
+      "title": "AI Engineer (India, China)",
+      "company": "Standard Chartered",
+      "location": "Technology, Nakuru, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T18:52:16Z",
       "scraped_at": "2026-08-20T18:52:16Z"
@@ -5965,56 +6075,23 @@
       "scraped_at": "2026-08-20T22:48:57Z"
     },
     {
-      "id": "4d7d6f19bb63",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:04:11Z",
-      "scraped_at": "2026-08-20T18:04:11Z"
-    },
-    {
-      "id": "1775655690d1",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:04:11Z",
-      "scraped_at": "2026-08-20T18:04:11Z"
-    },
-    {
-      "id": "77edfc1ce4e4",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:04:11Z",
-      "scraped_at": "2026-08-20T18:04:11Z"
-    },
-    {
-      "id": "f53fb8cd704f",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T18:04:11Z",
-      "scraped_at": "2026-08-20T18:04:11Z"
-    },
-    {
       "id": "0a90dbbe4800",
       "title": "AI Engineer (2+ years of Experience)",
       "company": "RocketDevs",
       "location": "Nairobi County, Kenya",
       "salary": "",
       "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:04:11Z",
+      "scraped_at": "2026-08-20T18:04:11Z"
+    },
+    {
+      "id": "39cdc37b1497",
+      "title": "Machine Learning Engineer",
+      "company": "CSI GLOBAL LTD",
+      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "salary": "",
+      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T18:04:11Z",
       "scraped_at": "2026-08-20T18:04:11Z"
@@ -6031,12 +6108,45 @@
       "scraped_at": "2026-08-20T18:04:11Z"
     },
     {
-      "id": "39cdc37b1497",
-      "title": "Machine Learning Engineer",
-      "company": "CSI GLOBAL LTD",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+      "id": "1775655690d1",
+      "title": "Data Scientist (Fraud)",
+      "company": "Moniepoint Group",
+      "location": "Kenya",
       "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
+      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:04:11Z",
+      "scraped_at": "2026-08-20T18:04:11Z"
+    },
+    {
+      "id": "f53fb8cd704f",
+      "title": "Senior Team Lead, AI Engineering",
+      "company": "Deel",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:04:11Z",
+      "scraped_at": "2026-08-20T18:04:11Z"
+    },
+    {
+      "id": "77edfc1ce4e4",
+      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
+      "company": "IgniteTech",
+      "location": "Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
+      "source": "LinkedIn",
+      "posted_date": "2026-08-20T18:04:11Z",
+      "scraped_at": "2026-08-20T18:04:11Z"
+    },
+    {
+      "id": "4d7d6f19bb63",
+      "title": "Data Engineer",
+      "company": "CloudFactory",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "salary": "",
+      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
       "source": "LinkedIn",
       "posted_date": "2026-08-20T18:04:11Z",
       "scraped_at": "2026-08-20T18:04:11Z"
@@ -6084,116 +6194,6 @@
       "source": "LinkedIn",
       "posted_date": "2026-08-20T18:04:05Z",
       "scraped_at": "2026-08-20T18:04:05Z"
-    },
-    {
-      "id": "638939e9a3be",
-      "title": "Principal Design Systems Engineer (Remote)",
-      "company": "Atlassian",
-      "location": "Australia",
-      "salary": "$180 - $240",
-      "url": "https://www.adzuna.com.au/details/5849359717?utm_medium=api&utm_source=3f1b011b",
-      "source": "Adzuna-AU",
-      "posted_date": "2026-08-20T17:47:40Z",
-      "scraped_at": "2026-08-20T14:35:10Z"
-    },
-    {
-      "id": "8a606c0cb845",
-      "title": "AI Engineer (India, China)",
-      "company": "Standard Chartered",
-      "location": "Technology, Nakuru, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-india-china-at-standard-chartered-4454240736",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "9f22bfc5623b",
-      "title": "Senior Team Lead, AI Engineering",
-      "company": "Deel",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/senior-team-lead-ai-engineering-at-deel-4453888334",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "e24497087751",
-      "title": "Principal Full Stack Engineer – AI Systems & Engineering Automation",
-      "company": "IgniteTech",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/principal-full-stack-engineer-%E2%80%93-ai-systems-engineering-automation-at-ignitetech-4445986228",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "78f8628000a9",
-      "title": "AI Engineer (2+ years of Experience)",
-      "company": "RocketDevs",
-      "location": "Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/ai-engineer-2%2B-years-of-experience-at-rocketdevs-4454505651",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "a96397ca4336",
-      "title": "Data Scientist (Fraud)",
-      "company": "Moniepoint Group",
-      "location": "Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-scientist-fraud-at-moniepoint-group-4446439594",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "a61db1225387",
-      "title": "Data Engineer",
-      "company": "CloudFactory",
-      "location": "Nairobi, Nairobi County, Kenya",
-      "salary": "",
-      "url": "https://ke.linkedin.com/jobs/view/data-engineer-at-cloudfactory-4455343952",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "0c1a05ef776b",
-      "title": "Machine Learning Engineer",
-      "company": "CSI GLOBAL LTD",
-      "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/machine-learning-engineer-at-csi-global-ltd-4456714099",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:36Z",
-      "scraped_at": "2026-08-20T17:45:36Z"
-    },
-    {
-      "id": "e7b262e8bf53",
-      "title": "Risk & Analytics Quantitative Analyst",
-      "company": "BBVA Global Wealth Advisors",
-      "location": "Miami, FL",
-      "salary": "",
-      "url": "https://www.linkedin.com/jobs/view/risk-analytics-quantitative-analyst-at-bbva-global-wealth-advisors-4453587960",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:35Z",
-      "scraped_at": "2026-08-20T17:45:35Z"
-    },
-    {
-      "id": "7b9a8b624a2c",
-      "title": "Software Engineer - ElectronJS, Desktop (Remote)",
-      "company": "Hire Feed",
-      "location": "United Arab Emirates",
-      "salary": "",
-      "url": "https://ae.linkedin.com/jobs/view/software-engineer-electronjs-desktop-remote-at-hire-feed-4456458341",
-      "source": "LinkedIn",
-      "posted_date": "2026-08-20T17:45:31Z",
-      "scraped_at": "2026-08-20T17:45:31Z"
     }
   ]
 }
